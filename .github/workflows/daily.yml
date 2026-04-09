@@ -1,0 +1,41 @@
+name: Daily IC Feed Update
+
+on:
+  schedule:
+    # Runs at 02:00 UTC daily (5am Israel time)
+    - cron: "0 2 * * *"
+  workflow_dispatch:  # allows manual trigger from GitHub UI
+
+permissions:
+  contents: write  # needed to commit seen.json + index.html back
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run fetch script
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM:     ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO:       ${{ secrets.EMAIL_TO }}
+        run: python fetch_papers.py
+
+      - name: Commit updated files
+        run: |
+          git config user.name  "ic-feed-bot"
+          git config user.email "bot@ic-feed"
+          git add index.html seen.json papers.json
+          git diff --staged --quiet || git commit -m "chore: daily feed update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
