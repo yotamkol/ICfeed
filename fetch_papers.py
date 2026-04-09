@@ -770,7 +770,7 @@ def render_html(papers: list[dict]) -> str:
 <header>
   <div class="header-left">
     <div class="logo">IC Feed</div>
-    <div class="logo-sub">Your daily IC reading list</div>
+    <div class="logo-sub">For those who didn't get into EP</div>
     <div class="last-updated">Last updated {updated}</div>
   </div>
   <div class="header-right">
