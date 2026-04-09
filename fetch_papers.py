@@ -980,7 +980,7 @@ def send_email(papers: list[dict]):
     date_str = datetime.now(timezone.utc).strftime("%b %d")
     payload = {
         "from": EMAIL_FROM,
-        "to":   [EMAIL_TO],
+        "to":   [e.strip() for e in EMAIL_TO.split(",") if e.strip()],
         "subject": f"IC Feed — {len(papers)} new papers ({date_str})",
         "html": build_email_html(papers),
     }
