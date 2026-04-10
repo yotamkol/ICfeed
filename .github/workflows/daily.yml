@@ -2,8 +2,8 @@ name: Daily IC Feed Update
 
 on:
   schedule:
-    # Runs at 02:00 UTC daily (5am Israel time)
-    - cron: "0 2 * * *"
+    # Runs at 00:00 UTC daily (3am Israel time, with delays should arrive by ~5am)
+    - cron: "0 0 * * *"
   workflow_dispatch:  # allows manual trigger from GitHub UI
 
 permissions:
