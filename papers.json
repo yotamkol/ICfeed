@@ -1,5 +1,56 @@
 [
   {
+    "title": "[Articles] Aspirin versus clopidogrel for chronic maintenance monotherapy after percutaneous coronary intervention: 10-year follow-up of the HOST-EXAM trial",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00422-8/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)00422-8",
+    "journal": "Lancet",
+    "date": "Apr 10, 2026",
+    "date_ts": 1775795684.579967,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Articles] Deferral of percutaneous coronary intervention in patients undergoing transcatheter aortic valve implantation (PRO-TAVI): an investigator-initiated, multicentre, open-label, non-inferiority, randomised controlled trial",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00308-9/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)00308-9",
+    "journal": "Lancet",
+    "date": "Apr 10, 2026",
+    "date_ts": 1775795684.579928,
+    "tags": [
+      "PCI",
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Comment] Moving beyond aspirin after percutaneous coronary intervention: 10-year results from the HOST-EXAM trial",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00562-3/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)00562-3",
+    "journal": "Lancet",
+    "date": "Apr 10, 2026",
+    "date_ts": 1775795684.579701,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Comment] Coronary revascularisation before TAVI",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00597-0/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)00597-0",
+    "journal": "Lancet",
+    "date": "Apr 10, 2026",
+    "date_ts": 1775795684.579639,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Computed tomography angiography-derived microvascular resistance: is less always more?",
     "link": "https://doi.org/10.4244/eij-d-25-01153",
     "doi": "10.4244/eij-d-25-01153",
