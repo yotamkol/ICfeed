@@ -798,7 +798,7 @@ def render_html(papers: list[dict]) -> str:
 </div>
 
 <footer>
-  &copy; {datetime.now().year} Yotam Kolben. All rights reserved.
+  Created by Yotam Kolben &copy; {datetime.now().year}. All rights reserved.
 </footer>
 
 <button class="scroll-top" id="scroll-top-btn" onclick="window.scrollTo({{top:0,behavior:'smooth'}})">&#8593;</button>
