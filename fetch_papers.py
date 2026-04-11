@@ -981,23 +981,28 @@ def send_email(papers: list[dict]):
     if not RESEND_API_KEY or not EMAIL_TO:
         print("[info] No RESEND_API_KEY or EMAIL_TO set, skipping email.", file=sys.stderr)
         return
-    date_str = datetime.now(timezone.utc).strftime("%b %d")
-    payload = {
-        "from": EMAIL_FROM,
-        "to":   [e.strip() for e in EMAIL_TO.split(",") if e.strip()],
-        "subject": f"IC Feed — {len(papers)} new papers ({date_str})",
-        "html": build_email_html(papers),
-    }
-    resp = requests.post(
-        "https://api.resend.com/emails",
-        headers={"Authorization": f"Bearer {RESEND_API_KEY}", "Content-Type": "application/json"},
-        json=payload,
-        timeout=15,
-    )
-    if resp.status_code == 200:
-        print(f"[info] Email sent to {EMAIL_TO}")
-    else:
-        print(f"[warn] Email failed: {resp.status_code} {resp.text}", file=sys.stderr)
+    try:
+        date_str = datetime.now(timezone.utc).strftime("%b %d")
+        recipients = [e.strip() for e in EMAIL_TO.split(",") if e.strip()]
+        print(f"[info] Sending to {len(recipients)} recipient(s)...")
+        payload = {
+            "from": EMAIL_FROM,
+            "to":   recipients,
+            "subject": f"IC Feed — {len(papers)} new papers ({date_str})",
+            "html": build_email_html(papers),
+        }
+        resp = requests.post(
+            "https://api.resend.com/emails",
+            headers={"Authorization": f"Bearer {RESEND_API_KEY}", "Content-Type": "application/json"},
+            json=payload,
+            timeout=15,
+        )
+        if resp.status_code == 200:
+            print(f"[info] Email sent to {EMAIL_TO}")
+        else:
+            print(f"[warn] Email failed: {resp.status_code} {resp.text}", file=sys.stderr)
+    except Exception as e:
+        print(f"[error] Email exception: {e}", file=sys.stderr)
 
 
 # ─────────────────────────────────────────────
