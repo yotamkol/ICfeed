@@ -997,12 +997,13 @@ def send_email(papers: list[dict]):
             json=payload,
             timeout=15,
         )
+        print(f"[info] Resend response: {resp.status_code}")
         if resp.status_code == 200:
             print(f"[info] Email sent to {EMAIL_TO}")
         else:
-            print(f"[warn] Email failed: {resp.status_code} {resp.text}", file=sys.stderr)
+            print(f"[warn] Email failed: {resp.status_code} {resp.text}")
     except Exception as e:
-        print(f"[error] Email exception: {e}", file=sys.stderr)
+        print(f"[error] Email exception: {e}")
 
 
 # ─────────────────────────────────────────────
