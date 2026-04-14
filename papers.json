@@ -1,5 +1,102 @@
 [
   {
+    "title": "Impact of renal function on edoxaban antithrombotic therapy in patients with atrial fibrillation and stable coronary artery disease: a prespecified analysis of the EPIC-CAD trial",
+    "link": "https://doi.org/10.4244/eij-d-25-01274",
+    "doi": "10.4244/eij-d-25-01274",
+    "journal": "EuroIntervention",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "No antithrombotic therapy versus single antiplatelet therapy after percutaneous left atrial appendage closure in non-valvular atrial fibrillation: rationale and design of the multicentre, randomised, non-inferiority NAPT-LAAC trial",
+    "link": "https://doi.org/10.4244/eij-d-25-01307",
+    "doi": "10.4244/eij-d-25-01307",
+    "journal": "EuroIntervention",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "Structural",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Reply: Transcatheter paravalvular leak closure &amp;ndash; insights on selection criteria, imaging, and comparative outcomes",
+    "link": "https://doi.org/10.4244/eij-d-26-00147",
+    "doi": "10.4244/eij-d-26-00147",
+    "journal": "EuroIntervention",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Aortic regurgitation: can transcatheter therapies deliver what we need?",
+    "link": "https://doi.org/10.4244/eij-d-25-01191",
+    "doi": "10.4244/eij-d-25-01191",
+    "journal": "EuroIntervention",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Letter: Transcatheter paravalvular leak closure &amp;ndash; insights on selection criteria, imaging, and comparative outcomes",
+    "link": "https://doi.org/10.4244/eij-d-26-00101",
+    "doi": "10.4244/eij-d-26-00101",
+    "journal": "EuroIntervention",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Stable coronary patients with atrial fibrillation: when the kidneys tip the balance",
+    "link": "https://doi.org/10.4244/eij-d-26-00300",
+    "doi": "10.4244/eij-d-26-00300",
+    "journal": "EuroIntervention",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Electrosurgical laceration and stabilisation of tricuspid edge-to-edge repair: the ELASTA-T technique",
+    "link": "https://doi.org/10.4244/eij-d-25-01316",
+    "doi": "10.4244/eij-d-25-01316",
+    "journal": "EuroIntervention",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of device implantation depth on blood flow dynamics after left atrial appendage closure",
+    "link": "https://doi.org/10.4244/eij-d-25-01328",
+    "doi": "10.4244/eij-d-25-01328",
+    "journal": "EuroIntervention",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Stentless Revascularization of Spontaneous Coronary Dissection Using a Cutting Balloon",
     "link": "https://doi.org/10.25270/jic/25.00212",
     "doi": "10.25270/jic/25.00212",
@@ -5943,103 +6040,6 @@
     "journal": "Catheter Cardiovasc Interv",
     "date": "Apr 03, 2026",
     "date_ts": 1775207129.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "An Old Problem, an Old Device, but Perhaps a New Indication? Intra\u2010Aortic Balloon Counterpulsation for Intracoronary Thrombus",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70602?af=R",
-    "doi": "10.1002/ccd.70602",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 03, 2026",
-    "date_ts": 1775192430.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Differential Predictors of Severe Versus Milder Radial Artery Spasm: Insights From a Large Contemporary Distal Radial Access Cohort",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70598?af=R",
-    "doi": "10.1002/ccd.70598",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 03, 2026",
-    "date_ts": 1775192312.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prognostic Impact of Baseline Anemia on Outcomes After Elective PCI in Men: A US Retrospective Cohort Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70583?af=R",
-    "doi": "10.1002/ccd.70583",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 03, 2026",
-    "date_ts": 1775188867.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Is Transient Ischemic Dilatation a Marker or a Mechanism of Recovery After CTO\u2010PCI?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70605?af=R",
-    "doi": "10.1002/ccd.70605",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 03, 2026",
-    "date_ts": 1775187959.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cardiac rehabilitation after transcatheter aortic valve implantation before, during and after the COVID-19 pandemic: a whole-population study",
-    "link": "https://doi.org/10.1136/heartjnl-2025-327186",
-    "doi": "10.1136/heartjnl-2025-327186",
-    "journal": "Heart (BMJ)",
-    "date": "Apr 03, 2026",
-    "date_ts": 1775174400.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Mechanical Circulatory Support Use in Chronic Total Occlusion Percutaneous Coronary Intervention: A Systematic Review",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70589?af=R",
-    "doi": "10.1002/ccd.70589",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775131430.0,
-    "tags": [
-      "PCI",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Around and Through: Successful Mitral Paravalvular Leakage Closure Using Both Anterograde and Retrograde Approaches",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70604?af=R",
-    "doi": "10.1002/ccd.70604",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775131301.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hypotension During Chronic Total Occlusion Recanalization",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70593?af=R",
-    "doi": "10.1002/ccd.70593",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775131261.0,
     "tags": [
       "PCI"
     ],
