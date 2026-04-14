@@ -242,6 +242,13 @@ def fetch_crossref_papers(seen: set) -> list[dict]:
                 link = f"https://doi.org/{doi}"
                 if link in seen:
                     continue
+                # Skip papers whose DOI page isn't live yet (will retry next run)
+                try:
+                    check = requests.head(link, allow_redirects=True, timeout=8)
+                    if check.status_code == 404:
+                        continue
+                except Exception:
+                    pass
                 titles = item.get("title", [])
                 if not titles:
                     continue
