@@ -1,5 +1,149 @@
 [
   {
+    "title": "Weekly Journal Scan: a long-term perspective on physiology-guided percutaneous coronary intervention vs medical therapy in patients with chronic coronary syndrome",
+    "link": "https://doi.org/10.1093/eurheartj/ehag261",
+    "doi": "10.1093/eurheartj/ehag261",
+    "journal": "European Heart Journal",
+    "date": "Apr 16, 2026",
+    "date_ts": 1776297600.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Closure of symptomatic mitral paravalvular leak following recent transcatheter mitral valve-in-ring",
+    "link": "https://doi.org/10.25270/jic/26.00050",
+    "doi": "10.25270/jic/26.00050",
+    "journal": "J Invasive Cardiology",
+    "date": "Apr 15, 2026",
+    "date_ts": 1776211200.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardioprotection with intravenous statin administration during myocardial infarction vs. oral preloading: a preclinical study",
+    "link": "https://doi.org/10.1093/eurheartj/ehag269",
+    "doi": "10.1093/eurheartj/ehag269",
+    "journal": "European Heart Journal",
+    "date": "Apr 15, 2026",
+    "date_ts": 1776211200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous Stenting of LVAD Outflow Graft Obstruction: A Multimodality Imaging Case Series",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70627?af=R",
+    "doi": "10.1002/ccd.70627",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 14, 2026",
+    "date_ts": 1776160439.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Malposition of a Port Catheter in the Azygos Vein: Endovascular Repositioning Using a Long Loop Snare Technique",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70618?af=R",
+    "doi": "10.1002/ccd.70618",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 14, 2026",
+    "date_ts": 1776152830.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Unmasking the true culprit in ST-segment elevation myocardial infarction with coronary artery aneurysm",
+    "link": "https://doi.org/10.25270/jic/26.00086",
+    "doi": "10.25270/jic/26.00086",
+    "journal": "J Invasive Cardiology",
+    "date": "Apr 13, 2026",
+    "date_ts": 1776038400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transcatheter treatment of a large saphenous vein graft aneurysm",
+    "link": "https://doi.org/10.25270/jic/26.00075",
+    "doi": "10.25270/jic/26.00075",
+    "journal": "J Invasive Cardiology",
+    "date": "Apr 13, 2026",
+    "date_ts": 1776038400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The impact of clinical presentation on one-year major adverse cardiac events in patients with angiographically defined moderate to severe calcified coronary artery disease",
+    "link": "https://doi.org/10.25270/jic/26.00022",
+    "doi": "10.25270/jic/26.00022",
+    "journal": "J Invasive Cardiology",
+    "date": "Apr 13, 2026",
+    "date_ts": 1776038400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Single-device large-bore thrombectomy for combined pulmonary embolism and iliac vein thrombosis treatment",
+    "link": "https://doi.org/10.25270/jic/26.00082",
+    "doi": "10.25270/jic/26.00082",
+    "journal": "J Invasive Cardiology",
+    "date": "Apr 09, 2026",
+    "date_ts": 1775692800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Block the bleed: management of coronary perforation using a single 7F guide catheter",
+    "link": "https://doi.org/10.25270/jic/26.00088",
+    "doi": "10.25270/jic/26.00088",
+    "journal": "J Invasive Cardiology",
+    "date": "Apr 09, 2026",
+    "date_ts": 1775692800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Thrombus migration from the left circumflex to the distal left anterior descending artery during primary percutaneous coronary intervention: an unexpected complication",
+    "link": "https://doi.org/10.25270/jic/26.00095",
+    "doi": "10.25270/jic/26.00095",
+    "journal": "J Invasive Cardiology",
+    "date": "Apr 09, 2026",
+    "date_ts": 1775692800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Catastrophic right coronary artery dissection after surgical removal of coronary chimney stents following valve-in-valve transcatheter aortic valve implantation",
+    "link": "https://doi.org/10.25270/jic/26.00074",
+    "doi": "10.25270/jic/26.00074",
+    "journal": "J Invasive Cardiology",
+    "date": "Apr 07, 2026",
+    "date_ts": 1775520000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "A Randomized, Placebo-Controlled Trial of Chronic Total Occlusion Percutaneous Coronary Intervention in Stable Angina - ORBITA-CTO",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726057451?dgcid=rss_sd_all",
     "doi": null,
@@ -5900,150 +6044,6 @@
     "date_ts": 1775760494.499651,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Management and Outcome of Failed Transcatheter Tricuspid Edge-to-Edge Repair: Insights From the FATE International Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005194?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499619,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "If at First You Don\u2019t Succeed\u2014Tri, Tri Again",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005145?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499587,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prognostic Value of Microvascular Resistance Reserve in Coronary Artery Disease: A Systematic Review and Meta-Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006539?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499555,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Microvascular Resistance Reserve: Time to Stop Resisting?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005753?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499527,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Core Laboratory Comparison of Angiography-Derived Indexes of Microvascular Resistance vs Pressure-Wire IMR and Absolute Resistance",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982502686X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499493,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Angiography-Derived Microvascular Resistance: Elegant Theory, Elusive Accuracy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005728?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.49946,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Association of Low Alanine Aminotransferase Levels and Outcomes in Patients Undergoing Tricuspid Valve Edge-to-Edge Repair",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005765?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499426,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Dynamic Cardiac CT Flow Analysis of Biventricular Function and Remodeling After Transcatheter Tricuspid Valve Replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826003882?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499395,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Coping With Complications in the Catheterization Laboratory: A Step-by-Step Approach",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006552?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499364,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Steerable Catheter Repositioning of a Pacemaker Lead Loop to Enable Tricuspid Edge-to-Edge Repair",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600659X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499333,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Tricuspid Valve-in-Ring Implantation Using Gore-Tex Enhanced Reinforcement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006588?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499299,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bedside Correction of Impella Malrotation to Resolve Mechanical Hemolysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006576?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.49925,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
