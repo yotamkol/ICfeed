@@ -1,5 +1,29 @@
 [
   {
+    "title": "Sirolimus-Eluting Balloon vs Repeat Drug-Eluting Stent or Balloon Angioplasty for Coronary In-Stent Restenosis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726057220?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Apr 17, 2026",
+    "date_ts": 1776394445.059416,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "First Validation of the \u201cBite\u2010In\u201d Technique for Retrograde Chronic Total Occlusion Revascularization",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70594?af=R",
+    "doi": "10.1002/ccd.70594",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 16, 2026",
+    "date_ts": 1776322512.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Weekly Journal Scan: a long-term perspective on physiology-guided percutaneous coronary intervention vs medical therapy in patients with chronic coronary syndrome",
     "link": "https://doi.org/10.1093/eurheartj/ehag261",
     "doi": "10.1093/eurheartj/ehag261",
@@ -6018,30 +6042,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "Apr 09, 2026",
     "date_ts": 1775760494.499719,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Incidence, Predictors and Outcomes of Bleeding Following Transcatheter Tricuspid Valve Repair: The TriValve Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600573X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499688,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bleeding Following Transcatheter Tricuspid Valve Repair in the TriValve Registry: \u201cIf You Prick Us, Do We Not Bleed?\u201d (William Shakespeare, <em>The Merchant of Venice</em>)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005777?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499651,
     "tags": [
       "Structural"
     ],
