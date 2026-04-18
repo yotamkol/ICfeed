@@ -1,5 +1,17 @@
 [
   {
+    "title": "Eicosapentaenoic acid ethyl ester, cardiac metabolomic and lipidomic signatures, and cardioprotection in myocardial infarction",
+    "link": "https://doi.org/10.1093/eurheartj/ehag187",
+    "doi": "10.1093/eurheartj/ehag187",
+    "journal": "European Heart Journal",
+    "date": "Apr 17, 2026",
+    "date_ts": 1776384000.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Sirolimus-Eluting Balloon vs Repeat Drug-Eluting Stent or Balloon Angioplasty for Coronary In-Stent Restenosis",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726057220?dgcid=rss_sd_all",
     "doi": null,
@@ -6030,18 +6042,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "Apr 09, 2026",
     "date_ts": 1775760494.499748,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hemodynamic Instability Following Transcatheter Tricuspid Valve Replacement: Red Alert",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005169?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499719,
     "tags": [
       "Structural"
     ],
