@@ -1,5 +1,66 @@
 [
   {
+    "title": "Precise Stent Deployment on the Left Main Coronary Artery in Emergency Percutaneous Coronary Intervention",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006989?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776568770.645028,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pedal Loop Reconstruction Using Laser Atherectomy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600899X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776568770.644995,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transjugular Leadless Pacemaker Implantation in a Patient With Bicaval Valve Prostheses",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007703?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776568770.64495,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Achieving Commissural Alignment During Intra-Annular Self-Expandable Transcatheter Heart Valve Implantation With a Radiopaque Marker\u2013Guided Technique",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007697?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776568770.644897,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Antiplatelet Management After PCI With Drug-Coated Balloon: Focusing on the Finger and Not the Stars",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009015?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776568770.644703,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
     "title": "Eicosapentaenoic acid ethyl ester, cardiac metabolomic and lipidomic signatures, and cardioprotection in myocardial infarction",
     "link": "https://doi.org/10.1093/eurheartj/ehag187",
     "doi": "10.1093/eurheartj/ehag187",
@@ -5984,66 +6045,6 @@
     "date_ts": 1775760494.499899,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Tricuspid Valve Intervention Risk Scores: Assessment in an International Multicenter Cohort",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005133?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499869,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Risk Prediction in Transcatheter Tricuspid Valve Intervention: Aiming at a Moving Target",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005170?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.49984,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Incidence, Clinical Implications, and Predictors of Paravalvular Leak Following Transcatheter Tricuspid Valve Replacement: The TRIPLACE Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005157?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.49981,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Paravalvular Leak in TTVR: A Failure of the Valve\u2014or of the Strategy?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005741?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499779,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Frequency and Outcomes of Acute Hemodynamic Instability Following Transcatheter Tricuspid Valve Replacement: Insights From the CESAR-TR-Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005182?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.499748,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
