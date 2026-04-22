@@ -1,5 +1,17 @@
 [
   {
+    "title": "Comparative Outcomes of Transcatheter Edge\u2010to\u2010Edge Repair and Surgical Mitral Valve Repair or Replacement for Degenerative Mitral Regurgitation: A Systematic Review, Meta\u2010Analysis, and Trial Sequential Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70592?af=R",
+    "doi": "10.1002/ccd.70592",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 20, 2026",
+    "date_ts": 1776709502.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Potential Alternative Mechanism of HydroDynamic Contrast Recanalization in Complete Total Occlusion Seen on DeepOCT+NIRS Imaging",
     "link": "https://doi.org/10.25270/jic/26.00047",
     "doi": "10.25270/jic/26.00047",
@@ -6028,18 +6040,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "Apr 09, 2026",
     "date_ts": 1775760494.500206,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Making Radiation Visible: Real-Time Detection of Scatter Radiation Leaks While Using Enhanced Radiation Protection Systems",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826004516?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500175,
     "tags": [
       "Other"
     ],
