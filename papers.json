@@ -1,5 +1,125 @@
 [
   {
+    "title": "Correction to \u201cMicrocatheter Tip Fracture and Acute Vessel Occlusion Rescued With Subintimal Tracking and Re\u2010Entry: Move the Tip\u201d",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70630?af=R",
+    "doi": "10.1002/ccd.70630",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 22, 2026",
+    "date_ts": 1776841867.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Antiplatelet Therapy After CABG\u2014Toward a Mechanistic Approach",
+    "link": "https://doi.org/10.1001/jamacardio.2026.0840",
+    "doi": "10.1001/jamacardio.2026.0840",
+    "journal": "JAMA Cardiology",
+    "date": "Apr 22, 2026",
+    "date_ts": 1776816000.0,
+    "tags": [
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Early Rule Out of Myocardial Infarction With a Novel High-Sensitivity Cardiac Troponin T Assay",
+    "link": "https://doi.org/10.1001/jamacardio.2026.0477",
+    "doi": "10.1001/jamacardio.2026.0477",
+    "journal": "JAMA Cardiology",
+    "date": "Apr 22, 2026",
+    "date_ts": 1776816000.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pre\u2010Existing and New\u2010Onset Atrial Fibrillation in Patients Undergoing Transcatheter Aortic Valve Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70632?af=R",
+    "doi": "10.1002/ccd.70632",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776797143.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Endothelial Activation and Stress Index (EASIX) as a Predictor of No\u2010Reflow in Patients Undergoing Saphenous Vein Graft Percutaneous Coronary Intervention",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70637?af=R",
+    "doi": "10.1002/ccd.70637",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776796449.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Analysis of Long\u2010Term Effects of Percutaneous Balloon Mitral Valvotomy (PBMV) in 90 Patients With Rheumatic Mitral Stenosis: A Retrospective Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70576?af=R",
+    "doi": "10.1002/ccd.70576",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776795930.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transcatheter Repair of Sinus Venosus Defect Using a 12\u2010zig Covered Cheatham\u2010Platinum Stent in Large Superior Vena Cava\u2014Right Atrium Junctions: Early Multicenter Experience",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70623?af=R",
+    "doi": "10.1002/ccd.70623",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776795864.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparing Clinical Outcomes of Intravascular Lithotripsy Versus Rotational Atherectomy in Coronary Artery Calcification: A Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70621?af=R",
+    "doi": "10.1002/ccd.70621",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776795643.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Influence of the Residual Gensini Score on Prognosis of Patients With ST\u2010Elevation Myocardial Infarction",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70633?af=R",
+    "doi": "10.1002/ccd.70633",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776795401.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Association of Proximal Neck Angulation and Diameter With Endoleak After Endovascular Aneurysm Repair of Abdominal Aortic Aneurysms",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70581?af=R",
+    "doi": "10.1002/ccd.70581",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776794582.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Comparative Outcomes of Transcatheter Edge\u2010to\u2010Edge Repair and Surgical Mitral Valve Repair or Replacement for Degenerative Mitral Regurgitation: A Systematic Review, Meta\u2010Analysis, and Trial Sequential Analysis",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70592?af=R",
     "doi": "10.1002/ccd.70592",
@@ -5922,126 +6042,6 @@
     "date_ts": 1775760494.500536,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "After Mitral TEER: Look to the Right and Listen to the Rhythm",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031929?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500508,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Edge-to-Edge Repair for SAM-Related Mitral Regurgitation in Patients With HCM: The TRANSPARENT Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825025919?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500477,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clip It and Open It: Is Mitral Transcatheter Edge-to-Edge Repair a Game-Changer in Obstructive Hypertrophic Cardiomyopathy?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825026986?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500447,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Predictors of Left Atrial Compliance and V-Wave Response in Patients Undergoing Transcatheter Mitral Valve Therapy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031966?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500418,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "From the Catheterization Laboratory, Echocardiographic Laboratory, and Human Resources: <em>Compliance</em> Always Matters!",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005236?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500387,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Predicting Outcomes in Patients With Tricuspid Regurgitation Undergoing Transcatheter Edge-to-Edge Repair Using an Artificial Intelligence\u2013Derived Risk Score: The EuroTR Risk Score",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031917?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500345,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The EuroTR Score: Predicting Outcomes After Transcatheter Tricuspid Edge-to-Edge Repair",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825034041?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500314,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Coronary Plaque and Physiological Characteristics in ACS Risk Assessment According to Lesion Count",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825028304?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500264,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "More Than a Symptom: Peripheral Edema as a Prognostic Marker in Tricuspid Regurgitation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031978?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500236,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hybrid Transcatheter Closure of Giant Postinfarction Left Ventricular Rupture Using 3D-Guided Planning",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031887?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500206,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
