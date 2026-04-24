@@ -1,5 +1,77 @@
 [
   {
+    "title": "Focal and Diffuse Coronary Artery Disease Patterns and Placebo-Controlled Angina Relief With Percutaneous Coronary Intervention: ORBITA-2",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726057323?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Apr 24, 2026",
+    "date_ts": 1776999470.58549,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Beta-Blockers after Myocardial Infarction with Normal Ejection Fraction",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2602963?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2602963",
+    "journal": "NEJM",
+    "date": "Apr 24, 2026",
+    "date_ts": 1776999470.495773,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Evacuation of a Large Intracardiac Thrombus at Cavoatrial Junction Using a Coaxial Aspiration System Through an \u014cN\u014c Retrieval Device in a Pediatric Patient",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70638?af=R",
+    "doi": "10.1002/ccd.70638",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 23, 2026",
+    "date_ts": 1776916786.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Plaque Eccentricity on the Diagnostic Performance of Murray\u2010Law Based Quantitative Flow Ratio Computed From a Single Angiographic View",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70642?af=R",
+    "doi": "10.1002/ccd.70642",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 23, 2026",
+    "date_ts": 1776916445.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transapical TAVI in Left Ventricular Apical Aneurysm",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70641?af=R",
+    "doi": "10.1002/ccd.70641",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 23, 2026",
+    "date_ts": 1776915616.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of End\u2010Stage Renal Disease on Outcomes of Rotational Atherectomy\u2010Assisted Percutaneous Coronary Interventions: Insights From a National Inpatient Cohort",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70636?af=R",
+    "doi": "10.1002/ccd.70636",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 22, 2026",
+    "date_ts": 1776853537.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Correction to \u201cMicrocatheter Tip Fracture and Acute Vessel Occlusion Rescued With Subintimal Tracking and Re\u2010Entry: Move the Tip\u201d",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70630?af=R",
     "doi": "10.1002/ccd.70630",
@@ -5970,78 +6042,6 @@
     "date_ts": 1775760494.500725,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Coronary Intervention for Stent Thrombosis: An Endless Story?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826003900?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500697,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Impact of Diabetes Mellitus After Intravascular Imaging\u2013Guided PCI vs Coronary Artery Bypass Grafting",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031930?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500655,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A New Era for Imaging-Guided Optimization of PCI",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600525X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500627,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intravascular Lithotripsy or Mechanical Debulking in Complex Calcified Coronary Arteries: Multicenter, Prospective ROLLING STONE Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031905?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500596,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Plaque Removal or Modification (or Both) Among Complex Calcific Coronary Artery Lesions",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005224?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500567,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial Fibrillation and Tricuspid Regurgitation in Patients Undergoing Mitral Valve Transcatheter Edge-to-Edge Repair",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825027013?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500536,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
