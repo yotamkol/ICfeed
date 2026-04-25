@@ -1,5 +1,114 @@
 [
   {
+    "title": "Sudden Cardiac Death Due to Myocardial Infarction With Obstructive and Nonobstructive Coronary Arteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001403?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Apr 25, 2026",
+    "date_ts": 1777085220.600396,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Unsupervised Agglomerative Cluster Phenotyping of Young Patients With Acute Coronary Syndrome Undergoing Percutaneous Coronary Intervention",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70643?af=R",
+    "doi": "10.1002/ccd.70643",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 24, 2026",
+    "date_ts": 1777001813.0,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Echocardiography\u2010Assisted Stenting of the Ductus Venosus in Infracardiac TAPVC: Report of a New Technique and Review of the Literature",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70631?af=R",
+    "doi": "10.1002/ccd.70631",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 24, 2026",
+    "date_ts": 1777001753.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Gender Differences in Risk Factors, Management, and Outcomes of Elderly Patients With Acute Coronary Syndrome: The Interplay of Frailty",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70635?af=R",
+    "doi": "10.1002/ccd.70635",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 24, 2026",
+    "date_ts": 1777001509.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Acute Hypoxemic Respiratory Failure Following Mitral Transcatheter Edge\u2010to\u2010Edge Repair: The Role of Aortic Stenosis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70639?af=R",
+    "doi": "10.1002/ccd.70639",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 24, 2026",
+    "date_ts": 1777001431.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Gaps in cardiovascular risk identification and preventive therapy before first myocardial infarction",
+    "link": "https://doi.org/10.1093/eurheartj/ehag283",
+    "doi": "10.1093/eurheartj/ehag283",
+    "journal": "European Heart Journal",
+    "date": "Apr 24, 2026",
+    "date_ts": 1776988800.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Combined transcatheter mitral and tricuspid edge-to-edge repair or tricuspid edge-to-edge repair alone in moderate mitral regurgitation: a propensity-matched analysis",
+    "link": "https://doi.org/10.1093/eurheartj/ehag186",
+    "doi": "10.1093/eurheartj/ehag186",
+    "journal": "European Heart Journal",
+    "date": "Apr 24, 2026",
+    "date_ts": 1776988800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Bridging the gap in prevention of first myocardial infarction",
+    "link": "https://doi.org/10.1093/eurheartj/ehag284",
+    "doi": "10.1093/eurheartj/ehag284",
+    "journal": "European Heart Journal",
+    "date": "Apr 24, 2026",
+    "date_ts": 1776988800.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Single Centre Experience With the Balloon\u2010Expandable Myval Transcatheter Aortic Valve System in Patients With Bicuspid Anatomy: 1 Year Follow\u2010Up",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70640?af=R",
+    "doi": "10.1002/ccd.70640",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 23, 2026",
+    "date_ts": 1776934817.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Focal and Diffuse Coronary Artery Disease Patterns and Placebo-Controlled Angina Relief With Percutaneous Coronary Intervention: ORBITA-2",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726057323?dgcid=rss_sd_all",
     "doi": null,
@@ -5934,114 +6043,6 @@
     "date_ts": 1775760495.557826,
     "tags": [
       "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Distal Embolization of a Coronary Calcified Nodule During Percutaneous Coronary Intervention Without Atherectomy Devices",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982401820X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.50096,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early U.S. Real-World Experience With a Novel Intra-Annular Self-Expanding Valve for Transcatheter Aortic Valve Replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825028274?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500931,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "10-Year Outcomes of the J-Valve Transcatheter Valve for Severe Aortic Stenosis or Aortic Regurgitation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825033990?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500901,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transseptal Mitral Chordal Repair Using the ChordArt Transcatheter System",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825034065?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500873,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "RV-PA Uncoupling Is Associated With 1-Year Mortality in ST-Segment Elevation Myocardial Infarction",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982503198X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500843,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prognostic Value of NT-proBNP in Patients Undergoing Tricuspid Valve Transcatheter Edge-to-Edge Repair: The EuroTR Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006771?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500808,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety and Effectiveness of a Novel 2Hz Coronary IVL System: The Disrupt CAD Duo IDE Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007776?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500779,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005881?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500755,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Contemporary Trends, Characteristics, and Outcomes of Patients Undergoing Percutaneous Coronary Intervention for Stent Thrombosis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826003894?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760494.500725,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
