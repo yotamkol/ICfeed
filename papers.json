@@ -1,5 +1,29 @@
 [
   {
+    "title": "DASH Closure: A Dual Access Strategy for Hemodynamic Closure of Mitral Paravalvular Leaks",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70616?af=R",
+    "doi": "10.1002/ccd.70616",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 24, 2026",
+    "date_ts": 1777024460.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Aortic Sinus\u2013to\u2013RVOT Communication Following Harmony Valve Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70634?af=R",
+    "doi": "10.1002/ccd.70634",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 24, 2026",
+    "date_ts": 1777020730.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Sudden Cardiac Death Due to Myocardial Infarction With Obstructive and Nonobstructive Coronary Arteries",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001403?dgcid=rss_sd_all",
     "doi": null,
@@ -6019,30 +6043,6 @@
     "tags": [
       "PCI",
       "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sirolimus-Coated Balloon Angioplasty for Infrainguinal Artery Disease",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2600360?af=R&rss=currentIssue",
-    "doi": "10.1056/NEJMoa2600360",
-    "journal": "NEJM",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760495.557899,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Efficacy and Safety of Obinutuzumab in Active Systemic Lupus Erythematosus",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2516150?af=R&rss=currentIssue",
-    "doi": "10.1056/NEJMoa2516150",
-    "journal": "NEJM",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760495.557826,
-    "tags": [
-      "ACS"
     ],
     "hot": false
   }
