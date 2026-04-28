@@ -1,5 +1,41 @@
 [
   {
+    "title": "Efficacy and Safety of CorVad System in Coronary Intervention for Complex High\u2010Risk and Indicated Patients",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70617?af=R",
+    "doi": "10.1002/ccd.70617",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 27, 2026",
+    "date_ts": 1777269639.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Significance of V4R ST\u2010Segment Elevation on a Synthesized 18\u2010Lead Electrocardiogram in Patients With Anterior ST\u2010Segment Elevation Myocardial Infarction",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70646?af=R",
+    "doi": "10.1002/ccd.70646",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Apr 27, 2026",
+    "date_ts": 1777269406.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Atrial cardiomyopathy and systemic organ crosstalk: from mechanisms to clinical implications",
+    "link": "https://doi.org/10.1136/heartjnl-2025-327563",
+    "doi": "10.1136/heartjnl-2025-327563",
+    "journal": "Heart (BMJ)",
+    "date": "Apr 27, 2026",
+    "date_ts": 1777248000.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "DASH Closure: A Dual Access Strategy for Hemodynamic Closure of Mitral Paravalvular Leaks",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70616?af=R",
     "doi": "10.1002/ccd.70616",
@@ -6005,44 +6041,6 @@
     "date_ts": 1775760495.558021,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2517213?af=R&rss=currentIssue",
-    "doi": "10.1056/NEJMoa2517213",
-    "journal": "NEJM",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760495.557996,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intravascular Ultrasound\u2013Guided or Angiography-Guided Complex High-Risk PCI",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2601521?af=R&rss=currentIssue",
-    "doi": "10.1056/NEJMoa2601521",
-    "journal": "NEJM",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760495.557958,
-    "tags": [
-      "PCI",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "IVUS-Guided versus Angiography-Guided PCI in Unprotected Left Main Coronary Disease",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2600440?af=R&rss=currentIssue",
-    "doi": "10.1056/NEJMoa2600440",
-    "journal": "NEJM",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760495.557929,
-    "tags": [
-      "PCI",
-      "Imaging"
     ],
     "hot": false
   }
