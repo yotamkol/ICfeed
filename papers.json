@@ -1,5 +1,18 @@
 [
   {
+    "title": "Derivation and validation of a prediction model for long-term mortality in patients with ST-segment elevation myocardial infarction undergoing percutaneous coronary intervention: the PREDICT-ST-Elevation Myocardial Infarction score",
+    "link": "https://doi.org/10.1136/heartjnl-2026-327811",
+    "doi": "10.1136/heartjnl-2026-327811",
+    "journal": "Heart (BMJ)",
+    "date": "Apr 29, 2026",
+    "date_ts": 1777420800.0,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Prevalence and Characteristics of INOCA in Patients With Either Angiographically Normal Vessels or Non\u2010Obstructive Coronary Atherosclerosis. Insights From the All\u2010Comers Prospective AID\u2010ANGIO Study",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70644?af=R",
     "doi": "10.1002/ccd.70644",
@@ -6027,19 +6040,6 @@
     "date_ts": 1775760498.132884,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sex Disparities in Coronary Angiography Findings of Out-of-Hospital Cardiac Arrest Complicating Acute Coronary Syndromes",
-    "link": "https://doi.org/10.25270/jic/25.00359",
-    "doi": "10.25270/jic/25.00359",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.132868,
-    "tags": [
-      "ACS",
-      "Imaging"
     ],
     "hot": false
   }
