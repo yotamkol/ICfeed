@@ -1,5 +1,89 @@
 [
   {
+    "title": "Quantitative flow ratio versus fractional flow reserve: 2-year follow-up of the FAVOR III Europe trial",
+    "link": "https://doi.org/10.4244/eij-d-25-01255",
+    "doi": "10.4244/eij-d-25-01255",
+    "journal": "EuroIntervention",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Expanding physiology beyond the wire: will 2026 be the defining year?",
+    "link": "https://doi.org/10.4244/eij-d-26-00289",
+    "doi": "10.4244/eij-d-26-00289",
+    "journal": "EuroIntervention",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Natural history of coronary plaque redistribution after drug-coated balloon angioplasty",
+    "link": "https://doi.org/10.4244/eij-d-25-01145",
+    "doi": "10.4244/eij-d-25-01145",
+    "journal": "EuroIntervention",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Intracoronary imaging guidance for de novo coronary lesion treatment with drug-coated balloons",
+    "link": "https://doi.org/10.4244/eij-d-25-01066",
+    "doi": "10.4244/eij-d-25-01066",
+    "journal": "EuroIntervention",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Derivation and external validation of a deep learning model to predict changes in coronary plaque burden",
+    "link": "https://doi.org/10.4244/eij-d-25-01352",
+    "doi": "10.4244/eij-d-25-01352",
+    "journal": "EuroIntervention",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Slow flow and no reflow after percutaneous coronary intervention",
+    "link": "https://doi.org/10.4244/eij-d-25-01346",
+    "doi": "10.4244/eij-d-25-01346",
+    "journal": "EuroIntervention",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Drug-coated balloons for the treatment of coronary artery bypass graft failure",
+    "link": "https://doi.org/10.4244/eij-d-25-01273",
+    "doi": "10.4244/eij-d-25-01273",
+    "journal": "EuroIntervention",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Derivation and validation of a prediction model for long-term mortality in patients with ST-segment elevation myocardial infarction undergoing percutaneous coronary intervention: the PREDICT-ST-Elevation Myocardial Infarction score",
     "link": "https://doi.org/10.1136/heartjnl-2026-327811",
     "doi": "10.1136/heartjnl-2026-327811",
@@ -5954,90 +6038,6 @@
     "journal": "J Invasive Cardiology",
     "date": "Apr 09, 2026",
     "date_ts": 1775760498.133011,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "EXPRESS-LAAO Protocol With the New WATCHMAN FLX Pro Device",
-    "link": "https://doi.org/10.25270/jic/25.00081",
-    "doi": "10.25270/jic/25.00081",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.132998,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Incidence, Correlates, and Outcomes of Echocardiographic Smoke-Like Effect After Transcatheter Edge-to-Edge Repair of Mitral Regurgitation With the MitraClip Device",
-    "link": "https://doi.org/10.25270/jic/25.00088",
-    "doi": "10.25270/jic/25.00088",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.13298,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Progression and Patterns of Radial Artery Calcification: Insights From Optical Coherence Tomography",
-    "link": "https://doi.org/10.25270/jic/25.00193",
-    "doi": "10.25270/jic/25.00193",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.132964,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Excellent Endothelialization of the GORE CARDIOFORM Septal Occluder: First-in-Human in Vivo Angioscopic Assessment",
-    "link": "https://doi.org/10.25270/jic/25.00030",
-    "doi": "10.25270/jic/25.00030",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.132948,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Management of a Vascular Stent Graft Malfunction",
-    "link": "https://doi.org/10.25270/jic/25.00207",
-    "doi": "10.25270/jic/25.00207",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.132934,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A challenging case of left main chronic total occlusion and the reverse T-stenting and small protrusion technique: success with the investment strategy",
-    "link": "https://doi.org/10.25270/jic/26.00009",
-    "doi": "10.25270/jic/26.00009",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.132898,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Subaortic Membrane Recurrence With Obstructive Physiology",
-    "link": "https://doi.org/10.25270/jic/25.00399",
-    "doi": "10.25270/jic/25.00399",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.132884,
     "tags": [
       "Other"
     ],
