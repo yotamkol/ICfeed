@@ -1,5 +1,29 @@
 [
   {
+    "title": "Feasibility and Safety of Distal Transradial Access in Patients With Out\u2010of\u2010Hospital Cardiac Arrest Undergoing Emergency PCI: A Single\u2010Center Retrospective Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70649?af=R",
+    "doi": "10.1002/ccd.70649",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "May 04, 2026",
+    "date_ts": 1777868431.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Predictive Nomogram for Prolonged Hemodynamic Instability After Carotid Artery Stenting",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70625?af=R",
+    "doi": "10.1002/ccd.70625",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "May 04, 2026",
+    "date_ts": 1777868167.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Quantitative flow ratio versus fractional flow reserve: 2-year follow-up of the FAVOR III Europe trial",
     "link": "https://doi.org/10.4244/eij-d-25-01255",
     "doi": "10.4244/eij-d-25-01255",
@@ -6016,30 +6040,6 @@
     "date_ts": 1775760498.133041,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Tenecteplase-Assisted Transapical Drainage of Tuberculous Pyopericardium",
-    "link": "https://doi.org/10.25270/jic/25.00071",
-    "doi": "10.25270/jic/25.00071",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.133027,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Importance of Utilizing the Movahed Coronary Bifurcation Classification for Bifurcation Research",
-    "link": "https://doi.org/10.25270/jic/25.00325",
-    "doi": "10.25270/jic/25.00325",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.133011,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
