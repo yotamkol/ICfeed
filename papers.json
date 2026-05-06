@@ -1,5 +1,149 @@
 [
   {
+    "title": "First-in-Human Transcatheter Aortic Root Tricuspidization of Stenotic Bicuspid Valves: A Strategy to Optimize TAVR",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013282?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "May 06, 2026",
+    "date_ts": 1778038345.532321,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Weekly Journal Scan: The\n                    <i>ebony and IVORY</i>\n                    of modulating inflammation in acute coronary syndromes",
+    "link": "https://doi.org/10.1093/eurheartj/ehag257",
+    "doi": "10.1093/eurheartj/ehag257",
+    "journal": "European Heart Journal",
+    "date": "May 05, 2026",
+    "date_ts": 1777939200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A nurse-coordinated intervention programme vs standard of care after an acute coronary syndrome: the ALLEPRE trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag255",
+    "doi": "10.1093/eurheartj/ehag255",
+    "journal": "European Heart Journal",
+    "date": "May 05, 2026",
+    "date_ts": 1777939200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A New Right Bundle Branch Block\u2013Like Rhythm Immediately After TAVR",
+    "link": "https://doi.org/10.1161/circulationaha.126.080374",
+    "doi": "10.1161/circulationaha.126.080374",
+    "journal": "Circulation",
+    "date": "May 05, 2026",
+    "date_ts": 1777939200.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Real-World Analysis of Outcomes of Patients Undergoing Coronary Intravascular Lithotripsy Versus Atherectomy for Calcified Coronary Artery Disease: Findings From the TriNetX Database",
+    "link": "https://doi.org/10.25270/jic/25.00351",
+    "doi": "10.25270/jic/25.00351",
+    "journal": "J Invasive Cardiology",
+    "date": "May 04, 2026",
+    "date_ts": 1777852800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Outcomes After Transcatheter Aortic Valve Replacement by Sex and Subtype of Low-Flow Aortic Stenosis",
+    "link": "https://doi.org/10.25270/jic/26.00096",
+    "doi": "10.25270/jic/26.00096",
+    "journal": "J Invasive Cardiology",
+    "date": "May 04, 2026",
+    "date_ts": 1777852800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Late Endovascular Aneurysm Repair Limb Occlusion Presenting as Claudication: Lifelong Surveillance Essential",
+    "link": "https://doi.org/10.25270/jic/26.00111",
+    "doi": "10.25270/jic/26.00111",
+    "journal": "J Invasive Cardiology",
+    "date": "May 04, 2026",
+    "date_ts": 1777852800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A comprehensive update on interventional cardiology: coronary arteries, peripheral arteries, and valves",
+    "link": "https://doi.org/10.1093/eurheartj/ehag281",
+    "doi": "10.1093/eurheartj/ehag281",
+    "journal": "European Heart Journal",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Caught in the Web: Alteplase-Assisted Rescue of an Entrapped Pericardial Pigtail",
+    "link": "https://doi.org/10.25270/jic/26.00110",
+    "doi": "10.25270/jic/26.00110",
+    "journal": "J Invasive Cardiology",
+    "date": "Apr 30, 2026",
+    "date_ts": 1777507200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Extracorporeal Versus Conventional Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrests",
+    "link": "https://doi.org/10.25270/jic/25.00405",
+    "doi": "10.25270/jic/25.00405",
+    "journal": "J Invasive Cardiology",
+    "date": "Apr 29, 2026",
+    "date_ts": 1777420800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Prevalence of Cardiac Symptoms in Ehlers-Danlos Syndrome and Hypermobility Spectrum Disorder: A Pilot Study",
+    "link": "https://doi.org/10.25270/jic/25.00395",
+    "doi": "10.25270/jic/25.00395",
+    "journal": "J Invasive Cardiology",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776729600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Controlled Antegrade and Retrograde Tracking (CART) Technique Via Epicardial Collaterals: Feasible and Safe",
+    "link": "https://doi.org/10.25270/jic/26.00039",
+    "doi": "10.25270/jic/26.00039",
+    "journal": "J Invasive Cardiology",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776729600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Feasibility and Safety of Distal Transradial Access in Patients With Out\u2010of\u2010Hospital Cardiac Arrest Undergoing Emergency PCI: A Single\u2010Center Retrospective Study",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70649?af=R",
     "doi": "10.1002/ccd.70649",
@@ -5894,150 +6038,6 @@
     "journal": "J Invasive Cardiology",
     "date": "Apr 09, 2026",
     "date_ts": 1775760498.133224,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Operator Radiation Dose Comparing Left Radial Artery and Right Radial Artery Approaches Among Patients With Subclavian Tortuosity",
-    "link": "https://doi.org/10.25270/jic/25.00143",
-    "doi": "10.25270/jic/25.00143",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.133205,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Counterproductive Counterpulsation",
-    "link": "https://doi.org/10.25270/jic/25.00115",
-    "doi": "10.25270/jic/25.00115",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.133193,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "How to Avoid a Myocardial Infarction With Radial Wall Strain?",
-    "link": "https://doi.org/10.25270/jic/24.00369",
-    "doi": "10.25270/jic/24.00369",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.13318,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Antegrade Retrieval of an Atrial Septal Occluder Dislodged Into the Left Ventricle",
-    "link": "https://doi.org/10.25270/jic/25.00220",
-    "doi": "10.25270/jic/25.00220",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.133164,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Right Coronary Artery Takeoff Plane and Implications for Brachiocephalic Interventions and Next Generation Transcatheter Aortic Valve Intervention Embolic Protection Devices",
-    "link": "https://doi.org/10.25270/jic/25.00140",
-    "doi": "10.25270/jic/25.00140",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.133146,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Tendinitis Induced by Distal Radial Artery Pseudoaneurysm Following a Percutaneous Coronary Intervention",
-    "link": "https://doi.org/10.25270/jic/25.00133",
-    "doi": "10.25270/jic/25.00133",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.133131,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Congenital Coronary Artery-Right Ventricular Multiple Microfistulas",
-    "link": "https://doi.org/10.25270/jic/25.00131",
-    "doi": "10.25270/jic/25.00131",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.133117,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Mitral Transcatheter-Edge-to-Edge-Repair After Failed Alfieri Stitch: An Effective Alternative to Re-Do Surgery",
-    "link": "https://doi.org/10.25270/jic/24.00235",
-    "doi": "10.25270/jic/24.00235",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.1331,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Closure of a Giant Coronary Artery Aneurysm: A Case Summary",
-    "link": "https://doi.org/10.25270/jic/25.00172",
-    "doi": "10.25270/jic/25.00172",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.133086,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Endovascular Management of the Radial Artery: Success Through Minimal Invasion",
-    "link": "https://doi.org/10.25270/jic/25.00233",
-    "doi": "10.25270/jic/25.00233",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.133071,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Removal of Pulmonary Intravascular Foreign Bodies in Children",
-    "link": "https://doi.org/10.25270/jic/24.00299",
-    "doi": "10.25270/jic/24.00299",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.133057,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Contemporary Contrast Media Dosing During Percutaneous Coronary Intervention in Patients With Pre-existing Renal Impairment",
-    "link": "https://doi.org/10.25270/jic/24.00313",
-    "doi": "10.25270/jic/24.00313",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.133041,
     "tags": [
       "PCI"
     ],
