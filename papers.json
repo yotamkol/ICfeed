@@ -1,5 +1,163 @@
 [
   {
+    "title": "Reframing the Next Era of Advancing Outcomes Following Acute Myocardial Infarction: The Need to Improve Diagnosis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001488?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 07, 2026",
+    "date_ts": 1778124762.430534,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High-Sensitivity Cardiac Troponin T-gen6 Assay in Suspected Myocardial Infarction: Diagnostic Accuracy, Cutoffs, and Clinical Implications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725105846?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 07, 2026",
+    "date_ts": 1778124762.4305,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparison of the European Society of Cardiology 0/1-Hour and High-Sensitivity Troponin in the Evaluation of Patients With Suspected Acute Coronary Syndrome 0/2-or-0/3-Hour Algorithms for Rapid Myocardial Infarction Diagnosis: A Prospective Multicenter Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725105883?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 07, 2026",
+    "date_ts": 1778124762.430452,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Optimizing Approaches to Detect Patients With NSTEMI With Accelerated Diagnostic Protocols in the Emergency Department Setting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725105913?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 07, 2026",
+    "date_ts": 1778124762.430418,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardiac Arrest and Outcome in Patients With Cardiogenic Shock Complicating Acute Myocardial Infarction: A Pooled Analysis of Randomized Controlled Trials",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726002998?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 07, 2026",
+    "date_ts": 1778124762.430361,
+    "tags": [
+      "ACS",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Effect of Tocilizumab on Pro\u2013B-Type Natriuretic Peptide and Infarct Size in Patients With Acute Myocardial Infarction at Risk of Cardiogenic Shock (DOBERMANN-T)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001294?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 07, 2026",
+    "date_ts": 1778124762.430321,
+    "tags": [
+      "ACS",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Effect of Low-Dose Dobutamine Infusion on N-Terminal Pro\u2013B-Type Natriuretic Peptide in At-Risk Patients With Acute Myocardial Infarction (DOBERMANN-D): A Randomized Clinical Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001300?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 07, 2026",
+    "date_ts": 1778124762.430275,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Digital Cognitive Behavioral Therapy for Cardiac Anxiety After Myocardial Infarction: Effects on Disease-Specific Health Status\u2014Randomized Trial Results",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726054380?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 07, 2026",
+    "date_ts": 1778124762.430219,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Digital Interventions For Postmyocardial Infarction Cardiac Anxiety: Treating an Unmet Need, But Are They Accessible?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S073510972605792X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 07, 2026",
+    "date_ts": 1778124762.430178,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Financial Assistance Policies to Improve Post-Myocardial Infarction Care",
+    "link": "https://www.sciencedirect.com/science/article/pii/S073510972510586X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 07, 2026",
+    "date_ts": 1778124762.430143,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "More ECMO Flow, Same PCWP: Just What the Model Tells Us",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725102143?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 07, 2026",
+    "date_ts": 1778124762.430093,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Hemodynamic Patterns During Veno-Arterial Extracorporeal Membrane Oxygen Flow Ramp Testing in Cardiogenic Shock",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725102118?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 07, 2026",
+    "date_ts": 1778124762.429897,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sex-Based Patterns and Trends in Transcatheter Aortic Valve Implantation",
+    "link": "https://doi.org/10.1001/jamacardio.2026.0941",
+    "doi": "10.1001/jamacardio.2026.0941",
+    "journal": "JAMA Cardiology",
+    "date": "May 06, 2026",
+    "date_ts": 1778025600.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "First-in-Human Transcatheter Aortic Root Tricuspidization of Stenotic Bicuspid Valves: A Strategy to Optimize TAVR",
     "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013282?dgcid=rss_sd_all",
     "doi": null,
@@ -5881,165 +6039,6 @@
     "date_ts": 1577923200.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Endovascular closure of perimembranous ventricular septal defects: She loves me\u2026\u2026. she loves me not",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.22010?af=R",
-    "doi": "10.1002/ccd.22010",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jan 04, 2018",
-    "date_ts": 1515052800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Occupational health hazards in the interventional laboratory: Time for a safer environment",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.21772?af=R",
-    "doi": "10.1002/ccd.21772",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jan 04, 2018",
-    "date_ts": 1515052800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A technique for hemostasis and closure after percutaneous aortic valve replacement",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.22565?af=R",
-    "doi": "10.1002/ccd.22565",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 01, 2010",
-    "date_ts": 1275375600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Age, frailty, and outcomes in myocardial infarction: a new paradigm for an old concept",
-    "link": "https://doi.org/10.1093/eurheartj/ehag213",
-    "doi": "10.1093/eurheartj/ehag213",
-    "journal": "European Heart Journal",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775692800.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A natural experiment in the air: particulate matter and acute myocardial infarction subtypes during the COVID-19 pandemic",
-    "link": "https://doi.org/10.1093/eurheartj/ehag218",
-    "doi": "10.1093/eurheartj/ehag218",
-    "journal": "European Heart Journal",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775692800.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Aortic Valve Replacement in a Perceval Valve: Pitfalls, Tips, and Outcomes",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70619?af=R",
-    "doi": "10.1002/ccd.70619",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 10, 2026",
-    "date_ts": 1775815183.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Anatomy of the Pulmonary Circulation and Outcomes in Tetralogy of Fallot With Major Systemic\u2010to\u2010Pulmonary Collaterals and Unilateral Pulmonary Artery of Ductal Origin",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70585?af=R",
-    "doi": "10.1002/ccd.70585",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 10, 2026",
-    "date_ts": 1775795410.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "[Articles] Aspirin versus clopidogrel for chronic maintenance monotherapy after percutaneous coronary intervention: 10-year follow-up of the HOST-EXAM trial",
-    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00422-8/fulltext?rss=yes",
-    "doi": "10.1016/S0140-6736(26)00422-8",
-    "journal": "Lancet",
-    "date": "Apr 10, 2026",
-    "date_ts": 1775795684.579967,
-    "tags": [
-      "PCI",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "[Articles] Deferral of percutaneous coronary intervention in patients undergoing transcatheter aortic valve implantation (PRO-TAVI): an investigator-initiated, multicentre, open-label, non-inferiority, randomised controlled trial",
-    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00308-9/fulltext?rss=yes",
-    "doi": "10.1016/S0140-6736(26)00308-9",
-    "journal": "Lancet",
-    "date": "Apr 10, 2026",
-    "date_ts": 1775795684.579928,
-    "tags": [
-      "PCI",
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "[Comment] Moving beyond aspirin after percutaneous coronary intervention: 10-year results from the HOST-EXAM trial",
-    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00562-3/fulltext?rss=yes",
-    "doi": "10.1016/S0140-6736(26)00562-3",
-    "journal": "Lancet",
-    "date": "Apr 10, 2026",
-    "date_ts": 1775795684.579701,
-    "tags": [
-      "PCI",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "[Comment] Coronary revascularisation before TAVI",
-    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00597-0/fulltext?rss=yes",
-    "doi": "10.1016/S0140-6736(26)00597-0",
-    "journal": "Lancet",
-    "date": "Apr 10, 2026",
-    "date_ts": 1775795684.579639,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Computed tomography angiography-derived microvascular resistance: is less always more?",
-    "link": "https://doi.org/10.4244/eij-d-25-01153",
-    "doi": "10.4244/eij-d-25-01153",
-    "journal": "EuroIntervention",
-    "date": "Jan 01, 2026",
-    "date_ts": 1767225600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stentless Revascularization of Spontaneous Coronary Dissection Using a Cutting Balloon",
-    "link": "https://doi.org/10.25270/jic/25.00212",
-    "doi": "10.25270/jic/25.00212",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775760498.133224,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
