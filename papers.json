@@ -1,5 +1,17 @@
 [
   {
+    "title": "Weekly Journal Scan: Is left atrial appendage closure really non-inferior to anticoagulation in atrial fibrillation?",
+    "link": "https://doi.org/10.1093/eurheartj/ehag333",
+    "doi": "10.1093/eurheartj/ehag333",
+    "journal": "European Heart Journal",
+    "date": "May 08, 2026",
+    "date_ts": 1778198400.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "[Articles] Enpatoran, a Toll-like receptor 7/8 inhibitor, in moderate-to-severe systemic lupus erythematosus: findings from Cohort B of a multicentre, international, double-blind, placebo-controlled dose-finding phase 2 trial",
     "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00463-0/fulltext?rss=yes",
     "doi": "10.1016/S0140-6736(26)00463-0",
@@ -6027,18 +6039,6 @@
     "date_ts": 1753833600.0,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Differences in Plasma Metabolites Related to Alzheimer's Disease, APOE-e4 Status and Ethnicity",
-    "link": "https://www.medrxiv.org/content/10.1101/2020.01.10.20016741",
-    "doi": "10.1101/2020.01.10.20016741",
-    "journal": "medRxiv (preprint)",
-    "date": "Jan 14, 2020",
-    "date_ts": 1578960000.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
