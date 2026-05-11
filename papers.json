@@ -1,5 +1,17 @@
 [
   {
+    "title": "The microRNA inhibitor CDR132L in patients with reduced left ventricular ejection fraction after myocardial infarction: a randomized phase 2 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04408-4",
+    "doi": "10.1038/s41591-026-04408-4",
+    "journal": "Nature Medicine",
+    "date": "May 11, 2026",
+    "date_ts": 1778471590.138909,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Weekly Journal Scan: Is left atrial appendage closure really non-inferior to anticoagulation in atrial fibrillation?",
     "link": "https://doi.org/10.1093/eurheartj/ehag333",
     "doi": "10.1093/eurheartj/ehag333",
@@ -6027,18 +6039,6 @@
     "date_ts": 1767225600.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Correction to: Mitral Valve Transcatheter Edge-to-Edge Repair With PASCAL Vs MitraClip: A Systematic Review and Meta-analysis",
-    "link": "https://doi.org/10.25270/jic/23.00218.cx",
-    "doi": "10.25270/jic/23.00218.cx",
-    "journal": "J Invasive Cardiology",
-    "date": "Jul 30, 2025",
-    "date_ts": 1753833600.0,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
