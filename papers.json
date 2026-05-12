@@ -1,5 +1,53 @@
 [
   {
+    "title": "Beyond the ICU: Designing Systems of Recovery for Cardiogenic Shock Survivors",
+    "link": "https://doi.org/10.1161/circulationaha.125.077820",
+    "doi": "10.1161/circulationaha.125.077820",
+    "journal": "Circulation",
+    "date": "May 12, 2026",
+    "date_ts": 1778544000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Unveiling the Microvasculature: The Index of Microcirculatory Resistance and Its Expanding Role in Cardiovascular Care",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70629?af=R",
+    "doi": "10.1002/ccd.70629",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "May 11, 2026",
+    "date_ts": 1778473260.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ventricular free-wall rupture, ventricular pseudoaneurysm, and papillary muscle rupture complicating acute myocardial infarction",
+    "link": "https://doi.org/10.1093/eurheartj/ehag164",
+    "doi": "10.1093/eurheartj/ehag164",
+    "journal": "European Heart Journal",
+    "date": "May 11, 2026",
+    "date_ts": 1778457600.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Outcomes after a first acute myocardial infarction in patients with or without congenital heart disease",
+    "link": "https://doi.org/10.1093/eurheartj/ehag216",
+    "doi": "10.1093/eurheartj/ehag216",
+    "journal": "European Heart Journal",
+    "date": "May 11, 2026",
+    "date_ts": 1778457600.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "The microRNA inhibitor CDR132L in patients with reduced left ventricular ejection fraction after myocardial infarction: a randomized phase 2 trial",
     "link": "https://www.nature.com/articles/s41591-026-04408-4",
     "doi": "10.1038/s41591-026-04408-4",
@@ -5991,54 +6039,6 @@
     "date_ts": 1767225600.0,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reply: Beta blocker withdrawal post-MI &amp;ndash; the missed dimension of patient symptoms",
-    "link": "https://doi.org/10.4244/eij-d-25-01076",
-    "doi": "10.4244/eij-d-25-01076",
-    "journal": "EuroIntervention",
-    "date": "Jan 01, 2026",
-    "date_ts": 1767225600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Repeatability and quality assessment of QFR in the FAVOR III Europe trial: the REPEAT-QFR study",
-    "link": "https://doi.org/10.4244/eij-d-25-00668",
-    "doi": "10.4244/eij-d-25-00668",
-    "journal": "EuroIntervention",
-    "date": "Jan 01, 2026",
-    "date_ts": 1767225600.0,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Randomised trials in mitral transcatheter edge-to-edge repair: taking yet another look",
-    "link": "https://doi.org/10.4244/eij-e-25-00054",
-    "doi": "10.4244/eij-e-25-00054",
-    "journal": "EuroIntervention",
-    "date": "Jan 01, 2026",
-    "date_ts": 1767225600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Endomyocardial biopsy",
-    "link": "https://doi.org/10.4244/eij-d-25-00263",
-    "doi": "10.4244/eij-d-25-00263",
-    "journal": "EuroIntervention",
-    "date": "Jan 01, 2026",
-    "date_ts": 1767225600.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
