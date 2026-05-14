@@ -1,5 +1,77 @@
 [
   {
+    "title": "Cerebrovascular Events in Aortic Stenosis: From Native Valve Disease to TAVR\u2010Specific Risk and Prevention",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70660?af=R",
+    "doi": "10.1002/ccd.70660",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "May 13, 2026",
+    "date_ts": 1778656210.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cerebral Embolic Protection in TAVI: Mechanistic and Temporal Limitations",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70651?af=R",
+    "doi": "10.1002/ccd.70651",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "May 13, 2026",
+    "date_ts": 1778645286.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Double Barrel DCB in a Giant Ostial LAD",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70661?af=R",
+    "doi": "10.1002/ccd.70661",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "May 13, 2026",
+    "date_ts": 1778645096.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Renin-angiotensin-aldosterone system failure drives inappropriate vasodilation in cardiogenic shock: a hypothesis",
+    "link": "https://doi.org/10.1093/eurheartj/ehag292",
+    "doi": "10.1093/eurheartj/ehag292",
+    "journal": "European Heart Journal",
+    "date": "May 13, 2026",
+    "date_ts": 1778630400.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Secondary Prevention After Coronary Artery Bypass Graft Surgery: 2026 Update: A Scientific Statement From the American Heart Association",
+    "link": "https://doi.org/10.1161/cir.0000000000001434",
+    "doi": "10.1161/cir.0000000000001434",
+    "journal": "Circulation",
+    "date": "May 13, 2026",
+    "date_ts": 1778630400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prognostic Impact of Pacemaker Implantation in Transcatheter Aortic Valve Replacement With Self\u2010Expanding Prosthesis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70652?af=R",
+    "doi": "10.1002/ccd.70652",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "May 12, 2026",
+    "date_ts": 1778586698.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "CD98hc controls CNS angiogenesis and blood\u2013brain barrier integrity through localized regulation of the systemic integrin\u2013FAK pathway",
     "link": "https://www.nature.com/articles/s44161-026-00816-4",
     "doi": "10.1038/s44161-026-00816-4",
@@ -5967,78 +6039,6 @@
     "date_ts": 1772323200.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Changes in absolute coronary blood flow and myocardial resistance after percutaneous coronary intervention",
-    "link": "https://doi.org/10.4244/eij-d-25-00784",
-    "doi": "10.4244/eij-d-25-00784",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter valve-in-valve versus redo-surgical valve replacement for mitral bioprosthetic valve dysfunction: rationale and design of the SURVIV randomised trial",
-    "link": "https://doi.org/10.4244/eij-d-25-01090",
-    "doi": "10.4244/eij-d-25-01090",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter aortic valve thrombosis",
-    "link": "https://doi.org/10.4244/eij-d-25-00512",
-    "doi": "10.4244/eij-d-25-00512",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous access and closure in transcarotid aortic valve implantation using a&amp;nbsp;collagen vascular plug",
-    "link": "https://doi.org/10.4244/eij-d-24-00661",
-    "doi": "10.4244/eij-d-24-00661",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Importance of observational studies in the evidence-based medicine framework: the case of bleeding risk in patients with acute myocardial infarction and cancer",
-    "link": "https://doi.org/10.1136/heartjnl-2025-327666",
-    "doi": "10.1136/heartjnl-2025-327666",
-    "journal": "Heart (BMJ)",
-    "date": "Feb 26, 2026",
-    "date_ts": 1772064000.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of name-based implicit bias on time to diagnosis and outcomes in ST-elevation myocardial infarction",
-    "link": "https://doi.org/10.1136/heartjnl-2025-327383",
-    "doi": "10.1136/heartjnl-2025-327383",
-    "journal": "Heart (BMJ)",
-    "date": "Feb 23, 2026",
-    "date_ts": 1771804800.0,
-    "tags": [
-      "ACS"
     ],
     "hot": false
   }
