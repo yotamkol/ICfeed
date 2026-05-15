@@ -1,5 +1,126 @@
 [
   {
+    "title": "Differential Effect of Chronic Kidney Disease on Right-Sided Extravalvular Damage in Low-Flow, Low-Gradient Aortic Stenosis",
+    "link": "https://doi.org/10.25270/jic/26.00078",
+    "doi": "10.25270/jic/26.00078",
+    "journal": "J Invasive Cardiology",
+    "date": "May 15, 2026",
+    "date_ts": 1778816956.336998,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Comment] Offline: Hantavirus\u2014surprise, complacency, and peril",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00963-3/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)00963-3",
+    "journal": "Lancet",
+    "date": "May 15, 2026",
+    "date_ts": 1778816953.495913,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Validation of CABG Conduit Counts in Medicare Claims Using Operative Notes and the STS Database",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726056421?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 15, 2026",
+    "date_ts": 1778816953.040327,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long-Term Outcomes of a Drug-Eluting Resorbable Scaffold vs Angioplasty in Infrapopliteal Chronic Limb-Threatening Ischemia: 3-Year Results From the LIFE-BTK Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S073510972606208X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 15, 2026",
+    "date_ts": 1778816953.040234,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A SELUTION for In-Stent Restenosis?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726062030?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 15, 2026",
+    "date_ts": 1778816953.040198,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Multiarterial Grafting and Survival After Coronary Artery Bypass Grafting: An Instrumental Variable Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726058754?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 15, 2026",
+    "date_ts": 1778816953.039984,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Therapy for Atrial Fibrillation in Patients with Drug-Eluting Stents",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2603462?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2603462",
+    "journal": "NEJM",
+    "date": "May 15, 2026",
+    "date_ts": 1778816952.96367,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Intracoronary imaging for left main percutaneous coronary intervention: a clinical consensus statement of the European Association of Percutaneous Cardiovascular Interventions (EAPCI) of the ESC and the European Bifurcation Club (EBC)",
+    "link": "https://doi.org/10.1093/eurheartj/ehag353",
+    "doi": "10.1093/eurheartj/ehag353",
+    "journal": "European Heart Journal",
+    "date": "May 15, 2026",
+    "date_ts": 1778803200.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Development and Validation of NICVD\u2010NQ Score for Predicting Short\u2010Term Outcomes After Primary PCI",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70657?af=R",
+    "doi": "10.1002/ccd.70657",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "May 14, 2026",
+    "date_ts": 1778730411.0,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Stroke after transcatheter aortic valve implantation: incidence, temporal trends and predictors",
+    "link": "https://doi.org/10.1136/heartjnl-2025-327547",
+    "doi": "10.1136/heartjnl-2025-327547",
+    "journal": "Heart (BMJ)",
+    "date": "May 14, 2026",
+    "date_ts": 1778716800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Cerebrovascular Events in Aortic Stenosis: From Native Valve Disease to TAVR\u2010Specific Risk and Prevention",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70660?af=R",
     "doi": "10.1002/ccd.70660",
@@ -5918,127 +6039,6 @@
     "date_ts": 1772323200.0,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Non-invasive and invasive diagnostic modalities for the assessment of coronary vasomotor dysfunction in ANOCA patients",
-    "link": "https://doi.org/10.4244/eij-d-25-00250",
-    "doi": "10.4244/eij-d-25-00250",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Risk of leaflet avulsion after UNICORN leaflet modification",
-    "link": "https://doi.org/10.4244/eij-d-25-00985",
-    "doi": "10.4244/eij-d-25-00985",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intravascular imaging-guided percutaneous coronary intervention in patients with acute coronary syndrome",
-    "link": "https://doi.org/10.4244/eij-d-25-01092",
-    "doi": "10.4244/eij-d-25-01092",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "ACS",
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Excimer laser coronary atherectomy in contemporary PCI",
-    "link": "https://doi.org/10.4244/eij-d-25-00807",
-    "doi": "10.4244/eij-d-25-00807",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Adopting an intravascular imaging-guided management strategy for patients presenting with acute coronary syndrome: from understanding the mechanism to treatment optimisation",
-    "link": "https://doi.org/10.4244/eij-d-26-00175",
-    "doi": "10.4244/eij-d-26-00175",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Three-dimensional intracardiac echo-guided transcatheter tricuspid valve replacement",
-    "link": "https://doi.org/10.4244/eij-d-25-01068",
-    "doi": "10.4244/eij-d-25-01068",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Is the stress aortic valve index a fractional flow reserve for the stenotic aortic valve?",
-    "link": "https://doi.org/10.4244/eij-d-26-00196",
-    "doi": "10.4244/eij-d-26-00196",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical outcomes and haemodynamic response after blinded stress assessment of moderate aortic stenosis",
-    "link": "https://doi.org/10.4244/eij-d-25-01006",
-    "doi": "10.4244/eij-d-25-01006",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Privileged witnesses: how interventional cardiologists can validate experimental evidence in practice",
-    "link": "https://doi.org/10.4244/eij-e-26-00001",
-    "doi": "10.4244/eij-e-26-00001",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Getting lost &amp;ndash; and found &amp;ndash; in revascularising chronic limb-threatening ischaemia",
-    "link": "https://doi.org/10.4244/eij-d-26-00106",
-    "doi": "10.4244/eij-d-26-00106",
-    "journal": "EuroIntervention",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
