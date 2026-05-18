@@ -1,5 +1,17 @@
 [
   {
+    "title": "Transcatheter aortic valve replacement in low-to-medium surgical risk patients: time for a reappraisal?",
+    "link": "https://doi.org/10.1136/heartjnl-2026-327943",
+    "doi": "10.1136/heartjnl-2026-327943",
+    "journal": "Heart (BMJ)",
+    "date": "May 17, 2026",
+    "date_ts": 1778976000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Very Young Adults With Myocardial Infarction Undergoing PCI: Insights From the Houston Methodist Young\u2010MI PCI Registry",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70490?af=R",
     "doi": "10.1002/ccd.70490",
@@ -6027,18 +6039,6 @@
     "date_ts": 1775036746.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Standardising the complexity of contemporary PCI",
-    "link": "https://doi.org/10.4244/eij-e-26-00002",
-    "doi": "10.4244/eij-e-26-00002",
-    "journal": "EuroIntervention",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
