@@ -1,5 +1,17 @@
 [
   {
+    "title": "Evolocumab in Patients With Prior Percutaneous Coronary Intervention and No Prior MI: Results From the VESALIUS-CV Trial",
+    "link": "https://doi.org/10.1161/circulationaha.126.080616",
+    "doi": "10.1161/circulationaha.126.080616",
+    "journal": "Circulation",
+    "date": "May 19, 2026",
+    "date_ts": 1779148800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Letter by Pan and Ding Regarding Article, \u201cOral Pathobionts Aggravate Myocardial Infarction Through Mobilization of B2 Cells\u201d",
     "link": "https://doi.org/10.1161/circulationaha.125.077225",
     "doi": "10.1161/circulationaha.125.077225",
@@ -6028,18 +6040,6 @@
     "date_ts": 1775101543.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful Cutting and Retrieval of an Unraveled Embolization Coil With Rotational Atherectomy: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70482?af=R",
-    "doi": "10.1002/ccd.70482",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
