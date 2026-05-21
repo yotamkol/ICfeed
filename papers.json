@@ -1,5 +1,41 @@
 [
   {
+    "title": "Transcatheter Tricuspid Valve Replacement Stent Geometry: Implications for Hypoattenuated Leaflet Thickening and Reduced Leaflet Motion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601472X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "May 21, 2026",
+    "date_ts": 1779336287.296877,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Outcomes of Transfemoral Transcatheter Mitral Valve Replacement: Results from the CHOICE-MI Registry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014147?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "May 21, 2026",
+    "date_ts": 1779336287.296846,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "<u>B</u>alloon-<u>A</u>ssisted <u>T</u>ranslocation of the <u>M</u>itral <u>An</u>terior Leaflet to Prevent Outflow Tract Obstruction During TMVR: BATMAN-Registry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013117?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "May 21, 2026",
+    "date_ts": 1779336287.296704,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Evolocumab in Patients With Prior Percutaneous Coronary Intervention and No Prior MI: Results From the VESALIUS-CV Trial",
     "link": "https://doi.org/10.1161/circulationaha.126.080616",
     "doi": "10.1161/circulationaha.126.080616",
@@ -6004,42 +6040,6 @@
     "date_ts": 1775101543.0,
     "tags": [
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The \u201cSkipping Rope\u201d Technique: A Novel Strategy for Distal Burr Entrapment During Rotational Atherectomy",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70476?af=R",
-    "doi": "10.1002/ccd.70476",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atherectomy With Multimodal Embolic Protection for Severely Calcified Femoropopliteal Lesions",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70479?af=R",
-    "doi": "10.1002/ccd.70479",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Recanalization of Thrombosed Atrial Flow Regulator in Failing Fontan: A Bridge to Transplant",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70481?af=R",
-    "doi": "10.1002/ccd.70481",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
