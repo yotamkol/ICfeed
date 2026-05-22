@@ -1,5 +1,80 @@
 [
   {
+    "title": "Left Ventricular Unloading in STEMI: From Bench to Bedside and Back Again",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726062169?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 22, 2026",
+    "date_ts": 1779422395.939926,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Accelerated Diagnostic Pathways for Suspected Acute Coronary Syndrome in Practice: A Randomized Trial of 0/1-Hour vs 0/3-Hour Troponin Testing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726059796?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 22, 2026",
+    "date_ts": 1779422395.939834,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2606496?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2606496",
+    "journal": "NEJM",
+    "date": "May 22, 2026",
+    "date_ts": 1779422395.859545,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "First Large Comprehensive Core-Laboratory Evaluation of Implantation Depth and Clinical Outcomes in TAVR: Final Global Results from the Optimize PRO Prospective Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014482?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "May 22, 2026",
+    "date_ts": 1779422394.95842,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Routine FFR-guided revascularization in patients undergoing transcatheter aortic valve implantation, one step too far?",
+    "link": "https://doi.org/10.1093/eurheartj/ehag256",
+    "doi": "10.1093/eurheartj/ehag256",
+    "journal": "European Heart Journal",
+    "date": "May 22, 2026",
+    "date_ts": 1779408000.0,
+    "tags": [
+      "PCI",
+      "Structural",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "FFR-guided revascularization in patients undergoing TAVI: insights on the FAITAVI trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag259",
+    "doi": "10.1093/eurheartj/ehag259",
+    "journal": "European Heart Journal",
+    "date": "May 22, 2026",
+    "date_ts": 1779408000.0,
+    "tags": [
+      "PCI",
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Transcatheter Tricuspid Valve Replacement Stent Geometry: Implications for Hypoattenuated Leaflet Thickening and Reduced Leaflet Motion",
     "link": "https://www.sciencedirect.com/science/article/pii/S193687982601472X?dgcid=rss_sd_all",
     "doi": null,
@@ -5968,78 +6043,6 @@
     "date_ts": 1775101543.0,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Impact of Angiographic Complications Occurring During Percutaneous Coronary Interventions",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70515?af=R",
-    "doi": "10.1002/ccd.70515",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Influence of Seasons on the Management and Outcomes of Pulmonary Embolism",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70520?af=R",
-    "doi": "10.1002/ccd.70520",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Interventional \u201cBackstop\u201d: The Stent\u2010Mid\u2010Perforation Coiling Technique for Large Distal Coronary Perforations",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70480?af=R",
-    "doi": "10.1002/ccd.70480",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Coronary Computed Tomography Angiography Identifying a Single Coronary Artery With a Critical Left\u2010Main\u2010Equivalent Stenosis Treated by Elective PCI",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70492?af=R",
-    "doi": "10.1002/ccd.70492",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Bundle Branch Area Pacing for Cardiac Amyloidosis With Ser43Asn Mutant Transthyretin: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70505?af=R",
-    "doi": "10.1002/ccd.70505",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Repositioning of a Protek Duo Temporary Right Ventricular Assist Device Using Balloon\u2010Assisted Tracking Technique",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70518?af=R",
-    "doi": "10.1002/ccd.70518",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
