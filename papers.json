@@ -1,5 +1,29 @@
 [
   {
+    "title": "Drug Coated Balloon-based angioplasty for Chronic Total Occlusions: The PICCOLETO X study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014743?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "May 23, 2026",
+    "date_ts": 1779507411.715288,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "RETRACTION: 8\u2009F Catheter Percutaneous Mechanical Thrombectomy Plus Anticoagulation Versus Anticoagulation Alone in Intermediate\u2010High Risk Acute Pulmonary Embolism: A Multicenter Real\u2010World Study on Long\u2010Term Complications, Right Heart Function, and Quality of Life",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70663?af=R",
+    "doi": "10.1002/ccd.70663",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "May 21, 2026",
+    "date_ts": 1779370483.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Left Ventricular Unloading in STEMI: From Bench to Bedside and Back Again",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726062169?dgcid=rss_sd_all",
     "doi": null,
@@ -6014,30 +6038,6 @@
     "title": "A Bayesian Meta\u2010Analysis of Renin\u2212Angiotensin System Inhibitors Following TAVR",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70506?af=R",
     "doi": "10.1002/ccd.70506",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intra\u2010Annular Versus Supra\u2010Annular Self\u2010Expanding Valves for Valve\u2010in\u2010Valve TAVR",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70507?af=R",
-    "doi": "10.1002/ccd.70507",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Incidence and Predictors of Permanent Pacemaker Implantation After Balloon\u2010Expandable TAVI: Applicability of the RITMO Score",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70513?af=R",
-    "doi": "10.1002/ccd.70513",
     "journal": "Catheter Cardiovasc Interv",
     "date": "Apr 02, 2026",
     "date_ts": 1775101543.0,
