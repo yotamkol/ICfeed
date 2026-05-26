@@ -1,5 +1,41 @@
 [
   {
+    "title": "Interleukin-6 and C-reactive protein prognostic value following acute coronary syndrome",
+    "link": "https://doi.org/10.1093/eurheartj/ehag317",
+    "doi": "10.1093/eurheartj/ehag317",
+    "journal": "European Heart Journal",
+    "date": "May 26, 2026",
+    "date_ts": 1779753600.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Weekly Journal Scan: The ALL-RISE of angiography-derived physiology to guide percutaneous coronary intervention",
+    "link": "https://doi.org/10.1093/eurheartj/ehag378",
+    "doi": "10.1093/eurheartj/ehag378",
+    "journal": "European Heart Journal",
+    "date": "May 25, 2026",
+    "date_ts": 1779667200.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Outcomes in the BETAMI-DANBLOCK trial compared with a Norwegian nationwide myocardial infarction population",
+    "link": "https://doi.org/10.1093/eurheartj/ehag348",
+    "doi": "10.1093/eurheartj/ehag348",
+    "journal": "European Heart Journal",
+    "date": "May 25, 2026",
+    "date_ts": 1779667200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Low\u2010Dose Colchicine for Secondary Prevention in Patients With Chronic Coronary Syndrome: A Multicenter Real\u2010World Study",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70662?af=R",
     "doi": "10.1002/ccd.70662",
@@ -6007,42 +6043,6 @@
     "date_ts": 1775101543.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Vessel\u2010Oriented Analysis on the Relationship Between Quantitative\u2010Flow Ratio and Mortality in Patients With Severe Aortic Stenosis and Intermediate Coronary Lesions",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70491?af=R",
-    "doi": "10.1002/ccd.70491",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Five\u2010Year Outcomes of Measured and Predicted Prosthesis\u2010Patient Mismatch Following Valve\u2010in\u2010Valve Transcatheter Aortic Valve Implantation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70493?af=R",
-    "doi": "10.1002/ccd.70493",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "New Measurements Using Computed Tomography Predict Success of Left Atrial Appendage Closure",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70497?af=R",
-    "doi": "10.1002/ccd.70497",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775101543.0,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
