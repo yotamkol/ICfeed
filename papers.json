@@ -1,5 +1,90 @@
 [
   {
+    "title": "Impact of Ultra-High-Pressure OPN NC Balloons in Complex Coronary Interventions: Indications, Safety, and Efficacy",
+    "link": "https://doi.org/10.25270/jic/26.00071",
+    "doi": "10.25270/jic/26.00071",
+    "journal": "J Invasive Cardiology",
+    "date": "May 28, 2026",
+    "date_ts": 1779940664.742005,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Endovascular Management for Symptomatic Superior Vena Cava Syndrome in a Patient on Hemodialysis",
+    "link": "https://doi.org/10.25270/jic/26.00136",
+    "doi": "10.25270/jic/26.00136",
+    "journal": "J Invasive Cardiology",
+    "date": "May 28, 2026",
+    "date_ts": 1779940664.621776,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "When the Left Ventricle Dances: Ballerina Foot Appearance in Hypertrophic Cardiomyopathy",
+    "link": "https://doi.org/10.25270/jic/26.00152",
+    "doi": "10.25270/jic/26.00152",
+    "journal": "J Invasive Cardiology",
+    "date": "May 28, 2026",
+    "date_ts": 1779940664.464628,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Endovascular Repair of Recurrent Coarctation With Pseudoaneurysm After Prior Bare-Metal Stent Using Thoracic Branched Endoprosthesis",
+    "link": "https://doi.org/10.25270/jic/26.00119",
+    "doi": "10.25270/jic/26.00119",
+    "journal": "J Invasive Cardiology",
+    "date": "May 28, 2026",
+    "date_ts": 1779940664.357536,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "PCI for Ostial Stenosis of Left Circumflex or Left Anterior Descending Artery",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70670?af=R",
+    "doi": "10.1002/ccd.70670",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "May 27, 2026",
+    "date_ts": 1779853166.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Efficacy and Safety of Prasugrel, Ticagrelor, or Clopidogrel After Percutaneous Coronary Intervention",
+    "link": "https://doi.org/10.1001/jamacardio.2026.1128",
+    "doi": "10.1001/jamacardio.2026.1128",
+    "journal": "JAMA Cardiology",
+    "date": "May 27, 2026",
+    "date_ts": 1779840000.0,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Intravascular Imaging\u2010Guided Percutaneous Coronary Intervention Versus Coronary Artery Bypass Grafting for Unprotected Left Main Stenosis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70672?af=R",
+    "doi": "10.1002/ccd.70672",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "May 26, 2026",
+    "date_ts": 1779798319.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Valve thrombosis or valve deterioration: what truly drives the prognosis?",
     "link": "https://doi.org/10.4244/eij-d-26-00479",
     "doi": "10.4244/eij-d-26-00479",
@@ -5958,91 +6043,6 @@
     "date_ts": 1775207129.0,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "An Old Problem, an Old Device, but Perhaps a New Indication? Intra\u2010Aortic Balloon Counterpulsation for Intracoronary Thrombus",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70602?af=R",
-    "doi": "10.1002/ccd.70602",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 03, 2026",
-    "date_ts": 1775192430.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Differential Predictors of Severe Versus Milder Radial Artery Spasm: Insights From a Large Contemporary Distal Radial Access Cohort",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70598?af=R",
-    "doi": "10.1002/ccd.70598",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 03, 2026",
-    "date_ts": 1775192312.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prognostic Impact of Baseline Anemia on Outcomes After Elective PCI in Men: A US Retrospective Cohort Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70583?af=R",
-    "doi": "10.1002/ccd.70583",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 03, 2026",
-    "date_ts": 1775188867.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Is Transient Ischemic Dilatation a Marker or a Mechanism of Recovery After CTO\u2010PCI?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70605?af=R",
-    "doi": "10.1002/ccd.70605",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 03, 2026",
-    "date_ts": 1775187959.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cardiac rehabilitation after transcatheter aortic valve implantation before, during and after the COVID-19 pandemic: a whole-population study",
-    "link": "https://doi.org/10.1136/heartjnl-2025-327186",
-    "doi": "10.1136/heartjnl-2025-327186",
-    "journal": "Heart (BMJ)",
-    "date": "Apr 03, 2026",
-    "date_ts": 1775174400.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Mechanical Circulatory Support Use in Chronic Total Occlusion Percutaneous Coronary Intervention: A Systematic Review",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70589?af=R",
-    "doi": "10.1002/ccd.70589",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775131430.0,
-    "tags": [
-      "PCI",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Around and Through: Successful Mitral Paravalvular Leakage Closure Using Both Anterograde and Retrograde Approaches",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70604?af=R",
-    "doi": "10.1002/ccd.70604",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775131301.0,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
