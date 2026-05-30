@@ -1,5 +1,17 @@
 [
   {
+    "title": "Imaging Insights Into Endothelial Response: Cardiac Computed Tomography Assessment of WATCHMAN FLX and FLX Pro",
+    "link": "https://doi.org/10.25270/jic/26.00003",
+    "doi": "10.25270/jic/26.00003",
+    "journal": "J Invasive Cardiology",
+    "date": "May 30, 2026",
+    "date_ts": 1780112737.95019,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "When Spasm Mimics STEMI: A Post-PCI Surprise",
     "link": "https://doi.org/10.25270/jic/26.00154",
     "doi": "10.25270/jic/26.00154",
@@ -6030,18 +6042,6 @@
     "journal": "Catheter Cardiovasc Interv",
     "date": "Apr 06, 2026",
     "date_ts": 1775471483.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful Revascularization of Chronic Total Occlusions in Patients With Chronic Thromboembolic Pulmonary Disease",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70611?af=R",
-    "doi": "10.1002/ccd.70611",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 06, 2026",
-    "date_ts": 1775471374.0,
     "tags": [
       "PCI"
     ],
