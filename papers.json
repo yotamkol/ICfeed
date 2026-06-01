@@ -1,5 +1,54 @@
 [
   {
+    "title": "Feasibility and challenges of the UNICORN technique in native aortic valve transcatheter aortic valve implantation",
+    "link": "https://doi.org/10.4244/eij-d-25-01107",
+    "doi": "10.4244/eij-d-25-01107",
+    "journal": "EuroIntervention",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "TAVI and coronary interventions: indications, technical considerations, and clinical scenarios",
+    "link": "https://doi.org/10.4244/eij-d-25-00874",
+    "doi": "10.4244/eij-d-25-00874",
+    "journal": "EuroIntervention",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "PCI",
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Early outcomes of redo-TAVI with the SAPIEN 3 platform: the prospective, multicentre ReTAVI registry",
+    "link": "https://doi.org/10.4244/eij-d-25-01268",
+    "doi": "10.4244/eij-d-25-01268",
+    "journal": "EuroIntervention",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "First-in-human experience with a heterotopic cross-caval transcatheter tricuspid valve replacement",
+    "link": "https://doi.org/10.4244/eij-d-25-01160",
+    "doi": "10.4244/eij-d-25-01160",
+    "journal": "EuroIntervention",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Imaging Insights Into Endothelial Response: Cardiac Computed Tomography Assessment of WATCHMAN FLX and FLX Pro",
     "link": "https://doi.org/10.25270/jic/26.00003",
     "doi": "10.25270/jic/26.00003",
@@ -5995,55 +6044,6 @@
     "date_ts": 1775520000.0,
     "tags": [
       "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Letter by Xu et al Regarding Article, \u201cPonatinib, But Not the New Abl-Kinase Inhibitor Asciminib, Activates Platelets, Leukocytes, and Endothelial Cell TNF Signaling to Induce Atherosclerotic Plaque Inflammation, Myocardial Infarction, and Stroke\u201d",
-    "link": "https://doi.org/10.1161/circulationaha.125.078078",
-    "doi": "10.1161/circulationaha.125.078078",
-    "journal": "Circulation",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775520000.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Elevated Maresin\u20101 Levels in Pericardial Fluid of Patients Undergoing Coronary Artery Bypass Grafting",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70612?af=R",
-    "doi": "10.1002/ccd.70612",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 06, 2026",
-    "date_ts": 1775476529.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Acute Stent Thrombosis During Glycoprotein IIb/IIIa Inhibitor Infusion",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70603?af=R",
-    "doi": "10.1002/ccd.70603",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 06, 2026",
-    "date_ts": 1775473287.0,
-    "tags": [
-      "PCI",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Can the T and Minimal Protrusion (TAP) Technique be Considered as an Up\u2010Front 2\u2010Stent Strategy for True Distal Left Main Stem Bifurcation?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70588?af=R",
-    "doi": "10.1002/ccd.70588",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 06, 2026",
-    "date_ts": 1775471483.0,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
