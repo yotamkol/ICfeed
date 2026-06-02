@@ -1,5 +1,92 @@
 [
   {
+    "title": "Severe Coronary Vasospasm Mimicking STEMI After Drug-Coated Balloon Angioplasty",
+    "link": "https://doi.org/10.25270/jic/26.00129",
+    "doi": "10.25270/jic/26.00129",
+    "journal": "J Invasive Cardiology",
+    "date": "Jun 02, 2026",
+    "date_ts": 1780373935.418093,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparative Efficacy of GLP\u20101 RAs Versus SGLT2 Inhibitors in Patients With Acute Myocardial Infarction Undergoing Percutaneous Coronary Intervention: A Multicenter Propensity Score\u2010Matched Real\u2010World Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70668?af=R",
+    "doi": "10.1002/ccd.70668",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780293371.0,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Short Versus Extended Duration of Triple Antithrombotic Therapy After Percutaneous Coronary Intervention in Patients Requiring Oral Anticoagulation: A Retrospective Single\u2010Center Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70667?af=R",
+    "doi": "10.1002/ccd.70667",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780292723.0,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Mechanical Thrombectomy Versus Anticoagulation in Intermediate\u2010Risk Pulmonary Embolism: A Risk\u2010Stratified, Propensity Score\u2013Matched Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70676?af=R",
+    "doi": "10.1002/ccd.70676",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780292384.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Role of Neuroimaging Before Coronary Angiography in Patients With Out\u2010of\u2010Hospital Cardiac Arrest",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70681?af=R",
+    "doi": "10.1002/ccd.70681",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780292244.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical and Echocardiographic Outcomes After Implantation of the ALLEGRA Transcatheter Valve Using the Fully Repositionable IMPERIA Delivery System: One\u2010Year Results of the EMPIRE I Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70675?af=R",
+    "doi": "10.1002/ccd.70675",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780292135.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Standard modifiable risk factors among patients undergoing percutaneous coronary intervention: prevalence and impact",
+    "link": "https://doi.org/10.1093/eurheartj/ehag254",
+    "doi": "10.1093/eurheartj/ehag254",
+    "journal": "European Heart Journal",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Feasibility and challenges of the UNICORN technique in native aortic valve transcatheter aortic valve implantation",
     "link": "https://doi.org/10.4244/eij-d-25-01107",
     "doi": "10.4244/eij-d-25-01107",
@@ -5958,90 +6045,6 @@
     "journal": "Catheter Cardiovasc Interv",
     "date": "Apr 10, 2026",
     "date_ts": 1775795410.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Age, frailty, and outcomes in myocardial infarction: a new paradigm for an old concept",
-    "link": "https://doi.org/10.1093/eurheartj/ehag213",
-    "doi": "10.1093/eurheartj/ehag213",
-    "journal": "European Heart Journal",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775692800.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A natural experiment in the air: particulate matter and acute myocardial infarction subtypes during the COVID-19 pandemic",
-    "link": "https://doi.org/10.1093/eurheartj/ehag218",
-    "doi": "10.1093/eurheartj/ehag218",
-    "journal": "European Heart Journal",
-    "date": "Apr 09, 2026",
-    "date_ts": 1775692800.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Outcomes of Left Atrial Appendage Occlusion in Heart Failure With Reduced Ejection Fraction",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70607?af=R",
-    "doi": "10.1002/ccd.70607",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 08, 2026",
-    "date_ts": 1775623852.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Index of Device Efficiency: IVUS\u2010Based Metric to Quantify Cutting Balloon Performance in Calcified Coronary Lesions",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70597?af=R",
-    "doi": "10.1002/ccd.70597",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 08, 2026",
-    "date_ts": 1775619546.0,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Letter by Zheng et al Regarding Article, \u201cPonatinib, But Not the New Abl-Kinase Inhibitor Asciminib, Activates Platelets, Leukocytes, and Endothelial Cell TNF Signaling to Induce Atherosclerotic Plaque Inflammation, Myocardial Infarction, and Stroke\u201d",
-    "link": "https://doi.org/10.1161/circulationaha.125.077193",
-    "doi": "10.1161/circulationaha.125.077193",
-    "journal": "Circulation",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775520000.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Letter by Liu and Li Regarding Article, \u201cPonatinib, But Not the New Abl-Kinase Inhibitor Asciminib, Activates Platelets, Leukocytes, and Endothelial Cell TNF Signaling to Induce Atherosclerotic Plaque Inflammation, Myocardial Infarction, and Stroke\u201d",
-    "link": "https://doi.org/10.1161/circulationaha.125.077133",
-    "doi": "10.1161/circulationaha.125.077133",
-    "journal": "Circulation",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775520000.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Response by Stepanian and Jaffe to Letters Regarding Article, \u201cPonatinib, but Not the New Abl-Kinase Inhibitor Asciminib, Activates Platelets, Leukocytes, and Endothelial Cell TNF Signaling to Induce Atherosclerotic Plaque Inflammation, Myocardial Infarction, and Stroke\u201d",
-    "link": "https://doi.org/10.1161/circulationaha.126.079054",
-    "doi": "10.1161/circulationaha.126.079054",
-    "journal": "Circulation",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775520000.0,
     "tags": [
       "ACS"
     ],
