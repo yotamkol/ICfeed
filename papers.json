@@ -1,5 +1,41 @@
 [
   {
+    "title": "NEJM Outbreaks Update \u2014 Andes Hantavirus",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2505379?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMe2505379",
+    "journal": "NEJM",
+    "date": "Jun 03, 2026",
+    "date_ts": 1780461510.328735,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70664?af=R",
+    "doi": "10.1002/ccd.70664",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780311148.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Navigating Mechanical Support in Cardiogenic Shock With Arterial Hypoplasia: Lessons From Arterial Tortuosity Syndrome",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70677?af=R",
+    "doi": "10.1002/ccd.70677",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780308851.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Severe Coronary Vasospasm Mimicking STEMI After Drug-Coated Balloon Angioplasty",
     "link": "https://doi.org/10.25270/jic/26.00129",
     "doi": "10.25270/jic/26.00129",
@@ -6011,42 +6047,6 @@
     "date_ts": 1776055618.0,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Impact of Vascular Access Complications in Patients Undergoing Transcatheter Aortic Valve Replacement",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70560?af=R",
-    "doi": "10.1002/ccd.70560",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776050423.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Aortic Valve Replacement in a Perceval Valve: Pitfalls, Tips, and Outcomes",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70619?af=R",
-    "doi": "10.1002/ccd.70619",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 10, 2026",
-    "date_ts": 1775815183.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Anatomy of the Pulmonary Circulation and Outcomes in Tetralogy of Fallot With Major Systemic\u2010to\u2010Pulmonary Collaterals and Unilateral Pulmonary Artery of Ductal Origin",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70585?af=R",
-    "doi": "10.1002/ccd.70585",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 10, 2026",
-    "date_ts": 1775795410.0,
-    "tags": [
-      "ACS"
     ],
     "hot": false
   }
