@@ -1,5 +1,41 @@
 [
   {
+    "title": "Residual cholesterol and inflammatory risk in statin-treated patients undergoing percutaneous coronary intervention: challenges with the proportional hazards assumption and coping strategies",
+    "link": "https://doi.org/10.1093/eurheartj/ehag325",
+    "doi": "10.1093/eurheartj/ehag325",
+    "journal": "European Heart Journal",
+    "date": "Jun 03, 2026",
+    "date_ts": 1780444800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Residual cholesterol and inflammatory risk in statin-treated patients undergoing percutaneous coronary intervention: proportional hazards assumption in context",
+    "link": "https://doi.org/10.1093/eurheartj/ehag326",
+    "doi": "10.1093/eurheartj/ehag326",
+    "journal": "European Heart Journal",
+    "date": "Jun 03, 2026",
+    "date_ts": 1780444800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Strut Thickness for Patients Treated With Percutaneous Revascularization for Coronary Bifurcations: Insights From the BIFURCAT\u2010ULTRA Registry",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70669?af=R",
+    "doi": "10.1002/ccd.70669",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 02, 2026",
+    "date_ts": 1780403551.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "NEJM Outbreaks Update \u2014 Andes Hantavirus",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2505379?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMe2505379",
@@ -6008,43 +6044,6 @@
     "journal": "Catheter Cardiovasc Interv",
     "date": "Apr 13, 2026",
     "date_ts": 1776064932.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical and Physiological Predictors of Acetylcholine\u2010Induced Coronary Spasm in ANOCA/INOCA Patients: A Retrospective Cohort Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70628?af=R",
-    "doi": "10.1002/ccd.70628",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776055971.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful Percutaneous Revascularization for Acute Myocardial Infarction From Left Main Occlusion and Concomitant Right Coronary Artery Chronic Total Occlusion: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70624?af=R",
-    "doi": "10.1002/ccd.70624",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776055739.0,
-    "tags": [
-      "ACS",
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Artificial Intelligence\u2010Empowered Image Fusion of Coronary Computed Tomography Angiography and Invasive Angiography for Guiding Chronic Total Occlusion Percutaneous Coronary Intervention",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70615?af=R",
-    "doi": "10.1002/ccd.70615",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776055618.0,
     "tags": [
       "PCI"
     ],
