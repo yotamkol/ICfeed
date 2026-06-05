@@ -1,5 +1,65 @@
 [
   {
+    "title": "[Articles] Efficacy and safety of the CD40 ligand inhibitor dapirolizumab pegol in systemic lupus erythematosus (PHOENYCS GO): a randomised, double-blind, placebo-controlled, phase 3 trial",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00691-4/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)00691-4",
+    "journal": "Lancet",
+    "date": "Jun 05, 2026",
+    "date_ts": 1780632378.231965,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Correspondence] Hantavirus outbreak on a cruise ship in the South Atlantic",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00934-7/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)00934-7",
+    "journal": "Lancet",
+    "date": "Jun 05, 2026",
+    "date_ts": 1780632378.231886,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Correspondence] Cruise ship hantavirus outbreak in remote island communities",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01014-7/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)01014-7",
+    "journal": "Lancet",
+    "date": "Jun 05, 2026",
+    "date_ts": 1780632378.231853,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Comment] Targeting CD40 with dapirolizumab pegol: a new treatment for systemic lupus erythematosus",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01008-1/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)01008-1",
+    "journal": "Lancet",
+    "date": "Jun 05, 2026",
+    "date_ts": 1780632378.231721,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Strengthening secondary prevention after acute coronary syndromes: the case for nurse-led prevention",
+    "link": "https://doi.org/10.1093/eurheartj/ehag352",
+    "doi": "10.1093/eurheartj/ehag352",
+    "journal": "European Heart Journal",
+    "date": "Jun 04, 2026",
+    "date_ts": 1780531200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Residual cholesterol and inflammatory risk in statin-treated patients undergoing percutaneous coronary intervention: challenges with the proportional hazards assumption and coping strategies",
     "link": "https://doi.org/10.1093/eurheartj/ehag325",
     "doi": "10.1093/eurheartj/ehag325",
@@ -5986,66 +6046,6 @@
     "date_ts": 1776074025.446939,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Drug-Coated Balloon Angioplasty vs Drug-Eluting Stents in Noncomplex Coronary Bifurcation Lesions: The REC-CAGEFREE I Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006631?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.446906,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Efficacy of the Cracking Technique for a Microcatheter-Uncrossable Calcified Lesion",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006655?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.446866,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Anticipating Landmark Outcomes Trials in Intermediate-Risk PE: Patient Selection and Implications for 2026 Guidelines",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009076?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.446825,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Applying the 2025 ESC/EACTS Recommendations for the Treatment of Severe Tricuspid Regurgitation to Real-World Practice",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600885X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.446664,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Conservative Management of Iatrogenic Type a Aortic Dissection Occurring During Percutaneous Coronary Intervention",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70622?af=R",
-    "doi": "10.1002/ccd.70622",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776064932.0,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
