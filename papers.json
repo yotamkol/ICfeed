@@ -1,5 +1,42 @@
 [
   {
+    "title": "Successful Application of Antegrade Dissection and Re\u2010Entry Technique in Managing a Complex Percutaneous Coronary Intervention With Entrapped Microcatheter Tip",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70684?af=R",
+    "doi": "10.1002/ccd.70684",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 05, 2026",
+    "date_ts": 1780632131.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "EAPCI 2026 Summit and EAPCI Congress 2027: Save the Date",
+    "link": "https://doi.org/10.1093/eurheartj/ehag320",
+    "doi": "10.1093/eurheartj/ehag320",
+    "journal": "European Heart Journal",
+    "date": "Jun 05, 2026",
+    "date_ts": 1780617600.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "P2Y12 inhibitor monotherapy after abbreviated dual antiplatelet therapy following percutaneous coronary intervention: a meta-analysis",
+    "link": "https://doi.org/10.1093/eurheartj/ehag381",
+    "doi": "10.1093/eurheartj/ehag381",
+    "journal": "European Heart Journal",
+    "date": "Jun 05, 2026",
+    "date_ts": 1780617600.0,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
     "title": "[Articles] Efficacy and safety of the CD40 ligand inhibitor dapirolizumab pegol in systemic lupus erythematosus (PHOENYCS GO): a randomised, double-blind, placebo-controlled, phase 3 trial",
     "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00691-4/fulltext?rss=yes",
     "doi": "10.1016/S0140-6736(26)00691-4",
@@ -6007,43 +6044,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "Apr 13, 2026",
     "date_ts": 1776074025.447029,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Iatrogenic Left Main Trunk Injury by a Straight Wire During Aortic Valve Crossing in TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006618?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447,
-    "tags": [
-      "PCI",
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pedal Loop Thrombectomy for Acute Limb Ischemia Using the Penumbra CAT RX Catheter",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005248?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.44697,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The 10 Commandments of PFO Pathophysiology and Patient Selection",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006667?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.446939,
     "tags": [
       "Structural"
     ],
