@@ -1,5 +1,55 @@
 [
   {
+    "title": "Lipoprotein(a) and oxidized phospholipids are associated with myocardial inflammation after acute myocardial infarction",
+    "link": "https://www.nature.com/articles/s44161-026-00821-7",
+    "doi": "10.1038/s44161-026-00821-7",
+    "journal": "Nature Cardiovasc Res",
+    "date": "Jun 09, 2026",
+    "date_ts": 1780977151.859476,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Rare Case of Isolated Single Coronary Artery, Lipton's Type R\u2010IIB in an Elderly Woman With Recurrent Chest Pain and Left Bundle Branch Block: A Case Report",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70685?af=R",
+    "doi": "10.1002/ccd.70685",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 08, 2026",
+    "date_ts": 1780902114.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Outcomes of Patients With High\u2010Risk Plaques Treated With a Bioresorbable Magnesium Scaffold: Insights From the BIOMAG\u2010I Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70655?af=R",
+    "doi": "10.1002/ccd.70655",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 08, 2026",
+    "date_ts": 1780889983.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Antithrombotic therapy for secondary prevention in patients with acute coronary syndromes treated with percutaneous coronary intervention: options for personalization to reduce bleeding or ischaemic risks.&amp;nbsp;A Clinical Consensus Statement of the ESC Working Group on Thrombosis, the Association for Acute CardioVascular Care of the ESC, the European Association of Percutaneous Cardiovascular Interventions of the ESC, and the ESC Working Group on Cardiovascular Pharmacology\nA Clinical Consensus Statement of the ESC Working&amp;nbsp;Group on Thrombosis, the Association for Acute CardioVascular Care of the&amp;nbsp;ESC, the European Association of Percutaneous Cardiovascular Interventions of the ESC, and the ESC Working Group on&amp;nbsp;Cardiovascular Pharmacology",
+    "link": "https://doi.org/10.4244/eij-e-26-00003",
+    "doi": "10.4244/eij-e-26-00003",
+    "journal": "EuroIntervention",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "ACS",
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
     "title": "Successful Application of Antegrade Dissection and Re\u2010Entry Technique in Managing a Complex Percutaneous Coronary Intervention With Entrapped Microcatheter Tip",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70684?af=R",
     "doi": "10.1002/ccd.70684",
@@ -5998,54 +6048,6 @@
     "date_ts": 1776074025.447148,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "REPLY: 15-Year Cardiovascular Risk in Patients With Angina Without Obstructive Coronary Arteries: Is the Answer Clear?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006564?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447117,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Limitations of Current Angiography-Derived IMR: Microvascular Invisibility and Flow Assumptions",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600662X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447086,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Full Issue PDF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007843?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447061,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "M-TEER for Mitral Regurgitation: Does RESHAPE-HF2 Break the Tie or Muddy the Waters?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006758?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447029,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
