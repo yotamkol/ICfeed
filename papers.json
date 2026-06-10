@@ -1,5 +1,377 @@
 [
   {
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601469X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307532,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Aortic Valve Leaflet Modification: A Working Group Position Statement on Best Practices and Step-by-Step Guide",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013440?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307501,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Current Evidence, Emerging Evidence, and Decision-Making: An Algorithm for Leaflet Modification Procedures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013312?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307471,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Leaflet Modification on the Occurrence of Hypoattenuated Leaflet Thickening After Valve-in-Valve Transcatheter Aortic Valve Replacement",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013129?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307441,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Leaflet Modification in Valve-in-Valve Transcatheter Aortic Valve Replacement: Potential Benefits Beyond Coronary Protection",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013270?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307413,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "CT-Based Risk Stratification of Coronary Obstruction During TAVR: Clinical Utility and a New Volumetric Parameter",
+    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601321X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307385,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Coronary Obstruction During TAVR: A Rare Catastrophic Risk Requiring Anticipation, Vigilance, and Readiness",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013464?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307356,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Leaflet Splitting to Prevent TAVR-Induced Coronary Obstruction in Stented vs Stentless Surgical Bioprosthetic Valves",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013087?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307327,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cracks in the BASILICA: Stentless ViV-TAVR",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013051?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307301,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparison of Leaflet Modification Techniques for TAV-in-TAV: Insights From Bench Testing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013427?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307266,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Leaflet Modification for Redo-TAVR: Impact of Valve Type, Expansion, and Failure Mode\u2014A Bench Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013105?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.30721,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Redo-TAVR Leaflet Modification: When Mechanics Trump Technique and Why Lifetime Strategy Begins With the First Valve",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013373?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307171,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Decoding Redo-TAVR: Moving Beyond Intuition to Standardized Leaflet Modification",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013300?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307143,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Tissue Treatment and Leaflet Design on Fifth-Generation Balloon-Expandable Transcatheter Heart Valve Function",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013439?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307112,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Evolution in Transcatheter Heart Valve Technology: The Role of Bench Testing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013257?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307083,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "On-Table LM View to Predict Left Main Obstruction in TAV-in-TAV",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006679?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307055,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Leaflet Modification on Redo-TAVR Feasibility: A Computed Tomography Simulation Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013075?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307027,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "BASILICA for TAVR After Ozaki Aortic Valve Neocuspidization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013361?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.307001,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Multileaflet BASILICA to Prevent Coronary Obstruction in a Small Aortic Annulus",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013063?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.30697,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Commissural Misalignment\u2013Mediated Sinus Sequestration Following Balloon-Augmented BASILICA During Redo-TAVR",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013099?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.306934,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "2 for 1: Perfusing Both Coronary Sinuses With Solo BASILICA",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013130?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.306904,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transapical Bioprosthetic Leaflets Removal to Prevent Left Ventricular Outflow Tract Obstruction During Mitral Valve-in-Valve",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011209?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.306869,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Bailout LLAMACORN for BASILICA Failure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011155?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.30684,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Leaflet Avulsion Following Leaflet Splitting During Valve-in-Valve Transcatheter Aortic Valve Replacement",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006692?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.306807,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Guiding Catheter Size as an Unmeasured Confounder in the ROLLING STONE Registry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826012550?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.306774,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Device Selection Conundrum and Procedural Factors in the ROLLING STONE Registry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826012574?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.306735,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "REPLY: Guiding Catheter Size, Device Selection Conundrum, and Procedural Factors in the ROLLING STONE Registry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826012598?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.306692,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Full Issue PDF",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014706?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781064233.30653,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Improving the diagnostic performance of troponin assays for acute myocardial infarction in renal impairment",
+    "link": "https://doi.org/10.1136/heartjnl-2025-327658",
+    "doi": "10.1136/heartjnl-2025-327658",
+    "journal": "Heart (BMJ)",
+    "date": "Jun 09, 2026",
+    "date_ts": 1780963200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transcatheter Closure of Paravalvular Leaks: Efficacy, Techniques, and Outcomes From a Single\u2010Center Prospective Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70682?af=R",
+    "doi": "10.1002/ccd.70682",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 08, 2026",
+    "date_ts": 1780916445.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ischaemic heart disease: focus on sex and gender differences, coronary pathophysiology, and remodelling after myocardial infarction",
+    "link": "https://doi.org/10.1093/eurheartj/ehag452",
+    "doi": "10.1093/eurheartj/ehag452",
+    "journal": "European Heart Journal",
+    "date": "Jun 07, 2026",
+    "date_ts": 1780790400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Lipoprotein(a) and oxidized phospholipids are associated with myocardial inflammation after acute myocardial infarction",
     "link": "https://www.nature.com/articles/s44161-026-00821-7",
     "doi": "10.1038/s44161-026-00821-7",
@@ -5674,380 +6046,6 @@
     "tags": [
       "Structural",
       "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Unaddressed DAPT Regimen Heterogeneity in Valve-in-Valve TAVR Antiplatelet Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826003857?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448063,
-    "tags": [
-      "Structural",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "REPLY: Optimal Antiplatelet Strategy After Valve-in-Valve TAVR: Unsolved Issues and Current Working Hypotheses",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826003845?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448037,
-    "tags": [
-      "Structural",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Full Issue PDF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005893?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448013,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Durability of Mitral Valve Transcatheter Edge-to-Edge Repair: An Expert Overview",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826008769?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447983,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Nonfatal Adverse Events and Risk for Subsequent Mortality in Patients Undergoing Percutaneous Coronary Intervention",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006643?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447955,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Combined Use of UNICORN and Snorkel Stenting for ViV TAVR in Prohibitive Coronary Obstruction Risk",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006709?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447928,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Right Heart Strain Changes After Transcatheter Tricuspid Valve Replacement: A Cardiac CT Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006783?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447899,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful Treatment of Left Ventricular Outflow Obstruction With Mitral Transcatheter Edge-to-Edge Repair Using PASCAL Ace",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006710?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447868,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600782X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447844,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Tricuspid Valve Intervention Risk Scores: Assessment in an International Multicenter Cohort",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005133?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447815,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Risk Prediction in Transcatheter Tricuspid Valve Intervention: Aiming at a Moving Target",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005170?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447788,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Incidence, Clinical Implications, and Predictors of Paravalvular Leak Following Transcatheter Tricuspid Valve Replacement: The TRIPLACE Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005157?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447758,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Paravalvular Leak in TTVR: A Failure of the Valve\u2014or of the Strategy?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005741?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447727,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Frequency and Outcomes of Acute Hemodynamic Instability Following Transcatheter Tricuspid Valve Replacement: Insights From the CESAR-TR-Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005182?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447697,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hemodynamic Instability Following Transcatheter Tricuspid Valve Replacement: Red Alert",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005169?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447669,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Incidence, Predictors and Outcomes of Bleeding Following Transcatheter Tricuspid Valve Repair: The TriValve Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600573X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.44764,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bleeding Following Transcatheter Tricuspid Valve Repair in the TriValve Registry: \u201cIf You Prick Us, Do We Not Bleed?\u201d (William Shakespeare, <em>The Merchant of Venice</em>)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005777?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447603,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Management and Outcome of Failed Transcatheter Tricuspid Edge-to-Edge Repair: Insights From the FATE International Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005194?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447572,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "If at First You Don\u2019t Succeed\u2014Tri, Tri Again",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005145?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.44754,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prognostic Value of Microvascular Resistance Reserve in Coronary Artery Disease: A Systematic Review and Meta-Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006539?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447509,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Microvascular Resistance Reserve: Time to Stop Resisting?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005753?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.44748,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Core Laboratory Comparison of Angiography-Derived Indexes of Microvascular Resistance vs Pressure-Wire IMR and Absolute Resistance",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982502686X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447446,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Angiography-Derived Microvascular Resistance: Elegant Theory, Elusive Accuracy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005728?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447411,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Association of Low Alanine Aminotransferase Levels and Outcomes in Patients Undergoing Tricuspid Valve Edge-to-Edge Repair",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005765?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447378,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Dynamic Cardiac CT Flow Analysis of Biventricular Function and Remodeling After Transcatheter Tricuspid Valve Replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826003882?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447348,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Coping With Complications in the Catheterization Laboratory: A Step-by-Step Approach",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006552?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447319,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Steerable Catheter Repositioning of a Pacemaker Lead Loop to Enable Tricuspid Edge-to-Edge Repair",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600659X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.44729,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Tricuspid Valve-in-Ring Implantation Using Gore-Tex Enhanced Reinforcement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006588?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447261,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bedside Correction of Impella Malrotation to Resolve Mechanical Hemolysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006576?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447231,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Device Closure for Saccular Superior Vena Cava Aneurysm: A Case Report",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982503403X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447199,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "15-Year Cardiovascular Risk in Patients With Angina Without Obstructive Coronary Arteries: Is the Answer Clear?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006540?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.447148,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
