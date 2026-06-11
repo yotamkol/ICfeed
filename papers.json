@@ -1,5 +1,17 @@
 [
   {
+    "title": "Heart Rate and Cardiovascular Outcomes in Post\u2013Myocardial Infarction Patients Treated by \u03b2-Blockers: A Secondary Analysis of the ABYSS Trial",
+    "link": "https://doi.org/10.1161/circulationaha.125.078635",
+    "doi": "10.1161/circulationaha.125.078635",
+    "journal": "Circulation",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781049600.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Editorial Board",
     "link": "https://www.sciencedirect.com/science/article/pii/S193687982601469X?dgcid=rss_sd_all",
     "doi": null,
@@ -6033,19 +6045,6 @@
     "date_ts": 1776074025.448112,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stroke Timing and Optimizing Antiplatelet Strategy After Valve-in-Valve TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826003869?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448088,
-    "tags": [
-      "Structural",
-      "Pharmacology"
     ],
     "hot": false
   }
