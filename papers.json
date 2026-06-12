@@ -1,5 +1,42 @@
 [
   {
+    "title": "Angiographic Quantitative Flow Ratio-Guided Coronary Intervention: 5-Year Follow-Up From the FAVOR III China Randomized Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726063564?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Jun 12, 2026",
+    "date_ts": 1781237974.674138,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prison Break: Extraction of a Plug Jailed Between Two Mechanical Valves",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70686?af=R",
+    "doi": "10.1002/ccd.70686",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 11, 2026",
+    "date_ts": 1781149813.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Stroke after transcatheter aortic valve implantation: the limits of progress",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328363",
+    "doi": "10.1136/heartjnl-2026-328363",
+    "journal": "Heart (BMJ)",
+    "date": "Jun 11, 2026",
+    "date_ts": 1781136000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Heart Rate and Cardiovascular Outcomes in Post\u2013Myocardial Infarction Patients Treated by \u03b2-Blockers: A Secondary Analysis of the ABYSS Trial",
     "link": "https://doi.org/10.1161/circulationaha.125.078635",
     "doi": "10.1161/circulationaha.125.078635",
@@ -6007,42 +6044,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "Apr 13, 2026",
     "date_ts": 1776074025.448225,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "More Than a Symptom: Peripheral Edema as a Prognostic Marker in Tricuspid Regurgitation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031978?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448192,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hybrid Transcatheter Closure of Giant Postinfarction Left Ventricular Rupture Using 3D-Guided Planning",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031887?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448143,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Making Radiation Visible: Real-Time Detection of Scatter Radiation Leaks While Using Enhanced Radiation Protection Systems",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826004516?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448112,
     "tags": [
       "Other"
     ],
