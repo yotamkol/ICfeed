@@ -1,5 +1,65 @@
 [
   {
+    "title": "Safety and Device Success of Transcatheter Aortic Valve Replacement: A 12\u2010Year Single\u2010Center VARC\u20103 Report",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70697?af=R",
+    "doi": "10.1002/ccd.70697",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 12, 2026",
+    "date_ts": 1781237549.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sex\u2010Related Differences in the Prevalence and Clinical Outcomes of Moderate\u2010to\u2010Severe Coronary Artery Calcification in Patients Undergoing Percutaneous Coronary Intervention",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70700?af=R",
+    "doi": "10.1002/ccd.70700",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 12, 2026",
+    "date_ts": 1781237515.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Deploying Coils Within a Stent: A Flexible New Variant of Stent\u2010Assisted Coiling for Arterial Occlusion",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70707?af=R",
+    "doi": "10.1002/ccd.70707",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 12, 2026",
+    "date_ts": 1781237321.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cracking a Bioprosthesis in Pulmonary Position With Subsequent Percutaneous Pulmonary Valve Implantation (PPVI) Is Safe\u2014But Size Matters: A Word of Caution",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70690?af=R",
+    "doi": "10.1002/ccd.70690",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 12, 2026",
+    "date_ts": 1781237131.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Femoropopliteal Stenosis Severity Thresholds: Refining Duplex Ultrasound Utility for Below\u2010the\u2010Knee Screening in Chronic Limb\u2010Threatening Ischemia",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70705?af=R",
+    "doi": "10.1002/ccd.70705",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 12, 2026",
+    "date_ts": 1781236981.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Angiographic Quantitative Flow Ratio-Guided Coronary Intervention: 5-Year Follow-Up From the FAVOR III China Randomized Trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726063564?dgcid=rss_sd_all",
     "doi": null,
@@ -5984,66 +6044,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "Apr 13, 2026",
     "date_ts": 1776074025.448386,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Predictors of Left Atrial Compliance and V-Wave Response in Patients Undergoing Transcatheter Mitral Valve Therapy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031966?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448358,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "From the Catheterization Laboratory, Echocardiographic Laboratory, and Human Resources: <em>Compliance</em> Always Matters!",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005236?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448327,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Predicting Outcomes in Patients With Tricuspid Regurgitation Undergoing Transcatheter Edge-to-Edge Repair Using an Artificial Intelligence\u2013Derived Risk Score: The EuroTR Risk Score",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031917?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448284,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The EuroTR Score: Predicting Outcomes After Transcatheter Tricuspid Edge-to-Edge Repair",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825034041?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448255,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Coronary Plaque and Physiological Characteristics in ACS Risk Assessment According to Lesion Count",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825028304?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448225,
     "tags": [
       "Other"
     ],
