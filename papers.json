@@ -1,5 +1,78 @@
 [
   {
+    "title": "Transcatheter edge-to-edge repair for primary mitral regurgitation: what lies ahead?",
+    "link": "https://doi.org/10.4244/eij-d-26-00394",
+    "doi": "10.4244/eij-d-26-00394",
+    "journal": "EuroIntervention",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Temporal trends in mitral edge-to-edge repair for primary mitral regurgitation",
+    "link": "https://doi.org/10.4244/eij-d-25-01308",
+    "doi": "10.4244/eij-d-25-01308",
+    "journal": "EuroIntervention",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Unloading the clock: when timing meets physiology in STEMI shock",
+    "link": "https://doi.org/10.4244/eij-d-26-00601",
+    "doi": "10.4244/eij-d-26-00601",
+    "journal": "EuroIntervention",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Door-to-unload time and mortality in patients with ST-segment elevation myocardial infarction complicated by cardiogenic shock",
+    "link": "https://doi.org/10.4244/eij-d-25-01369",
+    "doi": "10.4244/eij-d-25-01369",
+    "journal": "EuroIntervention",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "ACS",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transcatheter approximation of papillary muscles",
+    "link": "https://doi.org/10.4244/eij-d-25-01353",
+    "doi": "10.4244/eij-d-25-01353",
+    "journal": "EuroIntervention",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Outcomes of intraprocedural haemodynamic changes in patients undergoing mitral transcatheter edge-to-edge repair",
+    "link": "https://doi.org/10.4244/eij-d-26-00084",
+    "doi": "10.4244/eij-d-26-00084",
+    "journal": "EuroIntervention",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Valve\u2010in\u2010Valve TAVR Versus Redo Surgery in Women With Degenerated Aortic Bioprosthesis: A Single\u2010Center Experience",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70693?af=R",
     "doi": "10.1002/ccd.70693",
@@ -5974,78 +6047,6 @@
     "date_ts": 1776074025.448589,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A New Era for Imaging-Guided Optimization of PCI",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600525X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448563,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intravascular Lithotripsy or Mechanical Debulking in Complex Calcified Coronary Arteries: Multicenter, Prospective ROLLING STONE Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031905?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448533,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Plaque Removal or Modification (or Both) Among Complex Calcific Coronary Artery Lesions",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005224?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448505,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial Fibrillation and Tricuspid Regurgitation in Patients Undergoing Mitral Valve Transcatheter Edge-to-Edge Repair",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825027013?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448474,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "After Mitral TEER: Look to the Right and Listen to the Rhythm",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031929?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448447,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Edge-to-Edge Repair for SAM-Related Mitral Regurgitation in Patients With HCM: The TRANSPARENT Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825025919?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448416,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
