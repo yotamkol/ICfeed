@@ -1,5 +1,53 @@
 [
   {
+    "title": "Novel Application of the Dedicated Radial Ventriculography Pigtail Catheter for Selective Pulmonary Artery Engagement in Percutaneous Thrombectomy for Acute Pulmonary Embolism",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70701?af=R",
+    "doi": "10.1002/ccd.70701",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 15, 2026",
+    "date_ts": 1781499226.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Escalating Diameter Buddy Balloon in Transcatheter Aortic Valve Implantation With Complex Aortic Arch",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70694?af=R",
+    "doi": "10.1002/ccd.70694",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 15, 2026",
+    "date_ts": 1781498310.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous Deployment of the Sinus\u2010SuperFlex\u2010DS Stent for Hybrid Stage I Palliation in Neonates Weighing \u2264\u20092.5\u2009kg: A Multicenter Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70687?af=R",
+    "doi": "10.1002/ccd.70687",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 15, 2026",
+    "date_ts": 1781495693.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sirolimus-Eluting Balloon With Provisional Stenting Versus Systematic Drug-Eluting Stent Implantation to Treat De Novo Coronary Lesions: A Randomized, Open-Label, Noninferiority Trial",
+    "link": "https://doi.org/10.1161/circulationaha.126.079033",
+    "doi": "10.1161/circulationaha.126.079033",
+    "journal": "Circulation",
+    "date": "Jun 15, 2026",
+    "date_ts": 1781481600.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Transcatheter edge-to-edge repair for primary mitral regurgitation: what lies ahead?",
     "link": "https://doi.org/10.4244/eij-d-26-00394",
     "doi": "10.4244/eij-d-26-00394",
@@ -5999,54 +6047,6 @@
     "date_ts": 1776074025.448707,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005881?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448684,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Contemporary Trends, Characteristics, and Outcomes of Patients Undergoing Percutaneous Coronary Intervention for Stent Thrombosis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826003894?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448654,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Coronary Intervention for Stent Thrombosis: An Endless Story?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826003900?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448627,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Impact of Diabetes Mellitus After Intravascular Imaging\u2013Guided PCI vs Coronary Artery Bypass Grafting",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879825031930?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448589,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
