@@ -1,5 +1,17 @@
 [
   {
+    "title": "A 17-year journey of a first-generation drug-eluting stent: the extreme paradox of plaque rupture and arrested arterial healing",
+    "link": "https://doi.org/10.1093/eurheartj/ehag470",
+    "doi": "10.1093/eurheartj/ehag470",
+    "journal": "European Heart Journal",
+    "date": "Jun 16, 2026",
+    "date_ts": 1781568000.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Novel Application of the Dedicated Radial Ventriculography Pigtail Catheter for Selective Pulmonary Artery Engagement in Percutaneous Thrombectomy for Acute Pulmonary Embolism",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70701?af=R",
     "doi": "10.1002/ccd.70701",
@@ -6033,18 +6045,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "Apr 13, 2026",
     "date_ts": 1776074025.448735,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety and Effectiveness of a Novel 2Hz Coronary IVL System: The Disrupt CAD Duo IDE Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007776?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074025.448707,
     "tags": [
       "Other"
     ],
