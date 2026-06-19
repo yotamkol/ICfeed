@@ -1,5 +1,41 @@
 [
   {
+    "title": "[Correspondence] Single-dose mRNA vaccines against Andes hantavirus",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01124-4/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)01124-4",
+    "journal": "Lancet",
+    "date": "Jun 19, 2026",
+    "date_ts": 1781844441.520244,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Presence and type of bystanders on delay time in acute myocardial infarction: a transcultural cross-sectional clinical study with 907 patients in Shanghai and Munich",
+    "link": "https://doi.org/10.1136/heartjnl-2025-327595",
+    "doi": "10.1136/heartjnl-2025-327595",
+    "journal": "Heart (BMJ)",
+    "date": "Jun 18, 2026",
+    "date_ts": 1781740800.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prognosis of patients with ST-elevation myocardial infarction presenting to the emergency department without chest pain: a retrospective nationwide cohort study",
+    "link": "https://doi.org/10.1136/heartjnl-2025-327601",
+    "doi": "10.1136/heartjnl-2025-327601",
+    "journal": "Heart (BMJ)",
+    "date": "Jun 18, 2026",
+    "date_ts": 1781740800.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "When the Curve Bends: Low-Risk TAVR Beyond Year 5",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726054367?dgcid=rss_sd_all",
     "doi": null,
@@ -6005,42 +6041,6 @@
     "journal": "JACC",
     "date": "Apr 13, 2026",
     "date_ts": 1776074026.838831,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "IVUS \u2014 A Zigzag Path to Success",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2603397?af=R&rss=currentIssue",
-    "doi": "10.1056/NEJMe2603397",
-    "journal": "NEJM",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074026.707454,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Redefining Physiology in the Cardiac Catheterization Laboratory",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2603714?af=R&rss=currentIssue",
-    "doi": "10.1056/NEJMe2603714",
-    "journal": "NEJM",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074026.707408,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Price of Protection \u2014 Microaxial Flow Pump in High-Risk PCI",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2602727?af=R&rss=currentIssue",
-    "doi": "10.1056/NEJMe2602727",
-    "journal": "NEJM",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074026.707373,
     "tags": [
       "PCI"
     ],
