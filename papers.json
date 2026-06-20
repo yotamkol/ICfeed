@@ -1,5 +1,54 @@
 [
   {
+    "title": "Delirium Among Adults Undergoing Transcatheter Structural Heart Intervention: Incidence, Risk, and Clinical Phenotypes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70709?af=R",
+    "doi": "10.1002/ccd.70709",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 19, 2026",
+    "date_ts": 1781841367.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Despite uncertainty, cardiologist involvement in care of perioperative myocardial infarction/injury appears reasonable",
+    "link": "https://doi.org/10.1093/eurheartj/ehag475",
+    "doi": "10.1093/eurheartj/ehag475",
+    "journal": "European Heart Journal",
+    "date": "Jun 19, 2026",
+    "date_ts": 1781827200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Weekly Journal Scan: IVUS in complex PCI\u2014the importance of procedural guidance and achievement of optimization criteria",
+    "link": "https://doi.org/10.1093/eurheartj/ehag439",
+    "doi": "10.1093/eurheartj/ehag439",
+    "journal": "European Heart Journal",
+    "date": "Jun 19, 2026",
+    "date_ts": 1781827200.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Peri-operative myocardial infarction after non-cardiac surgery: validating the case for cardiologist involvement while acknowledging what remains unresolved",
+    "link": "https://doi.org/10.1093/eurheartj/ehag473",
+    "doi": "10.1093/eurheartj/ehag473",
+    "journal": "European Heart Journal",
+    "date": "Jun 19, 2026",
+    "date_ts": 1781827200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "[Correspondence] Single-dose mRNA vaccines against Andes hantavirus",
     "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01124-4/fulltext?rss=yes",
     "doi": "10.1016/S0140-6736(26)01124-4",
@@ -5993,54 +6042,6 @@
     "journal": "JACC",
     "date": "Apr 13, 2026",
     "date_ts": 1776074026.839747,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "26-CCC-17834-ACC A DEADLY CASCADE: CATASTROPHIC ANTIPHOSPHOLIPID SYNDROME WITH MYOCARDIAL INFARCTION, LEFT VENTRICULAR THROMBUS, AND MULTI-VESSEL THROMBOSIS",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060560?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074026.839612,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "26-CCC-22861-ACC THROMBUS-IN-TRANSIT: A RARE CASE OF ACUTE CORONARY SYNDROME",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060742?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074026.839431,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "26-YIA-7791-ACC MITIGATING MICROVASCULAR DAMAGE IN REPERFUSED MYOCARDIAL INFARCTION BY ANTIHISTAMINE TREATMENT",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726052046?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074026.839239,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Quality of Life After Percutaneous Coronary Intervention or Medical Therapy for Chronic Total Coronary Occlusions: EUROCTO and DECISION-CTO Meta-Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726055981?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074026.838831,
     "tags": [
       "PCI"
     ],
