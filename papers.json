@@ -1,5 +1,53 @@
 [
   {
+    "title": "A Slow Regular Rhythm After TAVR: A Clinical Reasoning Exercise",
+    "link": "https://doi.org/10.1161/circulationaha.126.081208",
+    "doi": "10.1161/circulationaha.126.081208",
+    "journal": "Circulation",
+    "date": "Jun 23, 2026",
+    "date_ts": 1782172800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Angiography\u2010Derived\u00a0Index of Microcirculatory Resistance (Angio\u2010IMR) Is Associated With Doppler\u2010Derived Hyperemic Microvascular Resistance",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70699?af=R",
+    "doi": "10.1002/ccd.70699",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 22, 2026",
+    "date_ts": 1782106170.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Outcomes of Different Device Sizing Strategies Using the Newer\u2010Generation WATCHMAN Devices for Closure of Borderline\u2010Sized Left Atrial Appendage",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70706?af=R",
+    "doi": "10.1002/ccd.70706",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 22, 2026",
+    "date_ts": 1782104125.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pathophysiologic Consequences of Early Coarctation Stenting in a Longitudinal Porcine Model",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70692?af=R",
+    "doi": "10.1002/ccd.70692",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 22, 2026",
+    "date_ts": 1782100270.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Delirium Among Adults Undergoing Transcatheter Structural Heart Intervention: Incidence, Risk, and Clinical Phenotypes",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70709?af=R",
     "doi": "10.1002/ccd.70709",
@@ -5995,55 +6043,6 @@
     "tags": [
       "PCI",
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "[Comment] Moving beyond aspirin after percutaneous coronary intervention: 10-year results from the HOST-EXAM trial",
-    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00562-3/fulltext?rss=yes",
-    "doi": "10.1016/S0140-6736(26)00562-3",
-    "journal": "Lancet",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074027.202965,
-    "tags": [
-      "PCI",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "[Comment] Coronary revascularisation before TAVI",
-    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00597-0/fulltext?rss=yes",
-    "doi": "10.1016/S0140-6736(26)00597-0",
-    "journal": "Lancet",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074027.202916,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "26-CCC-13952-ACC THE GREAT MIMIC: ACUTE TYPE-A AORTIC DISSECTION MASQUERADING AS AN ANTERIOR STEMI",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060419?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074026.839789,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "26-CCC-14360-ACC PCI INDUCED PSEUDOANEURYSM OF THE LEFT CORONARY SINUS OF VALSALVA COMPLICATED BY SEVERE AR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060432?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074026.839747,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
