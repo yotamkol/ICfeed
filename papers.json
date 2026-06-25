@@ -1,5 +1,42 @@
 [
   {
+    "title": "Coronary Computed Tomography Angiography to Guide Percutaneous Coronary Intervention: Proceedings From the 1st CCTA-Guided PCI Summit in the United States",
+    "link": "https://doi.org/10.25270/jic/26.00085",
+    "doi": "10.25270/jic/26.00085",
+    "journal": "J Invasive Cardiology",
+    "date": "Jun 25, 2026",
+    "date_ts": 1782359758.255501,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparison of Radiation Dose Between Dedicated Cardiac and General\u2010Purpose Angiography Systems in Coronary Intervention",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70711?af=R",
+    "doi": "10.1002/ccd.70711",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 24, 2026",
+    "date_ts": 1782276572.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prasugrel\u2014The Default P2Y12 Inhibitor After PCI for ACS?",
+    "link": "https://doi.org/10.1001/jamacardio.2026.1935",
+    "doi": "10.1001/jamacardio.2026.1935",
+    "journal": "JAMA Cardiology",
+    "date": "Jun 24, 2026",
+    "date_ts": 1782259200.0,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
     "title": "Sex Differences in Reverse Remodeling After Transcatheter Aortic Valve Replacement in Low-Flow Aortic Stenosis",
     "link": "https://doi.org/10.25270/jic/26.00117",
     "doi": "10.25270/jic/26.00117",
@@ -6002,42 +6039,6 @@
     "date_ts": 1776074037.587698,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Incidence, Correlates, and Outcomes of Echocardiographic Smoke-Like Effect After Transcatheter Edge-to-Edge Repair of Mitral Regurgitation With the MitraClip Device",
-    "link": "https://doi.org/10.25270/jic/25.00088",
-    "doi": "10.25270/jic/25.00088",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.58768,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Progression and Patterns of Radial Artery Calcification: Insights From Optical Coherence Tomography",
-    "link": "https://doi.org/10.25270/jic/25.00193",
-    "doi": "10.25270/jic/25.00193",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587664,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Excellent Endothelialization of the GORE CARDIOFORM Septal Occluder: First-in-Human in Vivo Angioscopic Assessment",
-    "link": "https://doi.org/10.25270/jic/25.00030",
-    "doi": "10.25270/jic/25.00030",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587646,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
