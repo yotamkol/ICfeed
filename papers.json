@@ -1,5 +1,17 @@
 [
   {
+    "title": "Long-term cardiovascular outcomes in patients hospitalised with acute coronary syndrome subtypes in Western Australia, 2002\u20132019",
+    "link": "https://doi.org/10.1136/heartjnl-2026-327843",
+    "doi": "10.1136/heartjnl-2026-327843",
+    "journal": "Heart (BMJ)",
+    "date": "Jun 25, 2026",
+    "date_ts": 1782345600.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Coronary Computed Tomography Angiography to Guide Percutaneous Coronary Intervention: Proceedings From the 1st CCTA-Guided PCI Summit in the United States",
     "link": "https://doi.org/10.25270/jic/26.00085",
     "doi": "10.25270/jic/26.00085",
@@ -6027,18 +6039,6 @@
     "date_ts": 1776074037.587711,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "EXPRESS-LAAO Protocol With the New WATCHMAN FLX Pro Device",
-    "link": "https://doi.org/10.25270/jic/25.00081",
-    "doi": "10.25270/jic/25.00081",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587698,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
