@@ -1,5 +1,32 @@
 [
   {
+    "title": "Progression of Coronary Artery Disease in Patients Undergoing Transcatheter Aortic Valve Replacement: A Quantitative Coronary Angiography and Quantitative Flow Ratio Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70704?af=R",
+    "doi": "10.1002/ccd.70704",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 26, 2026",
+    "date_ts": 1782445628.0,
+    "tags": [
+      "Structural",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Optimal timing of aspirin discontinuation after acute coronary syndrome treated with percutaneous coronary intervention: a systematic review and meta-analysis",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328334",
+    "doi": "10.1136/heartjnl-2026-328334",
+    "journal": "Heart (BMJ)",
+    "date": "Jun 26, 2026",
+    "date_ts": 1782432000.0,
+    "tags": [
+      "ACS",
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
     "title": "Long-term cardiovascular outcomes in patients hospitalised with acute coronary syndrome subtypes in Western Australia, 2002\u20132019",
     "link": "https://doi.org/10.1136/heartjnl-2026-327843",
     "doi": "10.1136/heartjnl-2026-327843",
@@ -6015,30 +6042,6 @@
     "date_ts": 1776074037.587743,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Tenecteplase-Assisted Transapical Drainage of Tuberculous Pyopericardium",
-    "link": "https://doi.org/10.25270/jic/25.00071",
-    "doi": "10.25270/jic/25.00071",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587728,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Importance of Utilizing the Movahed Coronary Bifurcation Classification for Bifurcation Research",
-    "link": "https://doi.org/10.25270/jic/25.00325",
-    "doi": "10.25270/jic/25.00325",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587711,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
