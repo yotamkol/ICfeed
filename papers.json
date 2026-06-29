@@ -1,5 +1,30 @@
 [
   {
+    "title": "Immediate or Deferred Nonculprit-Lesion PCI in Myocardial Infarction",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMx260017?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMx260017",
+    "journal": "NEJM",
+    "date": "Jun 29, 2026",
+    "date_ts": 1782706599.824321,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Stopping Beta-Blockers after Myocardial Infarction",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2606053?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2606053",
+    "journal": "NEJM",
+    "date": "Jun 29, 2026",
+    "date_ts": 1782706599.824222,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Progression of Coronary Artery Disease in Patients Undergoing Transcatheter Aortic Valve Replacement: A Quantitative Coronary Angiography and Quantitative Flow Ratio Analysis",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70704?af=R",
     "doi": "10.1002/ccd.70704",
@@ -6018,30 +6043,6 @@
     "date_ts": 1776074037.587773,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Removal of Pulmonary Intravascular Foreign Bodies in Children",
-    "link": "https://doi.org/10.25270/jic/24.00299",
-    "doi": "10.25270/jic/24.00299",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587759,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Contemporary Contrast Media Dosing During Percutaneous Coronary Intervention in Patients With Pre-existing Renal Impairment",
-    "link": "https://doi.org/10.25270/jic/24.00313",
-    "doi": "10.25270/jic/24.00313",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587743,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
