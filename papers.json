@@ -1,5 +1,30 @@
 [
   {
+    "title": "Impactful trials on dyslipidaemias, fractional flow reserve, beta-blockers, and peripheral artery disease",
+    "link": "https://doi.org/10.1093/eurheartj/ehag485",
+    "doi": "10.1093/eurheartj/ehag485",
+    "journal": "European Heart Journal",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Novel Application of the Jailed Balloon Anchor Technique to Improve Guiding Catheter Stability During Intravascular Ultrasound Guided Ostial Coronary Stenting",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70689?af=R",
+    "doi": "10.1002/ccd.70689",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jun 30, 2026",
+    "date_ts": 1782819031.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "Immediate or Deferred Nonculprit-Lesion PCI in Myocardial Infarction",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMx260017?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMx260017",
@@ -6017,30 +6042,6 @@
     "journal": "J Invasive Cardiology",
     "date": "Apr 13, 2026",
     "date_ts": 1776074037.587803,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Closure of a Giant Coronary Artery Aneurysm: A Case Summary",
-    "link": "https://doi.org/10.25270/jic/25.00172",
-    "doi": "10.25270/jic/25.00172",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587788,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Endovascular Management of the Radial Artery: Success Through Minimal Invasion",
-    "link": "https://doi.org/10.25270/jic/25.00233",
-    "doi": "10.25270/jic/25.00233",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587773,
     "tags": [
       "Other"
     ],
