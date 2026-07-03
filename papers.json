@@ -1,5 +1,65 @@
 [
   {
+    "title": "Same\u2010Day Discharge After Transcatheter Aortic Valve Implantation: Who, When, and How?",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70715?af=R",
+    "doi": "10.1002/ccd.70715",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 02, 2026",
+    "date_ts": 1782973410.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparative Outcomes of Transcatheter Versus Surgical Pulmonary Valve Replacement in Adults With Congenital Heart Disease",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70718?af=R",
+    "doi": "10.1002/ccd.70718",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 02, 2026",
+    "date_ts": 1782968314.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Validation of the European Society of Cardiology Ischemic and Bleeding Risk Criteria for Risk Stratification After Endovascular Therapy in Japanese Patients With Lower Extremity Artery Disease",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70714?af=R",
+    "doi": "10.1002/ccd.70714",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 02, 2026",
+    "date_ts": 1782966937.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "When Size Matters: Advanced Treatment of Acute Pulmonary Embolism Caused by a Large Snake\u2010Like Thrombus",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70713?af=R",
+    "doi": "10.1002/ccd.70713",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 02, 2026",
+    "date_ts": 1782966309.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "One Anatomy, Multiple Valve Choices: Interobserver Agreement in Selecting Transcatheter Pulmonary Valve",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70708?af=R",
+    "doi": "10.1002/ccd.70708",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782937153.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Impactful trials on dyslipidaemias, fractional flow reserve, beta-blockers, and peripheral artery disease",
     "link": "https://doi.org/10.1093/eurheartj/ehag485",
     "doi": "10.1093/eurheartj/ehag485",
@@ -5984,66 +6044,6 @@
     "date_ts": 1776074037.587884,
     "tags": [
       "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Antegrade Retrieval of an Atrial Septal Occluder Dislodged Into the Left Ventricle",
-    "link": "https://doi.org/10.25270/jic/25.00220",
-    "doi": "10.25270/jic/25.00220",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587868,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Right Coronary Artery Takeoff Plane and Implications for Brachiocephalic Interventions and Next Generation Transcatheter Aortic Valve Intervention Embolic Protection Devices",
-    "link": "https://doi.org/10.25270/jic/25.00140",
-    "doi": "10.25270/jic/25.00140",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587849,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Tendinitis Induced by Distal Radial Artery Pseudoaneurysm Following a Percutaneous Coronary Intervention",
-    "link": "https://doi.org/10.25270/jic/25.00133",
-    "doi": "10.25270/jic/25.00133",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587834,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Congenital Coronary Artery-Right Ventricular Multiple Microfistulas",
-    "link": "https://doi.org/10.25270/jic/25.00131",
-    "doi": "10.25270/jic/25.00131",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.58782,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Mitral Transcatheter-Edge-to-Edge-Repair After Failed Alfieri Stitch: An Effective Alternative to Re-Do Surgery",
-    "link": "https://doi.org/10.25270/jic/24.00235",
-    "doi": "10.25270/jic/24.00235",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587803,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
