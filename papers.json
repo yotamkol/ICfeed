@@ -1,5 +1,29 @@
 [
   {
+    "title": "Clinical and haemodynamic outcomes with contemporary intra- and supra-annular self-expanding valves: the multicentre international HERA-TAVI registry",
+    "link": "https://doi.org/10.4244/eij-d-26-00390",
+    "doi": "10.4244/eij-d-26-00390",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Outcomes of percutaneous mechanical aspiration in left-sided infective endocarditis",
+    "link": "https://doi.org/10.4244/eij-d-26-00271",
+    "doi": "10.4244/eij-d-26-00271",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Same\u2010Day Discharge After Transcatheter Aortic Valve Implantation: Who, When, and How?",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70715?af=R",
     "doi": "10.1002/ccd.70715",
@@ -6020,30 +6044,6 @@
     "date_ts": 1776074037.58791,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Counterproductive Counterpulsation",
-    "link": "https://doi.org/10.25270/jic/25.00115",
-    "doi": "10.25270/jic/25.00115",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587898,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "How to Avoid a Myocardial Infarction With Radial Wall Strain?",
-    "link": "https://doi.org/10.25270/jic/24.00369",
-    "doi": "10.25270/jic/24.00369",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587884,
-    "tags": [
-      "ACS"
     ],
     "hot": false
   }
