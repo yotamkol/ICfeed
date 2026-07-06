@@ -1,5 +1,89 @@
 [
   {
+    "title": "Depth of neutrophil mobilization stratifies survival in ST-elevation myocardial infarction",
+    "link": "https://www.nature.com/articles/s44161-026-00836-0",
+    "doi": "10.1038/s44161-026-00836-0",
+    "journal": "Nature Cardiovasc Res",
+    "date": "Jul 06, 2026",
+    "date_ts": 1783310046.48851,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prosthesis-patient mismatch with intra-annular self-expanding valves: an analysis of the PORTICO IDE trial",
+    "link": "https://doi.org/10.4244/eij-d-26-00158",
+    "doi": "10.4244/eij-d-26-00158",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "AnchorMan versus Watchman 2.5: a randomised comparison in left atrial appendage closure",
+    "link": "https://doi.org/10.4244/eij-d-26-00453",
+    "doi": "10.4244/eij-d-26-00453",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Concomitant transfemoral aortic and mitral valve replacement",
+    "link": "https://doi.org/10.4244/eij-d-26-00128",
+    "doi": "10.4244/eij-d-26-00128",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Validation of the VARC-HBR consensus for defining high bleeding risk in TAVI",
+    "link": "https://doi.org/10.4244/eij-d-26-00315",
+    "doi": "10.4244/eij-d-26-00315",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left atrial appendage closure with the AnchorMan or Watchman devices: 12-month results of the SAFE-PROTECT randomised trial",
+    "link": "https://doi.org/10.4244/eij-d-25-01168",
+    "doi": "10.4244/eij-d-25-01168",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparing transcatheter aortic valves: time to look beyond simplistic categorisations",
+    "link": "https://doi.org/10.4244/eij-e-26-00011",
+    "doi": "10.4244/eij-e-26-00011",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Clinical and haemodynamic outcomes with contemporary intra- and supra-annular self-expanding valves: the multicentre international HERA-TAVI registry",
     "link": "https://doi.org/10.4244/eij-d-26-00390",
     "doi": "10.4244/eij-d-26-00390",
@@ -5960,90 +6044,6 @@
     "date_ts": 1775001600.0,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Aortic regurgitation: can transcatheter therapies deliver what we need?",
-    "link": "https://doi.org/10.4244/eij-d-25-01191",
-    "doi": "10.4244/eij-d-25-01191",
-    "journal": "EuroIntervention",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Letter: Transcatheter paravalvular leak closure &amp;ndash; insights on selection criteria, imaging, and comparative outcomes",
-    "link": "https://doi.org/10.4244/eij-d-26-00101",
-    "doi": "10.4244/eij-d-26-00101",
-    "journal": "EuroIntervention",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stable coronary patients with atrial fibrillation: when the kidneys tip the balance",
-    "link": "https://doi.org/10.4244/eij-d-26-00300",
-    "doi": "10.4244/eij-d-26-00300",
-    "journal": "EuroIntervention",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrosurgical laceration and stabilisation of tricuspid edge-to-edge repair: the ELASTA-T technique",
-    "link": "https://doi.org/10.4244/eij-d-25-01316",
-    "doi": "10.4244/eij-d-25-01316",
-    "journal": "EuroIntervention",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of device implantation depth on blood flow dynamics after left atrial appendage closure",
-    "link": "https://doi.org/10.4244/eij-d-25-01328",
-    "doi": "10.4244/eij-d-25-01328",
-    "journal": "EuroIntervention",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stentless Revascularization of Spontaneous Coronary Dissection Using a Cutting Balloon",
-    "link": "https://doi.org/10.25270/jic/25.00212",
-    "doi": "10.25270/jic/25.00212",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.587929,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Operator Radiation Dose Comparing Left Radial Artery and Right Radial Artery Approaches Among Patients With Subclavian Tortuosity",
-    "link": "https://doi.org/10.25270/jic/25.00143",
-    "doi": "10.25270/jic/25.00143",
-    "journal": "J Invasive Cardiology",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776074037.58791,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
