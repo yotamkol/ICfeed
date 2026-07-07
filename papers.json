@@ -1,5 +1,89 @@
 [
   {
+    "title": "Pregnancy-Associated Spontaneous Coronary Dissection",
+    "link": "https://doi.org/10.1161/circulationaha.126.081624",
+    "doi": "10.1161/circulationaha.126.081624",
+    "journal": "Circulation",
+    "date": "Jul 07, 2026",
+    "date_ts": 1783382400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Paclitaxel-Coated Balloon Versus Uncoated Balloon for Coronary In-Stent Restenosis: Two-Year Follow-Up of the AGENT-IDE Randomized Clinical Trial",
+    "link": "https://doi.org/10.1161/circulationaha.125.078037",
+    "doi": "10.1161/circulationaha.125.078037",
+    "journal": "Circulation",
+    "date": "Jul 07, 2026",
+    "date_ts": 1783382400.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transapical device closure of a submitral left ventricular pseudoaneurysm after mitral valve replacement",
+    "link": "https://doi.org/10.25270/jic/26.00203",
+    "doi": "10.25270/jic/26.00203",
+    "journal": "J Invasive Cardiology",
+    "date": "Jul 06, 2026",
+    "date_ts": 1783296000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "No pain, no gain? The complexity of ST-elevation myocardial infarction without chest pain",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328573",
+    "doi": "10.1136/heartjnl-2026-328573",
+    "journal": "Heart (BMJ)",
+    "date": "Jul 06, 2026",
+    "date_ts": 1783296000.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous management of delayed aortic annular rupture after transcatheter aortic valve implantation complicated by severe aortic regurgitation",
+    "link": "https://doi.org/10.25270/jic/26.00158",
+    "doi": "10.25270/jic/26.00158",
+    "journal": "J Invasive Cardiology",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Safety and outcomes of upfront large-size rotational atherectomy burrs in left main coronary interventions",
+    "link": "https://doi.org/10.25270/jic/26.00147",
+    "doi": "10.25270/jic/26.00147",
+    "journal": "J Invasive Cardiology",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long-segment honeycomb-like structure of the right coronary artery presenting with acute coronary syndrome",
+    "link": "https://doi.org/10.25270/jic/26.00187",
+    "doi": "10.25270/jic/26.00187",
+    "journal": "J Invasive Cardiology",
+    "date": "Jun 30, 2026",
+    "date_ts": 1782777600.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Depth of neutrophil mobilization stratifies survival in ST-elevation myocardial infarction",
     "link": "https://www.nature.com/articles/s44161-026-00836-0",
     "doi": "10.1038/s44161-026-00836-0",
@@ -5959,91 +6043,6 @@
     "date_ts": 1776221496.517614,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Full Issue PDF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009398?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.517443,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Main Stem Perforation: Management Strategies in a Potentially Catastrophic Event",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70626?af=R",
-    "doi": "10.1002/ccd.70626",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 14, 2026",
-    "date_ts": 1776137458.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Case of Venous Tissue Dissection During Transcatheter MitraClip Surgery",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70614?af=R",
-    "doi": "10.1002/ccd.70614",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 14, 2026",
-    "date_ts": 1776137063.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Angioscopy Visualized a Residual Free\u2010Floating Thrombus in Mild Carotid Artery Stenosis Following Acute MCA Occlusion: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70620?af=R",
-    "doi": "10.1002/ccd.70620",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776075325.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of renal function on edoxaban antithrombotic therapy in patients with atrial fibrillation and stable coronary artery disease: a prespecified analysis of the EPIC-CAD trial",
-    "link": "https://doi.org/10.4244/eij-d-25-01274",
-    "doi": "10.4244/eij-d-25-01274",
-    "journal": "EuroIntervention",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "No antithrombotic therapy versus single antiplatelet therapy after percutaneous left atrial appendage closure in non-valvular atrial fibrillation: rationale and design of the multicentre, randomised, non-inferiority NAPT-LAAC trial",
-    "link": "https://doi.org/10.4244/eij-d-25-01307",
-    "doi": "10.4244/eij-d-25-01307",
-    "journal": "EuroIntervention",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Structural",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reply: Transcatheter paravalvular leak closure &amp;ndash; insights on selection criteria, imaging, and comparative outcomes",
-    "link": "https://doi.org/10.4244/eij-d-26-00147",
-    "doi": "10.4244/eij-d-26-00147",
-    "journal": "EuroIntervention",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
