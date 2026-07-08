@@ -1,5 +1,17 @@
 [
   {
+    "title": "Stroke and systemic embolism following AF ablation: importance of global registries",
+    "link": "https://doi.org/10.1093/eurheartj/ehag359",
+    "doi": "10.1093/eurheartj/ehag359",
+    "journal": "European Heart Journal",
+    "date": "Jul 07, 2026",
+    "date_ts": 1783382400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Pregnancy-Associated Spontaneous Coronary Dissection",
     "link": "https://doi.org/10.1161/circulationaha.126.081624",
     "doi": "10.1161/circulationaha.126.081624",
@@ -6031,18 +6043,6 @@
     "date_ts": 1776221496.517654,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Balloon Valvuloplasty for Congenital Pulmonary Stenosis With Infundibular Stenosis and ASD",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826003821?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.517614,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
