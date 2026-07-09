@@ -1,5 +1,113 @@
 [
   {
+    "title": "Seeing Clearly: Blinded and Unblinded Evidence for Symptom Benefit After Chronic Total Occlusion Percutaneous Coronary Intervention",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726064880?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Jul 09, 2026",
+    "date_ts": 1783568216.850035,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Ventricular Unloading in Anterior ST-Segment Elevation Myocardial Infarction Without Shock: The ST-Segment Elevation Myocardial Infarction Door to Unload Randomized Controlled Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726059231?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Jul 09, 2026",
+    "date_ts": 1783568216.849991,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sex Differences in Mechanical Circulatory Support Pathways and Ventricular Phenotypes in Cardiogenic Shock",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001270?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Jul 09, 2026",
+    "date_ts": 1783568216.849933,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "REPLY: Sex Differences in Mechanical Circulatory Support Pathways and Ventricular Phenotypes in Cardiogenic Shock",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001282?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Jul 09, 2026",
+    "date_ts": 1783568216.849865,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Effect of Nominal-Volume (\u201cDouble Tap\u201d) Postdilatation on Significant THV Mid\u2013Stent Frame Underexpansion After Balloon-Expandable TAVR",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015591?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jul 09, 2026",
+    "date_ts": 1783568216.459592,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Redo-TAVR (TAV-in-TAV) Best Practices Part 2: Tall-in-Short and Tall-in-Tall - A Heart and Valve Collaboratory Document",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018200?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jul 09, 2026",
+    "date_ts": 1783568216.459558,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Redo-TAVR (TAV-in-TAV) Best Practices Part 1: Short-in-Short and Short-in-Tall - A Heart and Valve Collaboratory Document",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018194?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jul 09, 2026",
+    "date_ts": 1783568216.459519,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Real-World Outcomes of Dedicated Leaflet Modification for Bioprosthetic Valve-In-Valve TAVR: A 150-Patient Commercial Experience",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826017322?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jul 09, 2026",
+    "date_ts": 1783568216.459479,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Double Transseptal Guide Sheath Technique to Prevent Low Dock Positioning During Transcatheter Mitral Valve Replacement",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826017334?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jul 09, 2026",
+    "date_ts": 1783568216.459297,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Stroke and systemic embolism following AF ablation: importance of global registries",
     "link": "https://doi.org/10.1093/eurheartj/ehag359",
     "doi": "10.1093/eurheartj/ehag359",
@@ -5933,115 +6041,6 @@
     "date_ts": 1776221496.518033,
     "tags": [
       "PCI",
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Beyond Binary Cutoffs: Reframing Futility of Tricuspid TEER in Advanced Heart Failure Patients",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826008836?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.517971,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transmitral Gradients and Mortality Following Transseptal Transcatheter Mitral Valve in Valve",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007818?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.517914,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Gradient Paradox After Transcatheter Mitral Valve-in-Valve Implantation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007806?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.517862,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "RV-PA Uncoupling in ST-Segment Elevation Myocardial Infarction: The Dark Side of the Moon?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826000014?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.517825,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Post-PCI Global QFR and Long-Term Outcomes in ACS: Findings From the FAVOR III China Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826004528?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.517794,
-    "tags": [
-      "PCI",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Angiography-Derived FFR and Prognosis: Should We Go With the Flow?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007788?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.517765,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Effectiveness of Cerebral Embolic Protection During TAVR in Patients With High Aortic Valve Calcium Burden",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006680?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.517733,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Mechanical Aspiration of a Pedunculated Aortic Arch Thrombus With Retroaortic Intracardiac Echocardiography",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600779X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.517697,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "5-in-1 Transcatheter Mitral Valve Replacement With Ventricular and Atrial Septal Closure Using Electrosurgery",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826008794?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.517654,
-    "tags": [
       "Structural"
     ],
     "hot": false
