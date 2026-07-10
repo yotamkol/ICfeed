@@ -1,5 +1,17 @@
 [
   {
+    "title": "Standardized endpoint definitions for trials of transcatheter left atrial appendage closure: a consensus from the Left Atrial Appendage Academic Research Consortium",
+    "link": "https://doi.org/10.1093/eurheartj/ehag482",
+    "doi": "10.1093/eurheartj/ehag482",
+    "journal": "European Heart Journal",
+    "date": "Jul 09, 2026",
+    "date_ts": 1783555200.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Seeing Clearly: Blinded and Unblinded Evidence for Symptom Benefit After Chronic Total Occlusion Percutaneous Coronary Intervention",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726064880?dgcid=rss_sd_all",
     "doi": null,
@@ -6026,19 +6038,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "Apr 15, 2026",
     "date_ts": 1776221496.518095,
-    "tags": [
-      "PCI",
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Routine PCI in TAVR Patients: Does One Plus One Equal Two When Patients Are Frail?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007740?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.518033,
     "tags": [
       "PCI",
       "Structural"
