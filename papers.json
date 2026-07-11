@@ -1,5 +1,17 @@
 [
   {
+    "title": "Immediate or Deferred Nonculprit-Lesion PCI",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2604396?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2604396",
+    "journal": "NEJM",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783738404.082718,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Standardized endpoint definitions for trials of transcatheter left atrial appendage closure: a consensus from the Left Atrial Appendage Academic Research Consortium",
     "link": "https://doi.org/10.1093/eurheartj/ehag482",
     "doi": "10.1093/eurheartj/ehag482",
@@ -6027,19 +6039,6 @@
     "date": "Apr 15, 2026",
     "date_ts": 1776221496.51815,
     "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Coronary Intervention in Frail Patients Undergoing Transcatheter Aortic Valve Replacement: A NOTION-3 Substudy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826008848?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.518095,
-    "tags": [
-      "PCI",
       "Structural"
     ],
     "hot": false
