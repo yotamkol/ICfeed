@@ -1,5 +1,93 @@
 [
   {
+    "title": "Diagnostic Performance of Angiography-Derived Coronary Physiology in Transcatheter Aortic Valve Implantation Pathway: A Systematic Review and Diagnostic Accuracy Meta-Analysis",
+    "link": "https://doi.org/10.25270/jic/26.00141",
+    "doi": "10.25270/jic/26.00141",
+    "journal": "J Invasive Cardiology",
+    "date": "Jul 10, 2026",
+    "date_ts": 1783641600.0,
+    "tags": [
+      "Structural",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Ventricular Contrast Staining During Venoarterial Extracorporeal Membrane Oxygenation",
+    "link": "https://doi.org/10.25270/jic/26.00200",
+    "doi": "10.25270/jic/26.00200",
+    "journal": "J Invasive Cardiology",
+    "date": "Jul 08, 2026",
+    "date_ts": 1783468800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Ventricular Ejection Fraction Recovery Persists Beyond Six Months After Chronic Total Occlusion Percutaneous Intervention: Insights Across the Spectrum of Ischemic Cardiomyopathy",
+    "link": "https://doi.org/10.25270/jic/26.00207",
+    "doi": "10.25270/jic/26.00207",
+    "journal": "J Invasive Cardiology",
+    "date": "Jul 07, 2026",
+    "date_ts": 1783382400.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Adoption of Intravascular Imaging Use Among Intermediate to High-Volume Operators in the United States From 2019 to 2023: A Medicare Data Analysis",
+    "link": "https://doi.org/10.25270/jic/26.00146",
+    "doi": "10.25270/jic/26.00146",
+    "journal": "J Invasive Cardiology",
+    "date": "Jul 07, 2026",
+    "date_ts": 1783382400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Endograft-Facilitated Overexpansion of a Calcified Right Ventricle-to-Right Pulmonary Artery Contegra Conduit for Transcatheter Pulmonary Valve Replacement",
+    "link": "https://doi.org/10.25270/jic/26.00168",
+    "doi": "10.25270/jic/26.00168",
+    "journal": "J Invasive Cardiology",
+    "date": "Jul 07, 2026",
+    "date_ts": 1783382400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ticagrelor monotherapy versus dual antiplatelet therapy after primary percutaneous coronary intervention: one-year outcomes of the pilot STOP-IMH randomised trial",
+    "link": "https://doi.org/10.4244/eij-d-26-00421",
+    "doi": "10.4244/eij-d-26-00421",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "P2Y12 inhibitor monotherapy versus dual antiplatelet therapy after complex percutaneous coronary intervention in patients with acute coronary syndromes: a NEO-MINDSET trial substudy",
+    "link": "https://doi.org/10.4244/eij-d-26-00409",
+    "doi": "10.4244/eij-d-26-00409",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "ACS",
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
     "title": "Immediate or Deferred Nonculprit-Lesion PCI",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2604396?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMc2604396",
@@ -5956,90 +6044,6 @@
     "date_ts": 1776221497.170529,
     "tags": [
       "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "1833 Inflammatory Indexes and Prognosis After Closure of Post-Myocardial Infarction Ventricular Septal Rupture: A Single-Center Retrospective Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726056846?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221497.170463,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "1922 Deep Learning\u2013Enabled Digital Auscultation for Detection of Structural Heart Disease: A Transfer Learning Framework Across Adult Valve Disease and Congenital Populations",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726056858?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221497.170416,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "1992 Noncontrast Cardiac Magnetic Resonance for Left Atrial Appendage Occlusion Planning: A Comparative Study wIth Cardiac CTA",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726056871?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221497.17033,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009374?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.518311,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Mirror, Mirror on the Wall, Who Is the Fairest One of All?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007752?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.518259,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Geriatric Assessment Score Predicting 1-Year Mortality and Functional Decline After TAVR: The GASS-TAVR Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826003870?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.518205,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "To TAVR or Not to TAVR?: The Pursuit of Novel Prognostic Tools to Make the Right Choice",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826008824?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 15, 2026",
-    "date_ts": 1776221496.51815,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
