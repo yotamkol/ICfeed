@@ -1,5 +1,17 @@
 [
   {
+    "title": "Varenicline and Ventricular Ectopy After Myocardial Infarction: A Randomized Phase 2 Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726002330?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Jul 16, 2026",
+    "date_ts": 1784170215.985175,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Editorial Board",
     "link": "https://www.sciencedirect.com/science/article/pii/S1936879826017413?dgcid=rss_sd_all",
     "doi": null,
@@ -6030,18 +6042,6 @@
     "journal": "Catheter Cardiovasc Interv",
     "date": "Apr 16, 2026",
     "date_ts": 1776322512.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Weekly Journal Scan: a long-term perspective on physiology-guided percutaneous coronary intervention vs medical therapy in patients with chronic coronary syndrome",
-    "link": "https://doi.org/10.1093/eurheartj/ehag261",
-    "doi": "10.1093/eurheartj/ehag261",
-    "journal": "European Heart Journal",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776297600.0,
     "tags": [
       "PCI"
     ],
