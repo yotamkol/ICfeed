@@ -1,5 +1,161 @@
 [
   {
+    "title": "Right Ventricular Glucose Metabolism Predicts Reverse Remodeling After Balloon Pulmonary Angioplasty in Inoperable CTEPH",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015530?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jul 18, 2026",
+    "date_ts": 1784342699.302994,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clopidogrel vs Aspirin According to Diabetes Mellitus: A Prespecified Analysis of the SMART-CHOICE 3 Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015396?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jul 18, 2026",
+    "date_ts": 1784342699.302961,
+    "tags": [
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Improvement in Paravalvular Regurgitation Over Time With a Self-Expanding Supra-Annular Transcatheter Aortic Valve",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015451?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jul 18, 2026",
+    "date_ts": 1784342699.302929,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Fatal Ostial Spasm of a Right Internal Thoracic Artery Graft 13 Years After CABG",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015578?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jul 18, 2026",
+    "date_ts": 1784342699.302895,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Thrombectomy for Impending Paradoxical Embolism With Complete Cerebral and Aortic Embolic Protection",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011180?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jul 18, 2026",
+    "date_ts": 1784342699.302855,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Delayed Erosion From a Left Atrial Appendage Occlusion Device Resulting in Cardiac Tamponade",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015633?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jul 18, 2026",
+    "date_ts": 1784342699.302816,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transseptal Access System-Assisted Atrial Flow Regulator Implantation for Pediatric Left Ventricular Decompression During VA-ECMO",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826016304?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Jul 18, 2026",
+    "date_ts": 1784342699.302596,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Patterns of Neoatherosclerotic Plaque Complications in Patients With Stent Failure: An Optical Coherence Tomography Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70760?af=R",
+    "doi": "10.1002/ccd.70760",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 17, 2026",
+    "date_ts": 1784269945.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Translating evidence of beta-blocker effectiveness following myocardial infarction",
+    "link": "https://doi.org/10.1093/eurheartj/ehag506",
+    "doi": "10.1093/eurheartj/ehag506",
+    "journal": "European Heart Journal",
+    "date": "Jul 17, 2026",
+    "date_ts": 1784246400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Drug\u2010Coated Balloon\u2010Based Strategy for De Novo Coronary Artery Disease Across Complex and High\u2010Risk Indicated Percutaneous Coronary Intervention Risk Categories: A Multicenter Registry Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70756?af=R",
+    "doi": "10.1002/ccd.70756",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 16, 2026",
+    "date_ts": 1784213435.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Effect of the Distance Between the Radial Artery Puncture Site and the Styloid Process on Radial Artery Spasm in Transradial Coronary Interventions: A Randomized Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70754?af=R",
+    "doi": "10.1002/ccd.70754",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 16, 2026",
+    "date_ts": 1784199255.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transcatheter Edge\u2010to\u2010Edge Repair of the Systemic AV Valve in Atrial Switch TGA",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70755?af=R",
+    "doi": "10.1002/ccd.70755",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 16, 2026",
+    "date_ts": 1784199201.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Drug\u2010Coated Balloon Versus Drug\u2010Eluting Stent for Femoropopliteal Lesions: A 3\u2010Year Propensity Score\u2010Matched Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70750?af=R",
+    "doi": "10.1002/ccd.70750",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 16, 2026",
+    "date_ts": 1784199198.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Double Jeopardy: Interarterial Malignant Course of the Left Main Coronary Artery in a Patient With Kawasaki Disease With Coronary Aneurysms",
     "link": "https://doi.org/10.25270/jic/26.00221",
     "doi": "10.25270/jic/26.00221",
@@ -5891,163 +6047,6 @@
     "date_ts": 1777433556.396553,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Beyond Post-PCI IMR: Prognostic Implications of Periprocedural Changes in Angiography-Derived Microvascular Resistance",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600912X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396511,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "REPLY: Beyond Post-PCI IMR: Prognostic Implications of Periprocedural Changes in Angiography-Derived Microvascular Resistance",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009106?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396467,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Full Issue PDF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826010885?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396272,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Efficacy and Safety of CorVad System in Coronary Intervention for Complex High\u2010Risk and Indicated Patients",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70617?af=R",
-    "doi": "10.1002/ccd.70617",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 27, 2026",
-    "date_ts": 1777269639.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Significance of V4R ST\u2010Segment Elevation on a Synthesized 18\u2010Lead Electrocardiogram in Patients With Anterior ST\u2010Segment Elevation Myocardial Infarction",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70646?af=R",
-    "doi": "10.1002/ccd.70646",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 27, 2026",
-    "date_ts": 1777269406.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial cardiomyopathy and systemic organ crosstalk: from mechanisms to clinical implications",
-    "link": "https://doi.org/10.1136/heartjnl-2025-327563",
-    "doi": "10.1136/heartjnl-2025-327563",
-    "journal": "Heart (BMJ)",
-    "date": "Apr 27, 2026",
-    "date_ts": 1777248000.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "DASH Closure: A Dual Access Strategy for Hemodynamic Closure of Mitral Paravalvular Leaks",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70616?af=R",
-    "doi": "10.1002/ccd.70616",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 24, 2026",
-    "date_ts": 1777024460.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Aortic Sinus\u2013to\u2013RVOT Communication Following Harmony Valve Implantation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70634?af=R",
-    "doi": "10.1002/ccd.70634",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 24, 2026",
-    "date_ts": 1777020730.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sudden Cardiac Death Due to Myocardial Infarction With Obstructive and Nonobstructive Coronary Arteries",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001403?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 25, 2026",
-    "date_ts": 1777085220.600396,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Unsupervised Agglomerative Cluster Phenotyping of Young Patients With Acute Coronary Syndrome Undergoing Percutaneous Coronary Intervention",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70643?af=R",
-    "doi": "10.1002/ccd.70643",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 24, 2026",
-    "date_ts": 1777001813.0,
-    "tags": [
-      "ACS",
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Echocardiography\u2010Assisted Stenting of the Ductus Venosus in Infracardiac TAPVC: Report of a New Technique and Review of the Literature",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70631?af=R",
-    "doi": "10.1002/ccd.70631",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 24, 2026",
-    "date_ts": 1777001753.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Gender Differences in Risk Factors, Management, and Outcomes of Elderly Patients With Acute Coronary Syndrome: The Interplay of Frailty",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70635?af=R",
-    "doi": "10.1002/ccd.70635",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 24, 2026",
-    "date_ts": 1777001509.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Acute Hypoxemic Respiratory Failure Following Mitral Transcatheter Edge\u2010to\u2010Edge Repair: The Role of Aortic Stenosis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70639?af=R",
-    "doi": "10.1002/ccd.70639",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 24, 2026",
-    "date_ts": 1777001431.0,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
