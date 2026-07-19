@@ -1,5 +1,42 @@
 [
   {
+    "title": "Potential exacerbation of systolic anterior motion during transcatheter mitral edge-to-edge repair",
+    "link": "https://doi.org/10.1093/eurheartj/ehag532",
+    "doi": "10.1093/eurheartj/ehag532",
+    "journal": "European Heart Journal",
+    "date": "Jul 18, 2026",
+    "date_ts": 1784332800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Physiology\u2010Guided Drug\u2010Coated Balloon Angioplasty: What We Know and What is Yet to be Understood",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70720?af=R",
+    "doi": "10.1002/ccd.70720",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 17, 2026",
+    "date_ts": 1784292233.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "STEMI in a Patient With Aspirin\u2010Induced Angioedema: A Case for Early Desensitization",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70751?af=R",
+    "doi": "10.1002/ccd.70751",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 17, 2026",
+    "date_ts": 1784291416.0,
+    "tags": [
+      "ACS",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
     "title": "Right Ventricular Glucose Metabolism Predicts Reverse Remodeling After Balloon Pulmonary Angioplasty in Inoperable CTEPH",
     "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015530?dgcid=rss_sd_all",
     "doi": null,
@@ -6009,42 +6046,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "Apr 29, 2026",
     "date_ts": 1777433556.39665,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Lighting the Way Forward?: Cold Laser Atherectomy Enters the Randomized Arena",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009118?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396619,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Fully Teleoperated Peripheral Endovascular Interventions With a Novel Robotic System: A First in Human Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826005261?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396586,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Thrombectomy for LVAD Inflow and Outflow Thrombosis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600676X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396553,
     "tags": [
       "Other"
     ],
