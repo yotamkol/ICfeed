@@ -1,5 +1,79 @@
 [
   {
+    "title": "Endotype-guided management of ANOCA: are we ready?",
+    "link": "https://doi.org/10.4244/eij-d-26-00715",
+    "doi": "10.4244/eij-d-26-00715",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "When less is no longer more: very early aspirin discontinuation after ACS",
+    "link": "https://doi.org/10.4244/eij-d-26-00648",
+    "doi": "10.4244/eij-d-26-00648",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prevalence of vasomotor dysfunction in patients with residual or recurrent angina after percutaneous coronary intervention",
+    "link": "https://doi.org/10.4244/eij-d-25-01215",
+    "doi": "10.4244/eij-d-25-01215",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Aspirin withdrawal after primary PCI for STEMI: timing matters",
+    "link": "https://doi.org/10.4244/eij-e-26-00010",
+    "doi": "10.4244/eij-e-26-00010",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "ACS",
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Collapse of a new-generation magnesium scaffold",
+    "link": "https://doi.org/10.4244/eij-d-25-00731",
+    "doi": "10.4244/eij-d-25-00731",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Endotype-guided medical therapy and symptom response in ANOCA",
+    "link": "https://doi.org/10.4244/eij-d-26-00148",
+    "doi": "10.4244/eij-d-26-00148",
+    "journal": "EuroIntervention",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Potential exacerbation of systolic anterior motion during transcatheter mitral edge-to-edge repair",
     "link": "https://doi.org/10.1093/eurheartj/ehag532",
     "doi": "10.1093/eurheartj/ehag532",
@@ -5975,79 +6049,6 @@
     "date_ts": 1777433556.396852,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Relative Fractional Flow Reserve Increase and Final Fractional Flow Reserve After Percutaneous Coronary Intervention",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826008770?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396823,
-    "tags": [
-      "PCI",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Post-PCI Physiological Testing: Phenotyping Future Failure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826008782?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396795,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Risk of Death Following Nonfatal Events After PCI",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826010150?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396764,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Validation of Wound, Ischemia, and Foot Infection Classification in Infrapopliteal Arterial Disease Undergoing Endovascular Therapy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009052?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.39671,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The WIfI Score: Is it Built for Primetime?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009064?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396681,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cold Laser vs Excimer Laser in Lower Limb Atherosclerosis: A Prospective Multicenter Randomized Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009131?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.39665,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
