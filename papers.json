@@ -1,5 +1,54 @@
 [
   {
+    "title": "Stent-Free PCI: Have We Found the SELUTION?",
+    "link": "https://doi.org/10.1161/circulationaha.126.080861",
+    "doi": "10.1161/circulationaha.126.080861",
+    "journal": "Circulation",
+    "date": "Jul 21, 2026",
+    "date_ts": 1784592000.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Randomized Pilot Trial Comparing Combined Catheter\u2010Interventional Treatment Versus Standard of Care in Intermediate High\u2010Risk Pulmonary Embolism",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70758?af=R",
+    "doi": "10.1002/ccd.70758",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 20, 2026",
+    "date_ts": 1784518797.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ticagrelor Induced 2:1 Atrio\u2010Ventricular Block After Percutaneous Coronary Intervention to Right Coronary Artery",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70748?af=R",
+    "doi": "10.1002/ccd.70748",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 20, 2026",
+    "date_ts": 1784518472.0,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Drug-coated balloons versus drug-eluting stents for de novo coronary lesions: a systematic review and meta-analysis of randomised trials",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328324",
+    "doi": "10.1136/heartjnl-2026-328324",
+    "journal": "Heart (BMJ)",
+    "date": "Jul 20, 2026",
+    "date_ts": 1784505600.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Endotype-guided management of ANOCA: are we ready?",
     "link": "https://doi.org/10.4244/eij-d-26-00715",
     "doi": "10.4244/eij-d-26-00715",
@@ -6001,54 +6050,6 @@
     "date_ts": 1777433556.396971,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Balloon Pulmonary Angioplasty for Treatment of Chronic Thromboembolic Pulmonary Hypertension: Statement From the BPA-CTEPH Alliance",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982600909X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396941,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Drug-Coated Balloon Angioplasty vs Drug-Eluting Stents in Noncomplex Coronary Bifurcation Lesions: Reasons to Be Cheerful",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009088?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396911,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Side Branch Additional Treatment for Coronary Bifurcation Lesion Revascularization: Insights From the KISS Randomized Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006734?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.39688,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Side Branch Treatment Dilemma for Coronary Bifurcation Lesion: Is Less Becoming More?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009179?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396852,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
