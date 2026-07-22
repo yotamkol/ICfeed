@@ -1,5 +1,29 @@
 [
   {
+    "title": "Weekly Journal Scan: Redefining the duration of dual antiplatelet therapy after coronary artery bypass grafting",
+    "link": "https://doi.org/10.1093/eurheartj/ehag528",
+    "doi": "10.1093/eurheartj/ehag528",
+    "journal": "European Heart Journal",
+    "date": "Jul 21, 2026",
+    "date_ts": 1784592000.0,
+    "tags": [
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Weekly Journal Scan: Reassessing the promises and challenges of routine left ventricular support during high-risk percutaneous coronary intervention",
+    "link": "https://doi.org/10.1093/eurheartj/ehag529",
+    "doi": "10.1093/eurheartj/ehag529",
+    "journal": "European Heart Journal",
+    "date": "Jul 21, 2026",
+    "date_ts": 1784592000.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Stent-Free PCI: Have We Found the SELUTION?",
     "link": "https://doi.org/10.1161/circulationaha.126.080861",
     "doi": "10.1161/circulationaha.126.080861",
@@ -6026,30 +6050,6 @@
     "date_ts": 1777334400.0,
     "tags": [
       "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Coronary Microvascular Resistance as a Predictor of the Placebo-Controlled Response to Percutaneous Coronary Intervention: Microvascular-Stratified Analysis of ORBITA",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007739?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396995,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826010861?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777433556.396971,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
