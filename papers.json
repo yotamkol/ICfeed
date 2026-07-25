@@ -1,5 +1,29 @@
 [
   {
+    "title": "Immature neutrophils sound the alarm in acute myocardial infarction",
+    "link": "https://www.nature.com/articles/s44161-026-00848-w",
+    "doi": "10.1038/s44161-026-00848-w",
+    "journal": "Nature Cardiovasc Res",
+    "date": "Jul 25, 2026",
+    "date_ts": 1784948011.475552,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Sequence of Post\u2010Dilation Matters: Proximal Optimization Technique (POT) Reduces Longitudinal Stent Deformation Assessed by Intravascular Ultrasound",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70774?af=R",
+    "doi": "10.1002/ccd.70774",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 23, 2026",
+    "date_ts": 1784802637.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "Current Outlook on Women in Interventional Cardiology Clinical Research: Closing the Gap, or Stuck in Place?",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70773?af=R",
     "doi": "10.1002/ccd.70773",
@@ -6025,30 +6049,6 @@
     "date_ts": 1777520035.663246,
     "tags": [
       "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Economic Outcomes and Quality of Life After CABG or PCI for Multivessel Disease: The FAME 3 Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725099152?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777520035.663212,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Choosing Between CABG and PCI for 3-Vessel Coronary Disease: What\u2019s Cost Got to Do With It?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725105731?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777520035.663175,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
