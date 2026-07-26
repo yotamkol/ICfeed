@@ -1,5 +1,29 @@
 [
   {
+    "title": "Left Atrial Appendage Closure in Atrial Fibrillation",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2606055?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2606055",
+    "journal": "NEJM",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785035943.914534,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparison of Immediate Versus Staged Complete Revascularization in Patients With Index PCI Coronary Complications: A Study on Clinical Outcomes and Predictors of Complications",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70767?af=R",
+    "doi": "10.1002/ccd.70767",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 24, 2026",
+    "date_ts": 1784879933.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Immature neutrophils sound the alarm in acute myocardial infarction",
     "link": "https://www.nature.com/articles/s44161-026-00848-w",
     "doi": "10.1038/s44161-026-00848-w",
@@ -6025,30 +6049,6 @@
     "date_ts": 1777520035.663313,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Immediate vs Delayed Coronary Angiography After Cardiac Arrest Without ST-Segment Elevation: 5-Year Outcomes From the COACT Randomized Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725104348?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777520035.66328,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long-Term Lessons From the COACT Trial: Coronary Angiography After Out-of-Hospital Cardiac Arrest Revisited",
-    "link": "https://www.sciencedirect.com/science/article/pii/S073510972600224X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777520035.663246,
-    "tags": [
-      "Imaging"
     ],
     "hot": false
   }
