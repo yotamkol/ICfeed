@@ -1,5 +1,81 @@
 [
   {
+    "title": "Drug-coated versus conventional balloons for side branch treatment in coronary bifurcation lesions: an optical coherence tomography substudy of the OCVC-BIF randomised trial",
+    "link": "https://doi.org/10.4244/eij-d-26-00428",
+    "doi": "10.4244/eij-d-26-00428",
+    "journal": "EuroIntervention",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Intravascular lithotripsy in comparison to rotational atherectomy for calcified lesions: the ICARE OFDI randomised trial",
+    "link": "https://doi.org/10.4244/eij-d-26-00426",
+    "doi": "10.4244/eij-d-26-00426",
+    "journal": "EuroIntervention",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Letter by Li and Xiong Regarding Article, \u201cShort-Term Anticoagulation Versus Dual Antiplatelet Therapy for Preventing Device Thrombosis Following Left Atrial Appendage Closure: The ANDES Randomized Clinical Trial\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.125.078651",
+    "doi": "10.1161/circulationaha.125.078651",
+    "journal": "Circulation",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785196800.0,
+    "tags": [
+      "Structural",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Response by Rod\u00e9s-Cabau et al to Letter Regarding Article, \u201cShort-Term Anticoagulation Versus Dual Antiplatelet Therapy for Preventing Device Thrombosis Following Left Atrial Appendage Closure: The ANDES Randomized Clinical Trial\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.080579",
+    "doi": "10.1161/circulationaha.126.080579",
+    "journal": "Circulation",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785196800.0,
+    "tags": [
+      "Structural",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Letter by Zhang and Zhang Regarding Article, \u201cShort-Term Anticoagulation Versus Dual Antiplatelet Therapy for Preventing Device Thrombosis Following Left Atrial Appendage Closure: The ANDES Randomized Clinical Trial\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.079292",
+    "doi": "10.1161/circulationaha.126.079292",
+    "journal": "Circulation",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785196800.0,
+    "tags": [
+      "Structural",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Performance of the Occlutech\u00ae Atrial Flow Regulator Device in Patients With Either Failing Fontan Circulations or Irreversible Pulmonary Hypertension",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70776?af=R",
+    "doi": "10.1002/ccd.70776",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785073963.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Left Atrial Appendage Closure in Atrial Fibrillation",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2606055?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMc2606055",
@@ -5975,78 +6051,6 @@
     "journal": "Catheter Cardiovasc Interv",
     "date": "Apr 30, 2026",
     "date_ts": 1777539093.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Code Stroke Activation Following Cardiac Catheterization Procedures: Contrast\u2010Induced Encephalopathy Versus Stroke",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70647?af=R",
-    "doi": "10.1002/ccd.70647",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777523126.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When Minutes Matter: Making STEMI Systems Reflexive: A Personal Perspective on Making Minutes Matter",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726058808?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777520035.663433,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intravascular Imaging- vs Angiography-Guided Complex PCI: 5-Year Outcomes From a Randomized Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001476?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777520035.663402,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intravascular Imaging to Guide Percutaneous Coronary Intervention: Optimize Today for Lasting Outcomes Tomorrow",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726054896?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777520035.663373,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sirolimus-Eluting Iron Bioresorbable Scaffolds vs Everolimus-Eluting Stents for Percutaneous Coronary Intervention: A Randomized Trial (IRONMAN II)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725104920?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777520035.663343,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Novel Bioresorbable Scaffold for the Treatment of Patients With Coronary Artery Disease: Could the Holy Grail Be Made of Iron?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726058766?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777520035.663313,
     "tags": [
       "PCI"
     ],
