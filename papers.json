@@ -1,5 +1,115 @@
 [
   {
+    "title": "Device Occlusion of Giant Pulmonary Artery Aneurysm in a 12-Year-Old With Beh\u00e7et's Disease",
+    "link": "https://doi.org/10.25270/jic/26.00239",
+    "doi": "10.25270/jic/26.00239",
+    "journal": "J Invasive Cardiology",
+    "date": "Jul 30, 2026",
+    "date_ts": 1785379071.741296,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Evaluation of Treatment Response of Calcified Nodules and Nodular Calcified Lesions Using Mean Density on Coronary Computed Tomography Angiography",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70770?af=R",
+    "doi": "10.1002/ccd.70770",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785289101.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Stepwise Percutaneous Management of a Giant Coronary Pseudoaneurysm",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70769?af=R",
+    "doi": "10.1002/ccd.70769",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785287993.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Multimodality Intravascular Imaging Guidance (NIRS\u2013IVUS\u2013OCT) Compared to Angiography\u2010Guided Percutaneous Coronary Intervention in Patients With Acute Myocardial Infarction: The NIRVUS Trial",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70765?af=R",
+    "doi": "10.1002/ccd.70765",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785286536.0,
+    "tags": [
+      "ACS",
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transcatheter Management of a Mitral Paravalvular Leak and an Adjacent Large Left Ventricular Pseudoaneurysm Using a Covered Stent\u2014Nitinol Occluder Combination",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70777?af=R",
+    "doi": "10.1002/ccd.70777",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785286446.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparative environmental life cycle assessment between transfemoral transcatheter aortic valve implantation and isolated surgical aortic valve replacement",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328011",
+    "doi": "10.1136/heartjnl-2026-328011",
+    "journal": "Heart (BMJ)",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785283200.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Balloon Rupture During Myval TAVI: A Rare Complication and Successful Bailout Strategy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70778?af=R",
+    "doi": "10.1002/ccd.70778",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785239009.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Procedural and Long\u2010Term Outcomes of Percutaneous Coronary Intervention for In\u2010Stent Chronic Total Occlusion",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70772?af=R",
+    "doi": "10.1002/ccd.70772",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785233408.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Calcified Plaque Detachment: Alternative Calcified Plaque Modification After Coronary Intravascular Lithotripsy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70764?af=R",
+    "doi": "10.1002/ccd.70764",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785233253.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Editorial Board",
     "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018911?dgcid=rss_sd_all",
     "doi": null,
@@ -5944,116 +6054,6 @@
     "journal": "Circulation",
     "date": "May 07, 2026",
     "date_ts": 1778112000.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reframing the Next Era of Advancing Outcomes Following Acute Myocardial Infarction: The Need to Improve Diagnosis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001488?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "May 07, 2026",
-    "date_ts": 1778124762.430534,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "High-Sensitivity Cardiac Troponin T-gen6 Assay in Suspected Myocardial Infarction: Diagnostic Accuracy, Cutoffs, and Clinical Implications",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725105846?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "May 07, 2026",
-    "date_ts": 1778124762.4305,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparison of the European Society of Cardiology 0/1-Hour and High-Sensitivity Troponin in the Evaluation of Patients With Suspected Acute Coronary Syndrome 0/2-or-0/3-Hour Algorithms for Rapid Myocardial Infarction Diagnosis: A Prospective Multicenter Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725105883?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "May 07, 2026",
-    "date_ts": 1778124762.430452,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Optimizing Approaches to Detect Patients With NSTEMI With Accelerated Diagnostic Protocols in the Emergency Department Setting",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725105913?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "May 07, 2026",
-    "date_ts": 1778124762.430418,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cardiac Arrest and Outcome in Patients With Cardiogenic Shock Complicating Acute Myocardial Infarction: A Pooled Analysis of Randomized Controlled Trials",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726002998?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "May 07, 2026",
-    "date_ts": 1778124762.430361,
-    "tags": [
-      "ACS",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Effect of Tocilizumab on Pro\u2013B-Type Natriuretic Peptide and Infarct Size in Patients With Acute Myocardial Infarction at Risk of Cardiogenic Shock (DOBERMANN-T)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001294?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "May 07, 2026",
-    "date_ts": 1778124762.430321,
-    "tags": [
-      "ACS",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Effect of Low-Dose Dobutamine Infusion on N-Terminal Pro\u2013B-Type Natriuretic Peptide in At-Risk Patients With Acute Myocardial Infarction (DOBERMANN-D): A Randomized Clinical Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001300?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "May 07, 2026",
-    "date_ts": 1778124762.430275,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Digital Cognitive Behavioral Therapy for Cardiac Anxiety After Myocardial Infarction: Effects on Disease-Specific Health Status\u2014Randomized Trial Results",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726054380?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "May 07, 2026",
-    "date_ts": 1778124762.430219,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Digital Interventions For Postmyocardial Infarction Cardiac Anxiety: Treating an Unmet Need, But Are They Accessible?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S073510972605792X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "May 07, 2026",
-    "date_ts": 1778124762.430178,
     "tags": [
       "ACS"
     ],
