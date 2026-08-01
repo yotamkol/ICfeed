@@ -1,5 +1,41 @@
 [
   {
+    "title": "Coronary Flow in Hypertrophic Obstructive Cardiomyopathy\u2014Immediate Effects of Alcohol Septal Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70791?af=R",
+    "doi": "10.1002/ccd.70791",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 31, 2026",
+    "date_ts": 1785478653.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Failure Mode and Effects Analysis\u2010Oriented Multidisciplinary Collaborative Nursing Model on Bleeding Prevention and Prognosis in Patients Undergoing Transradial Artery Coronary Angiography: A Randomized Controlled Trial",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70789?af=R",
+    "doi": "10.1002/ccd.70789",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 31, 2026",
+    "date_ts": 1785478492.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Coronary Perforation During Excimer Laser Angioplasty in a Patient With Prior Thoracic Radiotherapy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70792?af=R",
+    "doi": "10.1002/ccd.70792",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Jul 30, 2026",
+    "date_ts": 1785407102.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Device Occlusion of Giant Pulmonary Artery Aneurysm in a 12-Year-Old With Beh\u00e7et's Disease",
     "link": "https://doi.org/10.25270/jic/26.00239",
     "doi": "10.25270/jic/26.00239",
@@ -6018,42 +6054,6 @@
     "journal": "JACC",
     "date": "May 08, 2026",
     "date_ts": 1778210900.377001,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long cardiac troponin T in myocardial infarction: the SuperTROPO study is a promising starting point",
-    "link": "https://doi.org/10.1093/eurheartj/ehag332",
-    "doi": "10.1093/eurheartj/ehag332",
-    "journal": "European Heart Journal",
-    "date": "May 07, 2026",
-    "date_ts": 1778112000.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long cardiac troponin T in myocardial infarction: a promising diagnostic tool, a precision imperative",
-    "link": "https://doi.org/10.1093/eurheartj/ehag327",
-    "doi": "10.1093/eurheartj/ehag327",
-    "journal": "European Heart Journal",
-    "date": "May 07, 2026",
-    "date_ts": 1778112000.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "CD40-TRAF2/3/5 Signaling Promotes Cardiac Repair by Mediating Macrophage Efferocytosis After Myocardial Infarction",
-    "link": "https://doi.org/10.1161/circulationaha.125.078873",
-    "doi": "10.1161/circulationaha.125.078873",
-    "journal": "Circulation",
-    "date": "May 07, 2026",
-    "date_ts": 1778112000.0,
     "tags": [
       "ACS"
     ],
