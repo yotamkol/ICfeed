@@ -1,5 +1,67 @@
 [
   {
+    "title": "[Review] Systemic light chain and transthyretin amyloidosis\u2014treatment advancements and future directions",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00302-8/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)00302-8",
+    "journal": "Lancet",
+    "date": "Aug 02, 2026",
+    "date_ts": 1785640665.809089,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Articles] 1-month versus 12-month dual antithrombotic therapy after percutaneous coronary intervention in patients with atrial fibrillation (OPTIMA-AF): a multicentre, open-label, hybrid non-inferiority and superiority, randomised, controlled trial",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00665-3/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)00665-3",
+    "journal": "Lancet",
+    "date": "Aug 02, 2026",
+    "date_ts": 1785640665.809034,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Comment] Hantavirus: the need for a rapid regional response platform in Latin America",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01188-8/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)01188-8",
+    "journal": "Lancet",
+    "date": "Aug 02, 2026",
+    "date_ts": 1785640665.80886,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Comment] Combination antithrombotic therapy in atrial fibrillation after coronary interventions: shorter duration, more safety?",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00747-6/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)00747-6",
+    "journal": "Lancet",
+    "date": "Aug 02, 2026",
+    "date_ts": 1785640665.808792,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long\u2010Term Cardiovascular Outcomes Following Percutaneous Coronary Intervention of Diffuse Coronary Artery Lesions With Overlapping Homogeneous Versus Heterogeneous Second\u2010Generation Drug\u2010Eluting Stents",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70781?af=R",
+    "doi": "10.1002/ccd.70781",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785566235.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Coronary Flow in Hypertrophic Obstructive Cardiomyopathy\u2014Immediate Effects of Alcohol Septal Ablation",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70791?af=R",
     "doi": "10.1002/ccd.70791",
@@ -5994,66 +6056,6 @@
     "journal": "European Heart Journal",
     "date": "May 11, 2026",
     "date_ts": 1778457600.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Outcomes after a first acute myocardial infarction in patients with or without congenital heart disease",
-    "link": "https://doi.org/10.1093/eurheartj/ehag216",
-    "doi": "10.1093/eurheartj/ehag216",
-    "journal": "European Heart Journal",
-    "date": "May 11, 2026",
-    "date_ts": 1778457600.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The microRNA inhibitor CDR132L in patients with reduced left ventricular ejection fraction after myocardial infarction: a randomized phase 2 trial",
-    "link": "https://www.nature.com/articles/s41591-026-04408-4",
-    "doi": "10.1038/s41591-026-04408-4",
-    "journal": "Nature Medicine",
-    "date": "May 11, 2026",
-    "date_ts": 1778471590.138909,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Weekly Journal Scan: Is left atrial appendage closure really non-inferior to anticoagulation in atrial fibrillation?",
-    "link": "https://doi.org/10.1093/eurheartj/ehag333",
-    "doi": "10.1093/eurheartj/ehag333",
-    "journal": "European Heart Journal",
-    "date": "May 08, 2026",
-    "date_ts": 1778198400.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "[Articles] Enpatoran, a Toll-like receptor 7/8 inhibitor, in moderate-to-severe systemic lupus erythematosus: findings from Cohort B of a multicentre, international, double-blind, placebo-controlled dose-finding phase 2 trial",
-    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00463-0/fulltext?rss=yes",
-    "doi": "10.1016/S0140-6736(26)00463-0",
-    "journal": "Lancet",
-    "date": "May 08, 2026",
-    "date_ts": 1778210900.797964,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Secondary Prevention After Myocardial Infarction in the United States",
-    "link": "https://www.sciencedirect.com/science/article/pii/S073510972606136X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "May 08, 2026",
-    "date_ts": 1778210900.377001,
     "tags": [
       "ACS"
     ],
