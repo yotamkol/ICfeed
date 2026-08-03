@@ -1,5 +1,77 @@
 [
   {
+    "title": "Letter: From feasibility to optimisation in PINNACLE-I",
+    "link": "https://doi.org/10.4244/eij-d-26-00290",
+    "doi": "10.4244/eij-d-26-00290",
+    "journal": "EuroIntervention",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "To crack or to ablate? The contemporary calcium dilemma",
+    "link": "https://doi.org/10.4244/eij-d-26-00622",
+    "doi": "10.4244/eij-d-26-00622",
+    "journal": "EuroIntervention",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Reply: From feasibility to optimisation in PINNACLE-I",
+    "link": "https://doi.org/10.4244/eij-d-26-00314",
+    "doi": "10.4244/eij-d-26-00314",
+    "journal": "EuroIntervention",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Wall shear stress in eruptive versus non-eruptive calcified nodules",
+    "link": "https://doi.org/10.4244/eij-d-26-00088",
+    "doi": "10.4244/eij-d-26-00088",
+    "journal": "EuroIntervention",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Haemorrhagic acute myocardial infarction",
+    "link": "https://doi.org/10.4244/eij-d-26-00478",
+    "doi": "10.4244/eij-d-26-00478",
+    "journal": "EuroIntervention",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Establishing the role of drug-coated balloons in bifurcation PCI: more difficult than it seems",
+    "link": "https://doi.org/10.4244/eij-e-26-00012",
+    "doi": "10.4244/eij-e-26-00012",
+    "journal": "EuroIntervention",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "[Review] Systemic light chain and transthyretin amyloidosis\u2014treatment advancements and future directions",
     "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00302-8/fulltext?rss=yes",
     "doi": "10.1016/S0140-6736(26)00302-8",
@@ -5984,78 +6056,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "May 13, 2026",
     "date_ts": 1778643903.546731,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Full Issue PDF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601191X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.546584,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impella Versus VA\u2010ECMO in Cardiogenic Shock: An Updated Systematic Review and Meta\u2010Analysis With Exploratory Matched\u2010Cohort Analyses",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70658?af=R",
-    "doi": "10.1002/ccd.70658",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 12, 2026",
-    "date_ts": 1778558450.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stent thrombosis: an updated clinical overview from epidemiology to classification and management",
-    "link": "https://doi.org/10.1136/heartjnl-2026-327899",
-    "doi": "10.1136/heartjnl-2026-327899",
-    "journal": "Heart (BMJ)",
-    "date": "May 08, 2026",
-    "date_ts": 1778198400.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Beyond the ICU: Designing Systems of Recovery for Cardiogenic Shock Survivors",
-    "link": "https://doi.org/10.1161/circulationaha.125.077820",
-    "doi": "10.1161/circulationaha.125.077820",
-    "journal": "Circulation",
-    "date": "May 12, 2026",
-    "date_ts": 1778544000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Unveiling the Microvasculature: The Index of Microcirculatory Resistance and Its Expanding Role in Cardiovascular Care",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70629?af=R",
-    "doi": "10.1002/ccd.70629",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 11, 2026",
-    "date_ts": 1778473260.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ventricular free-wall rupture, ventricular pseudoaneurysm, and papillary muscle rupture complicating acute myocardial infarction",
-    "link": "https://doi.org/10.1093/eurheartj/ehag164",
-    "doi": "10.1093/eurheartj/ehag164",
-    "journal": "European Heart Journal",
-    "date": "May 11, 2026",
-    "date_ts": 1778457600.0,
     "tags": [
       "ACS"
     ],
