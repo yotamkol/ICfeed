@@ -1,5 +1,127 @@
 [
   {
+    "title": "Response by DeRubertis et al to Letter Regarding Article, \u201cDrug-Eluting Resorbable Scaffold Versus Balloon Angioplasty for Below-the-Knee Peripheral Artery Disease: 2-Year Results From the LIFE-BTK Trial\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.079060",
+    "doi": "10.1161/circulationaha.126.079060",
+    "journal": "Circulation",
+    "date": "Aug 04, 2026",
+    "date_ts": 1785801600.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Letter by Chen et al Regarding Article, \u201cDrug-Eluting Resorbable Scaffold Versus Balloon Angioplasty for Below-the-Knee Peripheral Artery Disease: 2-Year Results From the LIFE-BTK Trial\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.125.078086",
+    "doi": "10.1161/circulationaha.125.078086",
+    "journal": "Circulation",
+    "date": "Aug 04, 2026",
+    "date_ts": 1785801600.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Endovascular Bailout Using Covered\u2010Stent Fenestration After Misdeployment of a Balloon\u2010Expandable Covered Stent From the Common Iliac Artery Into the Internal Iliac Artery",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70796?af=R",
+    "doi": "10.1002/ccd.70796",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 03, 2026",
+    "date_ts": 1785732686.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparative Outcomes of Novel Small Balloon Low\u2010Pressure Pullback and Traditional Management for Coronary Intramural Hematoma Complicating PCI",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70771?af=R",
+    "doi": "10.1002/ccd.70771",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 03, 2026",
+    "date_ts": 1785732516.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Baseline Invasive Hemodynamics Identify Patients at Risk for Suboptimal Clinical Response After Percutaneous Atrial Septal Defect Closure",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70790?af=R",
+    "doi": "10.1002/ccd.70790",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 03, 2026",
+    "date_ts": 1785732394.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Outcomes After Scoring\u2010Balloon and Sirolimus\u2010Eluting Balloon Strategy in Diffuse Small\u2010Vessel Coronary Artery Disease (SCA\u2010DEB Study): A Single\u2010Center Prospective Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70784?af=R",
+    "doi": "10.1002/ccd.70784",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 03, 2026",
+    "date_ts": 1785732161.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The DanGer of assumption: treatment, timing, and phenotyping gaps in real-world Impella practice",
+    "link": "https://doi.org/10.1093/eurheartj/ehag593",
+    "doi": "10.1093/eurheartj/ehag593",
+    "journal": "European Heart Journal",
+    "date": "Aug 03, 2026",
+    "date_ts": 1785715200.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Real-world Impella practice in AMI-CS complements, not contradicts, DanGer shock",
+    "link": "https://doi.org/10.1093/eurheartj/ehag595",
+    "doi": "10.1093/eurheartj/ehag595",
+    "journal": "European Heart Journal",
+    "date": "Aug 03, 2026",
+    "date_ts": 1785715200.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sudden cardiac death risk after myocardial infarction across the spectrum of left ventricular ejection fraction: a meta-analysis",
+    "link": "https://doi.org/10.1136/heartjnl-2026-327792",
+    "doi": "10.1136/heartjnl-2026-327792",
+    "journal": "Heart (BMJ)",
+    "date": "Aug 03, 2026",
+    "date_ts": 1785715200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Aspirin discontinuation after percutaneous coronary intervention for acute coronary syndromes",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328686",
+    "doi": "10.1136/heartjnl-2026-328686",
+    "journal": "Heart (BMJ)",
+    "date": "Aug 03, 2026",
+    "date_ts": 1785715200.0,
+    "tags": [
+      "ACS",
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
     "title": "Letter: From feasibility to optimisation in PINNACLE-I",
     "link": "https://doi.org/10.4244/eij-d-26-00290",
     "doi": "10.4244/eij-d-26-00290",
@@ -5938,126 +6060,6 @@
     "date_ts": 1778643903.547087,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Atrial Appendage Occlusion: Are Accumulating Data Enough to Change Clinical Practice?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011210?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547054,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "2-Year Outcomes Following Transseptal Mitral Valve Replacement With the HighLife System",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006606?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547003,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Jet-to-Commissure Index Predicts Procedural Results in Transcatheter Mitral Valve Edge-to-Edge Repair for Functional Mitral Regurgitation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601109X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.546971,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Embolic Protection With the Emboliner for Structural Heart Procedures With Extreme Embolic Risk",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826010277?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.546939,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sutureless Aortic, Mitral, and Tricuspid Valve Replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011064?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.546909,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Novel Maneuver for Edge-to-Edge Clip Chordal Disentanglement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011106?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.54688,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "TAVR in Patients With Prior Iliofemoral Stenting: Not All Stent Platforms Are Equal",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011052?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.546849,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial Septostomy\u2013Assisted Primum Atrial Septal Defect Closure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011076?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.546811,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Genotype-Guided vs Conventional Oral P2Y<sub>12</sub> Inhibitors in Acute Coronary Syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601112X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.546771,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "REPLY: Genotype-Guided vs Conventional Oral P2Y<sub>12</sub> Inhibitors in Acute Coronary Syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011118?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.546731,
-    "tags": [
-      "ACS"
     ],
     "hot": false
   }
