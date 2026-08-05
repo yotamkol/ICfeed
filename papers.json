@@ -1,5 +1,67 @@
 [
   {
+    "title": "First Report of Kounis Syndrome after Zopiclone\u2014When Morpheus Misfires",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70801?af=R",
+    "doi": "10.1002/ccd.70801",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 04, 2026",
+    "date_ts": 1785819929.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70779?af=R",
+    "doi": "10.1002/ccd.70779",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 03, 2026",
+    "date_ts": 1785774720.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Hospital\u2010Level Variations in Outcomes and Readmissions Among Patients With STEMI and Cardiogenic Shock Receiving Mechanical Circulatory Support: Insights From a National Cohort",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70782?af=R",
+    "doi": "10.1002/ccd.70782",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 03, 2026",
+    "date_ts": 1785756945.0,
+    "tags": [
+      "ACS",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "From 360\u00b0 Cap Hunting to a Targeted Arc: IVUS\u2013Angio Co\u2010Registration for Ambiguous CTO Entry",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70798?af=R",
+    "doi": "10.1002/ccd.70798",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 03, 2026",
+    "date_ts": 1785754612.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transcatheter Tricuspid Valve Replacement for Residual Tricuspid Regurgitation After TEER",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70797?af=R",
+    "doi": "10.1002/ccd.70797",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 03, 2026",
+    "date_ts": 1785753721.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Response by DeRubertis et al to Letter Regarding Article, \u201cDrug-Eluting Resorbable Scaffold Versus Balloon Angioplasty for Below-the-Knee Peripheral Artery Disease: 2-Year Results From the LIFE-BTK Trial\u201d",
     "link": "https://doi.org/10.1161/circulationaha.126.079060",
     "doi": "10.1161/circulationaha.126.079060",
@@ -5998,66 +6060,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "May 13, 2026",
     "date_ts": 1778643903.547228,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "30-Day Outcomes of a Single-Stage Transfemoral Mitral Valve Replacement System in Severe Mitral Valve Disease",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009027?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547198,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transseptal TMVR With the Cephea Valve: A Step in the Right Direction",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011222?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.54717,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long-Term Outcomes in Patients With New-Onset Left Bundle Branch Block Following TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011088?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547144,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Precision Medicine With Individualized Clinical Surveillance After TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011234?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547117,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "1-Year Real-World Outcomes With the Amulet Occluder From the EMERGE LAA Postapproval Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007715?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547087,
     "tags": [
       "Other"
     ],
