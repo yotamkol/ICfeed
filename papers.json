@@ -1,5 +1,138 @@
 [
   {
+    "title": "First\u2010in\u2010Human Use of a Novel Perfusion\u2010Channel Drug\u2010Coated Balloon to Manage Coronary Artery Perforation During Chronic Total Occlusion Intervention: A Case Report",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70788?af=R",
+    "doi": "10.1002/ccd.70788",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 05, 2026",
+    "date_ts": 1785915429.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Type 2 Diabetes Mellitus on Outcomes Following Transcatheter Aortic Valve Replacement: Insights From a Contemporary US Database",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70786?af=R",
+    "doi": "10.1002/ccd.70786",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 05, 2026",
+    "date_ts": 1785914600.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Stent Underexpansion Prediction Is Improved by Intravascular Ultrasound\u2010Based Distance\u2010Averaged Calcium Angles",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70804?af=R",
+    "doi": "10.1002/ccd.70804",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 05, 2026",
+    "date_ts": 1785908905.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ischemic Heart Disease in G20 Countries: Forecasted Burden and Regional Disparities Based on GBD 2023 Estimates",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70783?af=R",
+    "doi": "10.1002/ccd.70783",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 05, 2026",
+    "date_ts": 1785908874.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Does Maximum Troponin T Value Correlate With Acute Coronary Occlusion Among Patients Treated as NSTEMI?",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70802?af=R",
+    "doi": "10.1002/ccd.70802",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 05, 2026",
+    "date_ts": 1785908269.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Aspirin-free P2Y12 inhibitor monotherapy post-stenting in acute coronary syndromes",
+    "link": "https://doi.org/10.1093/eurheartj/ehag620",
+    "doi": "10.1093/eurheartj/ehag620",
+    "journal": "European Heart Journal",
+    "date": "Aug 05, 2026",
+    "date_ts": 1785888000.0,
+    "tags": [
+      "ACS",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Hydroxychloroquine-associated myocardial injury in systemic lupus erythematosus: cardiac MRI and histologic findings",
+    "link": "https://doi.org/10.1093/eurheartj/ehag580",
+    "doi": "10.1093/eurheartj/ehag580",
+    "journal": "European Heart Journal",
+    "date": "Aug 05, 2026",
+    "date_ts": 1785888000.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Balancing Circulatory Support and Ventricular Unloading in Post\u2010Infarction Ventricular Septal Perforation: A Computational Analysis of ECPELLA Support Configurations",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70793?af=R",
+    "doi": "10.1002/ccd.70793",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 04, 2026",
+    "date_ts": 1785849605.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Combination of the Slipstream and the TD\u2010ADR Techniques: An Effective and Safe Strategy for Precision Recanalization of Complex Chronic Total Occlusions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70744?af=R",
+    "doi": "10.1002/ccd.70744",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 04, 2026",
+    "date_ts": 1785849398.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Integrating HEART Score and Early CT Coronary Angiography in a Chest Pain Hot Clinic\u2014A Safe Alternative to Inpatient Care From UK Tertiary Center Experience",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70780?af=R",
+    "doi": "10.1002/ccd.70780",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 04, 2026",
+    "date_ts": 1785849288.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "First, Do No Harm: Implications of CHIP\u2010BCIS3 for Interventional Cardiology Training",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70795?af=R",
+    "doi": "10.1002/ccd.70795",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 04, 2026",
+    "date_ts": 1785848779.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "First Report of Kounis Syndrome after Zopiclone\u2014When Morpheus Misfires",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70801?af=R",
     "doi": "10.1002/ccd.70801",
@@ -5927,139 +6060,6 @@
     "journal": "Circulation",
     "date": "May 13, 2026",
     "date_ts": 1778630400.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prognostic Impact of Pacemaker Implantation in Transcatheter Aortic Valve Replacement With Self\u2010Expanding Prosthesis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70652?af=R",
-    "doi": "10.1002/ccd.70652",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 12, 2026",
-    "date_ts": 1778586698.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "CD98hc controls CNS angiogenesis and blood\u2013brain barrier integrity through localized regulation of the systemic integrin\u2013FAK pathway",
-    "link": "https://www.nature.com/articles/s44161-026-00816-4",
-    "doi": "10.1038/s44161-026-00816-4",
-    "journal": "Nature Cardiovasc Res",
-    "date": "May 13, 2026",
-    "date_ts": 1778643904.860602,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "In-Human OCT Evidence of Acute Transfer and Persistence of Crystal-Like Deposits After Sirolimus-Coated Balloon Angioplasty",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826010216?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547464,
-    "tags": [
-      "PCI",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Myocardial Bridging Independently Associates with Coronary Artery Spasm",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011519?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547432,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Effect of sublingual nitroglycerin on absolute coronary blood flow: A randomised double-blind placebo-controlled mechanistic study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013208?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.5474,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulmonary Artery Pulsatility Index and Clinical Outcomes in Patients Undergoing Transcatheter Tricuspid Valve Replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013294?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547371,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Proposed Anatomic-Fluoroscopic Workflow to Identify the Optimal Split Line for Leaflet Modification in Redo-TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826012562?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547342,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011891?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547318,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Management Approach for Residual and Recurrent Mitral Regurgitation After Transcatheter Edge-to-Edge Repair",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011131?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547287,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Phenotypic Diversity and Outcomes of Transcatheter Mitral Repair for Secondary Mitral Regurgitation: Insights From the COAPT and MITRA-FR Trials",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009039?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547256,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Putting Pieces Together: Pooled Evidence From COAPT and MITRA-FR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826009040?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 13, 2026",
-    "date_ts": 1778643903.547228,
     "tags": [
       "Other"
     ],
