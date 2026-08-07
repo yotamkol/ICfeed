@@ -1,5 +1,89 @@
 [
   {
+    "title": "Impact of Left Ventricular Unloading on Hemodynamics and Stunning in Complex PCI: A CHIP-BCIS3 Substudy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726070658?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786070888.419402,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Estimating Redo Aortic Valve Replacement After TAVR: Kaplan-Meier vs Cumulative Incidence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726069743?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786070888.419243,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transcatheter aortic valve implantation vs surgical aortic valve replacement for aortic stenosis: the saga continues",
+    "link": "https://doi.org/10.1093/eurheartj/ehag592",
+    "doi": "10.1093/eurheartj/ehag592",
+    "journal": "European Heart Journal",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786060800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Interaction of Operator\u2212Patient Sex on Peri\u2010Procedural Treatments and Major Coronary Outcomes After Percutaneous Coronary Intervention",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70799?af=R",
+    "doi": "10.1002/ccd.70799",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 06, 2026",
+    "date_ts": 1785990664.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Surviving Pediatric Cardiogenic Shock: Clinical Approach, Improving Outcomes, and Future Directions: A Scientific Statement From the American Heart Association",
+    "link": "https://doi.org/10.1161/cir.0000000000001461",
+    "doi": "10.1161/cir.0000000000001461",
+    "journal": "Circulation",
+    "date": "Aug 06, 2026",
+    "date_ts": 1785974400.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "State of the Art: Personalized Antiplatelet Therapy by Genotype and Platelet Function Testing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70794?af=R",
+    "doi": "10.1002/ccd.70794",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 05, 2026",
+    "date_ts": 1785929940.0,
+    "tags": [
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Validation of an Automated Artificial Intelligence\u2010Driven Planner for Transcatheter Aortic Valve Replacement",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70785?af=R",
+    "doi": "10.1002/ccd.70785",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 05, 2026",
+    "date_ts": 1785929662.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "First\u2010in\u2010Human Use of a Novel Perfusion\u2010Channel Drug\u2010Coated Balloon to Manage Coronary Artery Perforation During Chronic Total Occlusion Intervention: A Case Report",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70788?af=R",
     "doi": "10.1002/ccd.70788",
@@ -5977,91 +6061,6 @@
     "date_ts": 1778803200.0,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Development and Validation of NICVD\u2010NQ Score for Predicting Short\u2010Term Outcomes After Primary PCI",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70657?af=R",
-    "doi": "10.1002/ccd.70657",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 14, 2026",
-    "date_ts": 1778730411.0,
-    "tags": [
-      "ACS",
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stroke after transcatheter aortic valve implantation: incidence, temporal trends and predictors",
-    "link": "https://doi.org/10.1136/heartjnl-2025-327547",
-    "doi": "10.1136/heartjnl-2025-327547",
-    "journal": "Heart (BMJ)",
-    "date": "May 14, 2026",
-    "date_ts": 1778716800.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cerebrovascular Events in Aortic Stenosis: From Native Valve Disease to TAVR\u2010Specific Risk and Prevention",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70660?af=R",
-    "doi": "10.1002/ccd.70660",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 13, 2026",
-    "date_ts": 1778656210.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cerebral Embolic Protection in TAVI: Mechanistic and Temporal Limitations",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70651?af=R",
-    "doi": "10.1002/ccd.70651",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 13, 2026",
-    "date_ts": 1778645286.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Double Barrel DCB in a Giant Ostial LAD",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70661?af=R",
-    "doi": "10.1002/ccd.70661",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 13, 2026",
-    "date_ts": 1778645096.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Renin-angiotensin-aldosterone system failure drives inappropriate vasodilation in cardiogenic shock: a hypothesis",
-    "link": "https://doi.org/10.1093/eurheartj/ehag292",
-    "doi": "10.1093/eurheartj/ehag292",
-    "journal": "European Heart Journal",
-    "date": "May 13, 2026",
-    "date_ts": 1778630400.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Secondary Prevention After Coronary Artery Bypass Graft Surgery: 2026 Update: A Scientific Statement From the American Heart Association",
-    "link": "https://doi.org/10.1161/cir.0000000000001434",
-    "doi": "10.1161/cir.0000000000001434",
-    "journal": "Circulation",
-    "date": "May 13, 2026",
-    "date_ts": 1778630400.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
