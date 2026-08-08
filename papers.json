@@ -1,5 +1,17 @@
 [
   {
+    "title": "Ascending aorta and pure aortic regurgitation transcatheter aortic valve replacement: insights from the National Transcatheter Valve Therapeutics Registry",
+    "link": "https://doi.org/10.1136/heartjnl-2025-327742",
+    "doi": "10.1136/heartjnl-2025-327742",
+    "journal": "Heart (BMJ)",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786060800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Impact of Left Ventricular Unloading on Hemodynamics and Stunning in Complex PCI: A CHIP-BCIS3 Substudy",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726070658?dgcid=rss_sd_all",
     "doi": null,
@@ -6047,18 +6059,6 @@
     "journal": "NEJM",
     "date": "May 15, 2026",
     "date_ts": 1778816952.96367,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intracoronary imaging for left main percutaneous coronary intervention: a clinical consensus statement of the European Association of Percutaneous Cardiovascular Interventions (EAPCI) of the ESC and the European Bifurcation Club (EBC)",
-    "link": "https://doi.org/10.1093/eurheartj/ehag353",
-    "doi": "10.1093/eurheartj/ehag353",
-    "journal": "European Heart Journal",
-    "date": "May 15, 2026",
-    "date_ts": 1778803200.0,
     "tags": [
       "PCI"
     ],
