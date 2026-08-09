@@ -1,5 +1,17 @@
 [
   {
+    "title": "Spontaneous Coronary Artery Dissection in a Young Women: A Case Report and Literature Review",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70766?af=R",
+    "doi": "10.1002/ccd.70766",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 06, 2026",
+    "date_ts": 1786010433.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Ascending aorta and pure aortic regurgitation transcatheter aortic valve replacement: insights from the National Transcatheter Valve Therapeutics Registry",
     "link": "https://doi.org/10.1136/heartjnl-2025-327742",
     "doi": "10.1136/heartjnl-2025-327742",
@@ -6049,18 +6061,6 @@
     "date_ts": 1778816953.039984,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Therapy for Atrial Fibrillation in Patients with Drug-Eluting Stents",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2603462?af=R&rss=currentIssue",
-    "doi": "10.1056/NEJMc2603462",
-    "journal": "NEJM",
-    "date": "May 15, 2026",
-    "date_ts": 1778816952.96367,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
