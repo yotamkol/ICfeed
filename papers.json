@@ -1,5 +1,41 @@
 [
   {
+    "title": "Gender-related risk of myocardial infarction and subclinical coronary atherosclerosis: a Danish population cohort study",
+    "link": "https://doi.org/10.1093/eurheartj/ehag612",
+    "doi": "10.1093/eurheartj/ehag612",
+    "journal": "European Heart Journal",
+    "date": "Aug 12, 2026",
+    "date_ts": 1786492800.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Toward Precision Antiplatelet Therapy After Coronary Artery Bypass Grafting\u2014Reply",
+    "link": "https://doi.org/10.1001/jamacardio.2026.2653",
+    "doi": "10.1001/jamacardio.2026.2653",
+    "journal": "JAMA Cardiology",
+    "date": "Aug 12, 2026",
+    "date_ts": 1786492800.0,
+    "tags": [
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Toward Precision Antiplatelet Therapy After Coronary Artery Bypass Grafting",
+    "link": "https://doi.org/10.1001/jamacardio.2026.2650",
+    "doi": "10.1001/jamacardio.2026.2650",
+    "journal": "JAMA Cardiology",
+    "date": "Aug 12, 2026",
+    "date_ts": 1786492800.0,
+    "tags": [
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
     "title": "Congenital Double Orifice Mitral Valve",
     "link": "https://doi.org/10.25270/jic/26.00261",
     "doi": "10.25270/jic/26.00261",
@@ -6022,43 +6058,6 @@
     "date_ts": 1778822253.0,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Annular Ellipticity and Sizing Strategy in Transcatheter Aortic Valve Implantation: Independent or Combined Risk Patterns?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70540?af=R",
-    "doi": "10.1002/ccd.70540",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 15, 2026",
-    "date_ts": 1778822253.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sheathless Femoral Impella Implantation: A Safer Hemodynamic Support in High\u2010Risk PCI and Cardiogenic Shock",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70541?af=R",
-    "doi": "10.1002/ccd.70541",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 15, 2026",
-    "date_ts": 1778822253.0,
-    "tags": [
-      "PCI",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Balloon Versus Self\u2010Expandable TAVI in Patients With Left Ventricular Dysfunction: A Real\u2010World Comparative Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70547?af=R",
-    "doi": "10.1002/ccd.70547",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 15, 2026",
-    "date_ts": 1778822253.0,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
