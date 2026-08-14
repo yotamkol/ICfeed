@@ -1,5 +1,18 @@
 [
   {
+    "title": "Intravenous Nicorandil in Patients With ST-Segment Elevation Myocardial Infarction Undergoing Primary PCI: The CLEAN Randomized Clinical Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726070713?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 14, 2026",
+    "date_ts": 1786673408.013846,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Gender-related risk of myocardial infarction and subclinical coronary atherosclerosis: a Danish population cohort study",
     "link": "https://doi.org/10.1093/eurheartj/ehag612",
     "doi": "10.1093/eurheartj/ehag612",
@@ -6046,18 +6059,6 @@
     "date_ts": 1778822253.0,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Differences in Vascular Responses and Underlying Mechanisms Following Paclitaxel\u2010Coated Balloon Angioplasty Between Lipid\u2010Rich and Non\u2010Lipid\u2010Rich Lesions in Chronic Coronary Syndrome",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70534?af=R",
-    "doi": "10.1002/ccd.70534",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 15, 2026",
-    "date_ts": 1778822253.0,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
