@@ -1,5 +1,65 @@
 [
   {
+    "title": "AI-ECG Detection of Structural Heart Disease in the Community Setting: Transportability and Spectrum Effects in the PREVUE-VALVE Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726068336?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787188974.257403,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Propofol\u2010Based Lubrication to Overcome Equipment Friction in Chronic Total Occlusion PCI: The Propoglide Technique",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70831?af=R",
+    "doi": "10.1002/ccd.70831",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 19, 2026",
+    "date_ts": 1787116717.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ventricular Fibrillation With Intravascular Lithotripsy",
+    "link": "https://doi.org/10.1001/jamacardio.2026.3113",
+    "doi": "10.1001/jamacardio.2026.3113",
+    "journal": "JAMA Cardiology",
+    "date": "Aug 19, 2026",
+    "date_ts": 1787097600.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Aorto\u2010Ostial Lesion Percutaneous Coronary Intervention: Clinical Characteristics, Predictors and Clinical Outcomes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70817?af=R",
+    "doi": "10.1002/ccd.70817",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 18, 2026",
+    "date_ts": 1787062704.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sheath\u2010to\u2010Artery Diameter Ratio: A Robust Predictor of Early Access\u2010Site Adverse Events in Percutaneous Procedures",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70808?af=R",
+    "doi": "10.1002/ccd.70808",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 18, 2026",
+    "date_ts": 1787036400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Success Rate and Proposed Mechanism of Balloon Rupture in Hemostasis With MYNX CONTROL",
     "link": "https://doi.org/10.25270/jic/26.00184",
     "doi": "10.25270/jic/26.00184",
@@ -5996,67 +6056,6 @@
     "date_ts": 1779148800.0,
     "tags": [
       "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Impact of COVID\u201019 Infection and Vaccination on Myocarditis Incidence: A Comparative Analysis of Pre\u2010, Peri\u2010, and Post\u2010Pandemic Eras",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70659?af=R",
-    "doi": "10.1002/ccd.70659",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 18, 2026",
-    "date_ts": 1779082517.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prognostic Value of Computational Pressure\u2010Flow Dynamics Derived FFR Measured Immediately After Successful Paclitaxel\u2011Coated Balloon Angioplasty for In\u2010Stent Restenosis Lesion",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70653?af=R",
-    "doi": "10.1002/ccd.70653",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 18, 2026",
-    "date_ts": 1779078936.0,
-    "tags": [
-      "PCI",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Renal Denervation in Cardiovascular Diseases: Mechanisms, Evidence, and Expanding Applications",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70656?af=R",
-    "doi": "10.1002/ccd.70656",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 18, 2026",
-    "date_ts": 1779077737.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clarifying the treatment-pathway effects and generalizability of FAITAVI",
-    "link": "https://doi.org/10.1093/eurheartj/ehag365",
-    "doi": "10.1093/eurheartj/ehag365",
-    "journal": "European Heart Journal",
-    "date": "May 18, 2026",
-    "date_ts": 1779062400.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clarifying the treatment-pathway effects and generalizability of FAITAVI",
-    "link": "https://doi.org/10.1093/eurheartj/ehag367",
-    "doi": "10.1093/eurheartj/ehag367",
-    "journal": "European Heart Journal",
-    "date": "May 18, 2026",
-    "date_ts": 1779062400.0,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
