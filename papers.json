@@ -1,5 +1,91 @@
 [
   {
+    "title": "[Articles] Multivessel coronary artery bypass grafting via small thoracotomy versus sternotomy (MIST): an investigator-initiated, international, open-label, randomised controlled trial",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01288-2/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)01288-2",
+    "journal": "Lancet",
+    "date": "Aug 21, 2026",
+    "date_ts": 1787275627.565458,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Correspondence] Reappraising long-term antiplatelet therapy after percutaneous coronary intervention \u2013 Authors' reply",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01369-3/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)01369-3",
+    "journal": "Lancet",
+    "date": "Aug 21, 2026",
+    "date_ts": 1787275627.565371,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Correspondence] Reappraising long-term antiplatelet therapy after percutaneous coronary intervention",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01206-7/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)01206-7",
+    "journal": "Lancet",
+    "date": "Aug 21, 2026",
+    "date_ts": 1787275627.565342,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Correspondence] Hantavirus outbreak: a model of regional and global cooperation",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01431-5/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)01431-5",
+    "journal": "Lancet",
+    "date": "Aug 21, 2026",
+    "date_ts": 1787275627.565279,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Outcomes of Drug\u2010Eluting Stents and Drug\u2010Coated Balloons in Tortuous Small Coronary Lesions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70814?af=R",
+    "doi": "10.1002/ccd.70814",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787201005.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Heart transplantation allograft survival: donor atherosclerotic disease risk vs coronary angiography",
+    "link": "https://doi.org/10.1093/eurheartj/ehag488",
+    "doi": "10.1093/eurheartj/ehag488",
+    "journal": "European Heart Journal",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787184000.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Multi-marker inflammatory risk assessment after acute coronary syndrome",
+    "link": "https://doi.org/10.1093/eurheartj/ehag502",
+    "doi": "10.1093/eurheartj/ehag502",
+    "journal": "European Heart Journal",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787184000.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "AI-ECG Detection of Structural Heart Disease in the Community Setting: Transportability and Spectrum Effects in the PREVUE-VALVE Study",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726068336?dgcid=rss_sd_all",
     "doi": null,
@@ -5971,91 +6057,6 @@
       "PCI",
       "Structural",
       "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "FFR-guided revascularization in patients undergoing TAVI: insights on the FAITAVI trial",
-    "link": "https://doi.org/10.1093/eurheartj/ehag259",
-    "doi": "10.1093/eurheartj/ehag259",
-    "journal": "European Heart Journal",
-    "date": "May 22, 2026",
-    "date_ts": 1779408000.0,
-    "tags": [
-      "PCI",
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Tricuspid Valve Replacement Stent Geometry: Implications for Hypoattenuated Leaflet Thickening and Reduced Leaflet Motion",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601472X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 21, 2026",
-    "date_ts": 1779336287.296877,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Outcomes of Transfemoral Transcatheter Mitral Valve Replacement: Results from the CHOICE-MI Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014147?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 21, 2026",
-    "date_ts": 1779336287.296846,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "<u>B</u>alloon-<u>A</u>ssisted <u>T</u>ranslocation of the <u>M</u>itral <u>An</u>terior Leaflet to Prevent Outflow Tract Obstruction During TMVR: BATMAN-Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013117?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 21, 2026",
-    "date_ts": 1779336287.296704,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Evolocumab in Patients With Prior Percutaneous Coronary Intervention and No Prior MI: Results From the VESALIUS-CV Trial",
-    "link": "https://doi.org/10.1161/circulationaha.126.080616",
-    "doi": "10.1161/circulationaha.126.080616",
-    "journal": "Circulation",
-    "date": "May 19, 2026",
-    "date_ts": 1779148800.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Letter by Pan and Ding Regarding Article, \u201cOral Pathobionts Aggravate Myocardial Infarction Through Mobilization of B2 Cells\u201d",
-    "link": "https://doi.org/10.1161/circulationaha.125.077225",
-    "doi": "10.1161/circulationaha.125.077225",
-    "journal": "Circulation",
-    "date": "May 19, 2026",
-    "date_ts": 1779148800.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Response by Chen and Duan to Letter Regarding Article, \u201cOral Pathobionts Aggravate Myocardial Infarction Through Mobilization of B2 Cells\u201d",
-    "link": "https://doi.org/10.1161/circulationaha.126.079912",
-    "doi": "10.1161/circulationaha.126.079912",
-    "journal": "Circulation",
-    "date": "May 19, 2026",
-    "date_ts": 1779148800.0,
-    "tags": [
-      "ACS"
     ],
     "hot": false
   }

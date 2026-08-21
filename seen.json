@@ -53,6 +53,8 @@
   "https://doi.org/10.1093/eurheartj/ehag475",
   "https://doi.org/10.1093/eurheartj/ehag482",
   "https://doi.org/10.1093/eurheartj/ehag485",
+  "https://doi.org/10.1093/eurheartj/ehag488",
+  "https://doi.org/10.1093/eurheartj/ehag502",
   "https://doi.org/10.1093/eurheartj/ehag506",
   "https://doi.org/10.1093/eurheartj/ehag520",
   "https://doi.org/10.1093/eurheartj/ehag528",
@@ -664,6 +666,7 @@
   "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70807?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70808?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70812?af=R",
+  "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70814?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70815?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70816?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70817?af=R",
@@ -1103,5 +1106,9 @@
   "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01124-4/fulltext?rss=yes",
   "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01132-3/fulltext?rss=yes",
   "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01188-8/fulltext?rss=yes",
-  "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01227-4/fulltext?rss=yes"
+  "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01206-7/fulltext?rss=yes",
+  "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01227-4/fulltext?rss=yes",
+  "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01288-2/fulltext?rss=yes",
+  "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01369-3/fulltext?rss=yes",
+  "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01431-5/fulltext?rss=yes"
 ]
