@@ -1,5 +1,29 @@
 [
   {
+    "title": "Evaluating the Impact of Enhanced Stent Visualization on PCI Outcomes in Older Patients With Multivessel Disease",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70819?af=R",
+    "doi": "10.1002/ccd.70819",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 21, 2026",
+    "date_ts": 1787320303.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Outcomes of the Allegra Transcatheter System in Bioprosthetic Aortic Valve Failure: A Multicentre Valve\u2010in\u2010Valve Registry",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70811?af=R",
+    "doi": "10.1002/ccd.70811",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 21, 2026",
+    "date_ts": 1787316473.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "[Articles] Multivessel coronary artery bypass grafting via small thoracotomy versus sternotomy (MIST): an investigator-initiated, international, open-label, randomised controlled trial",
     "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01288-2/fulltext?rss=yes",
     "doi": "10.1016/S0140-6736(26)01288-2",
@@ -6031,32 +6055,6 @@
     "date_ts": 1779422395.859545,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First Large Comprehensive Core-Laboratory Evaluation of Implantation Depth and Clinical Outcomes in TAVR: Final Global Results from the Optimize PRO Prospective Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014482?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 22, 2026",
-    "date_ts": 1779422394.95842,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Routine FFR-guided revascularization in patients undergoing transcatheter aortic valve implantation, one step too far?",
-    "link": "https://doi.org/10.1093/eurheartj/ehag256",
-    "doi": "10.1093/eurheartj/ehag256",
-    "journal": "European Heart Journal",
-    "date": "May 22, 2026",
-    "date_ts": 1779408000.0,
-    "tags": [
-      "PCI",
-      "Structural",
-      "Imaging"
     ],
     "hot": false
   }
