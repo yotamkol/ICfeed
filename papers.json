@@ -1,5 +1,177 @@
 [
   {
+    "title": "Comparison of Sirolimus- vs Paclitaxel-Coated Balloon Angioplasty for Femoropopliteal Artery Disease: The SIRONA Randomized Noninferiority Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725104336?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 27, 2026",
+    "date_ts": 1787818746.94002,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Interpreting Contemporary PCI for Diabetes and Multivessel Coronary Disease After FREEDOM",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726067732?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 27, 2026",
+    "date_ts": 1787818746.939804,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Post\u2010Dilatation and Risk of Complications in STEMI Patients Undergoing Primary Percutaneous Coronary Intervention: A Retrospective Cohort Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70833?af=R",
+    "doi": "10.1002/ccd.70833",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 27, 2026",
+    "date_ts": 1787806691.0,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Novel Bailout for Pulsta Valve Embolization: Microporous Endograft Fixation at the SVC\u2010RA Junction in Repaired Tetralogy of Fallot With Severe Pulmonary Regurgitation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70810?af=R",
+    "doi": "10.1002/ccd.70810",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 27, 2026",
+    "date_ts": 1787802414.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Crossing an Angulated SVG\u2013RCA Anastomosis Using Distal Anchoring and Guide Extension: A Bailout Strategy in STEMI",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70834?af=R",
+    "doi": "10.1002/ccd.70834",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 26, 2026",
+    "date_ts": 1787722819.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Aerobic exercise attenuates peri-infarct fibrosis and improves fitness early after acute myocardial infarction: a randomized trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag651",
+    "doi": "10.1093/eurheartj/ehag651",
+    "journal": "European Heart Journal",
+    "date": "Aug 26, 2026",
+    "date_ts": 1787702400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Beyond temporal modulation: toward biologically tailored antiplatelet therapy after PCI",
+    "link": "https://doi.org/10.1093/eurheartj/ehag661",
+    "doi": "10.1093/eurheartj/ehag661",
+    "journal": "European Heart Journal",
+    "date": "Aug 26, 2026",
+    "date_ts": 1787702400.0,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "In search of the right target for tailored antiplatelet therapy after Complex PCI",
+    "link": "https://doi.org/10.1093/eurheartj/ehag662",
+    "doi": "10.1093/eurheartj/ehag662",
+    "journal": "European Heart Journal",
+    "date": "Aug 26, 2026",
+    "date_ts": 1787702400.0,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The vagus nerve in myocardial infarction",
+    "link": "https://doi.org/10.1093/eurheartj/ehag674",
+    "doi": "10.1093/eurheartj/ehag674",
+    "journal": "European Heart Journal",
+    "date": "Aug 26, 2026",
+    "date_ts": 1787702400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Bleeding and Stroke Prevention After Left Atrial Appendage Occlusion",
+    "link": "https://doi.org/10.1001/jamacardio.2026.3005",
+    "doi": "10.1001/jamacardio.2026.3005",
+    "journal": "JAMA Cardiology",
+    "date": "Aug 26, 2026",
+    "date_ts": 1787702400.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Atrial Appendage Occlusion vs Oral Anticoagulation\u2014No Free Lunch",
+    "link": "https://doi.org/10.1001/jamacardio.2026.3078",
+    "doi": "10.1001/jamacardio.2026.3078",
+    "journal": "JAMA Cardiology",
+    "date": "Aug 26, 2026",
+    "date_ts": 1787702400.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Catheter-Based Left Atrial Appendage Closure vs Oral Anticoagulation in Patients With Atrial Fibrillation",
+    "link": "https://doi.org/10.1001/jamacardio.2026.2640",
+    "doi": "10.1001/jamacardio.2026.2640",
+    "journal": "JAMA Cardiology",
+    "date": "Aug 26, 2026",
+    "date_ts": 1787702400.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Bleeding and Stroke Prevention After Left Atrial Appendage Occlusion\u2014Reply",
+    "link": "https://doi.org/10.1001/jamacardio.2026.3008",
+    "doi": "10.1001/jamacardio.2026.3008",
+    "journal": "JAMA Cardiology",
+    "date": "Aug 26, 2026",
+    "date_ts": 1787702400.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Optical coherence tomography-guided percutaneous coronary intervention in multivessel coronary disease with complex lesions",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328499",
+    "doi": "10.1136/heartjnl-2026-328499",
+    "journal": "Heart (BMJ)",
+    "date": "Aug 26, 2026",
+    "date_ts": 1787702400.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "Editorial Board",
     "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020923?dgcid=rss_sd_all",
     "doi": null,
@@ -5886,177 +6058,6 @@
     "date_ts": 1779940664.357536,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "PCI for Ostial Stenosis of Left Circumflex or Left Anterior Descending Artery",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70670?af=R",
-    "doi": "10.1002/ccd.70670",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 27, 2026",
-    "date_ts": 1779853166.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Efficacy and Safety of Prasugrel, Ticagrelor, or Clopidogrel After Percutaneous Coronary Intervention",
-    "link": "https://doi.org/10.1001/jamacardio.2026.1128",
-    "doi": "10.1001/jamacardio.2026.1128",
-    "journal": "JAMA Cardiology",
-    "date": "May 27, 2026",
-    "date_ts": 1779840000.0,
-    "tags": [
-      "PCI",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intravascular Imaging\u2010Guided Percutaneous Coronary Intervention Versus Coronary Artery Bypass Grafting for Unprotected Left Main Stenosis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70672?af=R",
-    "doi": "10.1002/ccd.70672",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 26, 2026",
-    "date_ts": 1779798319.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Valve thrombosis or valve deterioration: what truly drives the prognosis?",
-    "link": "https://doi.org/10.4244/eij-d-26-00479",
-    "doi": "10.4244/eij-d-26-00479",
-    "journal": "EuroIntervention",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prognostic value of early haemodynamic valve deterioration after TAVI",
-    "link": "https://doi.org/10.4244/eij-d-25-01370",
-    "doi": "10.4244/eij-d-25-01370",
-    "journal": "EuroIntervention",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013324?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 27, 2026",
-    "date_ts": 1779854983.712799,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Predictors of Procedural and Clinical Outcomes Following Transcatheter Tricuspid Edge-to-Edge Repair: An Expert Overview",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011337?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 27, 2026",
-    "date_ts": 1779854983.712768,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Coronary Artery Disease and Revascularization on Outcomes After Transcatheter Tricuspid Edge-to-Edge Repair",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011489?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 27, 2026",
-    "date_ts": 1779854983.712721,
-    "tags": [
-      "PCI",
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Coronary Artery Disease and Revascularization in T-TEER: Signal or Bystander?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011453?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 27, 2026",
-    "date_ts": 1779854983.712692,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Beyond a Static Biomarker: Interpreting NT-proBNP Before and After Tricuspid TEER",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011192?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 27, 2026",
-    "date_ts": 1779854983.712658,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Coronary Stenosis Location, Revascularization Strategy, and Sudden Cardiac Death in Chronic and Acute Coronary Syndromes",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011465?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 27, 2026",
-    "date_ts": 1779854983.71263,
-    "tags": [
-      "ACS",
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Not All Stenoses Are Created Equal: Revisiting Coronary Anatomy and Risk of Sudden Cardiac Death",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826012604?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 27, 2026",
-    "date_ts": 1779854983.7126,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Who Benefits From PCI?: Insights From ORBITA Into the Role of the Coronary Microcirculation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007727?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 27, 2026",
-    "date_ts": 1779854983.712571,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Characteristics of Coronary Intra- or Extramedial Hematomas Causing Emergent Return to Catheterization Laboratory After Percutaneous Coronary Intervention",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011477?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "May 27, 2026",
-    "date_ts": 1779854983.712539,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
