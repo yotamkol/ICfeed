@@ -1,5 +1,29 @@
 [
   {
+    "title": "Phenotype-Specific Mitral Regurgitation Trajectories Following Transcatheter Aortic Valve Replacement in Low-Flow Aortic Stenosis",
+    "link": "https://doi.org/10.25270/jic/26.00155",
+    "doi": "10.25270/jic/26.00155",
+    "journal": "J Invasive Cardiology",
+    "date": "Aug 28, 2026",
+    "date_ts": 1787912423.753474,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Fifth Universal Definition of Myocardial Infarction (2026): On Behalf of the Joint European Society of Cardiology (ESC)/American College of Cardiology (ACC)/American Heart Association (AHA)/World Heart Federation (WHF) Task Force for the Universal Definition of Myocardial Infarction",
+    "link": "https://doi.org/10.1161/cir.0000000000001477",
+    "doi": "10.1161/cir.0000000000001477",
+    "journal": "Circulation",
+    "date": "Aug 27, 2026",
+    "date_ts": 1787788800.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Comparison of Sirolimus- vs Paclitaxel-Coated Balloon Angioplasty for Femoropopliteal Artery Disease: The SIRONA Randomized Noninferiority Trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109725104336?dgcid=rss_sd_all",
     "doi": null,
@@ -6032,30 +6056,6 @@
     "journal": "J Invasive Cardiology",
     "date": "May 28, 2026",
     "date_ts": 1779940664.621776,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When the Left Ventricle Dances: Ballerina Foot Appearance in Hypertrophic Cardiomyopathy",
-    "link": "https://doi.org/10.25270/jic/26.00152",
-    "doi": "10.25270/jic/26.00152",
-    "journal": "J Invasive Cardiology",
-    "date": "May 28, 2026",
-    "date_ts": 1779940664.464628,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Endovascular Repair of Recurrent Coarctation With Pseudoaneurysm After Prior Bare-Metal Stent Using Thoracic Branched Endoprosthesis",
-    "link": "https://doi.org/10.25270/jic/26.00119",
-    "doi": "10.25270/jic/26.00119",
-    "journal": "J Invasive Cardiology",
-    "date": "May 28, 2026",
-    "date_ts": 1779940664.357536,
     "tags": [
       "Other"
     ],
