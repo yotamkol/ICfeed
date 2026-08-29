@@ -1,5 +1,117 @@
 [
   {
+    "title": "Bivalirudin in Primary PCI: Time to Implement the Overwhelming Evidence?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726071299?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 29, 2026",
+    "date_ts": 1787984416.726823,
+    "tags": [
+      "ACS",
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cumulative Benefit With Evolocumab in Patients With No Prior Myocardial Infarction or Stroke in the VESALIUS-CV Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726074401?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 29, 2026",
+    "date_ts": 1787984416.726781,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Bivalirudin Versus Heparin in Low and Non-Low Bleeding Risk Patients Undergoing Primary PCI for STEMI: The BRIGHT-4 Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726069974?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 29, 2026",
+    "date_ts": 1787984416.726732,
+    "tags": [
+      "ACS",
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Fifth Universal Definition of Myocardial Infarction (2026)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726072487?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 29, 2026",
+    "date_ts": 1787984416.726676,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Addition of Computed Tomography-derived Fractional Flow Reserve in the diagnostic pathway of patients with stable coronary artery disease: the FUSION randomized controlled trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726075893?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 29, 2026",
+    "date_ts": 1787984416.7266,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pre-Implant Angiography and Vascular Complications During Microaxial Flow Pump Support",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020753?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Aug 29, 2026",
+    "date_ts": 1787984415.97088,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Mortality reduction with implanted defibrillator for primary prevention of sudden death after Myocardial Infarction: temporal trends in the PROFID study",
+    "link": "https://doi.org/10.1093/eurheartj/ehag706",
+    "doi": "10.1093/eurheartj/ehag706",
+    "journal": "European Heart Journal",
+    "date": "Aug 28, 2026",
+    "date_ts": 1787875200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Fifth Universal Definition of Myocardial Infarction (2026)",
+    "link": "https://doi.org/10.1093/eurheartj/ehag101",
+    "doi": "10.1093/eurheartj/ehag101",
+    "journal": "European Heart Journal",
+    "date": "Aug 28, 2026",
+    "date_ts": 1787875200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Evolocumab and risk of first myocardial infarction: the VESALIUS-CV trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag739",
+    "doi": "10.1093/eurheartj/ehag739",
+    "journal": "European Heart Journal",
+    "date": "Aug 28, 2026",
+    "date_ts": 1787875200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Phenotype-Specific Mitral Regurgitation Trajectories Following Transcatheter Aortic Valve Replacement in Low-Flow Aortic Stenosis",
     "link": "https://doi.org/10.25270/jic/26.00155",
     "doi": "10.25270/jic/26.00155",
@@ -5947,115 +6059,6 @@
     "journal": "Catheter Cardiovasc Interv",
     "date": "May 28, 2026",
     "date_ts": 1779940732.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Nine\u2010Year Follow\u2010Up After M\u2010TEER for Secondary Mitral Regurgitation in a Patient With Cardiogenic Shock",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70678?af=R",
-    "doi": "10.1002/ccd.70678",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 28, 2026",
-    "date_ts": 1779940557.0,
-    "tags": [
-      "Structural",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Drug\u2010Coated Balloons Versus Drug\u2010Eluting Stents for Patients With Long De Novo Coronary Artery Lesions: Insights From the REC\u2010CAGEFREE I Trial",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70679?af=R",
-    "doi": "10.1002/ccd.70679",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 28, 2026",
-    "date_ts": 1779940459.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reverse Crush Versus Culotte in Bifurcation Lesions After Provisional Stenting: Insights From the PROGRESS\u2010BIFURCATION Registry",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70674?af=R",
-    "doi": "10.1002/ccd.70674",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 28, 2026",
-    "date_ts": 1779940196.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Generalisable artificial intelligence ECG trained on public data for outcome prediction after transcatheter aortic valve replacement",
-    "link": "https://doi.org/10.1136/heartjnl-2025-327462",
-    "doi": "10.1136/heartjnl-2025-327462",
-    "journal": "Heart (BMJ)",
-    "date": "May 28, 2026",
-    "date_ts": 1779926400.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Effect of renin-angiotensin system inhibition on left ventricular mass regression after transcatheter aortic valve replacement: a randomised controlled trial",
-    "link": "https://doi.org/10.1136/heartjnl-2025-326803",
-    "doi": "10.1136/heartjnl-2025-326803",
-    "journal": "Heart (BMJ)",
-    "date": "May 28, 2026",
-    "date_ts": 1779926400.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Premature ventricular contractions burden and long-term ventricular remodelling in patients without structural heart disease",
-    "link": "https://doi.org/10.1136/heartjnl-2025-327560",
-    "doi": "10.1136/heartjnl-2025-327560",
-    "journal": "Heart (BMJ)",
-    "date": "May 28, 2026",
-    "date_ts": 1779926400.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Radial Versus Femoral Access for Diagnostic Coronary Angiography: Insights From a Tertiary Academic Center in Johannesburg",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70654?af=R",
-    "doi": "10.1002/ccd.70654",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 27, 2026",
-    "date_ts": 1779878095.0,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Ultra-High-Pressure OPN NC Balloons in Complex Coronary Interventions: Indications, Safety, and Efficacy",
-    "link": "https://doi.org/10.25270/jic/26.00071",
-    "doi": "10.25270/jic/26.00071",
-    "journal": "J Invasive Cardiology",
-    "date": "May 28, 2026",
-    "date_ts": 1779940664.742005,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Endovascular Management for Symptomatic Superior Vena Cava Syndrome in a Patient on Hemodialysis",
-    "link": "https://doi.org/10.25270/jic/26.00136",
-    "doi": "10.25270/jic/26.00136",
-    "journal": "J Invasive Cardiology",
-    "date": "May 28, 2026",
-    "date_ts": 1779940664.621776,
     "tags": [
       "Other"
     ],
