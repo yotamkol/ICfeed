@@ -1,5 +1,81 @@
 [
   {
+    "title": "Dual antithrombotic therapy using potent antiplatelet inhibitors in atrial fibrillation and acute coronary syndrome: a randomized controlled trial",
+    "link": "https://www.nature.com/articles/s41591-026-04629-7",
+    "doi": "10.1038/s41591-026-04629-7",
+    "journal": "Nature Medicine",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788064201.871645,
+    "tags": [
+      "ACS",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transcatheter Aortic Valve Replacement or Medical Treatment for Paradoxical Low-Flow, Low-Gradient Aortic Valve Stenosis: REBOOT-PARADOX",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726074966?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788064201.349815,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "One vs twelve month aspirin after percutaneous coronary intervention for acute myocardial infarction: individual patient-data analysis of TARGET-FIRST and ULTIMATE-DAPT trials",
+    "link": "https://doi.org/10.1093/eurheartj/ehag737",
+    "doi": "10.1093/eurheartj/ehag737",
+    "journal": "European Heart Journal",
+    "date": "Aug 29, 2026",
+    "date_ts": 1787961600.0,
+    "tags": [
+      "ACS",
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Local vs systemic inflammation and outcomes after percutaneous coronary intervention",
+    "link": "https://doi.org/10.1093/eurheartj/ehag731",
+    "doi": "10.1093/eurheartj/ehag731",
+    "journal": "European Heart Journal",
+    "date": "Aug 29, 2026",
+    "date_ts": 1787961600.0,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Causal Endotype\u2013Based Classification of Myocardial Infarction",
+    "link": "https://doi.org/10.1001/jamacardio.2026.3794",
+    "doi": "10.1001/jamacardio.2026.3794",
+    "journal": "JAMA Cardiology",
+    "date": "Aug 29, 2026",
+    "date_ts": 1787961600.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Evolving Process of Myocardial Infarction Classification",
+    "link": "https://doi.org/10.1001/jamacardio.2026.3839",
+    "doi": "10.1001/jamacardio.2026.3839",
+    "journal": "JAMA Cardiology",
+    "date": "Aug 29, 2026",
+    "date_ts": 1787961600.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Bivalirudin in Primary PCI: Time to Implement the Overwhelming Evidence?",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726071299?dgcid=rss_sd_all",
     "doi": null,
@@ -5988,79 +6064,6 @@
     "date_ts": 1780272000.0,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Imaging Insights Into Endothelial Response: Cardiac Computed Tomography Assessment of WATCHMAN FLX and FLX Pro",
-    "link": "https://doi.org/10.25270/jic/26.00003",
-    "doi": "10.25270/jic/26.00003",
-    "journal": "J Invasive Cardiology",
-    "date": "May 30, 2026",
-    "date_ts": 1780112737.95019,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When Spasm Mimics STEMI: A Post-PCI Surprise",
-    "link": "https://doi.org/10.25270/jic/26.00154",
-    "doi": "10.25270/jic/26.00154",
-    "journal": "J Invasive Cardiology",
-    "date": "May 29, 2026",
-    "date_ts": 1780027168.171302,
-    "tags": [
-      "ACS",
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Focal, Not Diffuse, Disease Benefits From PCI: ORBITA-2 Insights",
-    "link": "https://www.sciencedirect.com/science/article/pii/S073510972606273X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "May 29, 2026",
-    "date_ts": 1780027163.984179,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Coronary Perforation Caused by Burr Exit During Rotational Atherectomy Successfully Managed With the Ping\u2010Pong Balloon Technique Without Covered Stent Implantation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70671?af=R",
-    "doi": "10.1002/ccd.70671",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 28, 2026",
-    "date_ts": 1779942007.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Aortic Valve Implantation for Pseudoaneurysm of the Mitral\u2010Aortic Intervalvular Fibrosa Causing Severe Aortic Regurgitation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70673?af=R",
-    "doi": "10.1002/ccd.70673",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 28, 2026",
-    "date_ts": 1779941757.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Is Imaging of a Single Vessel Sufficient to Assess Pan\u2010Coronary Vulnerability?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70680?af=R",
-    "doi": "10.1002/ccd.70680",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "May 28, 2026",
-    "date_ts": 1779940732.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
