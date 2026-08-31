@@ -1,5 +1,68 @@
 [
   {
+    "title": "Stent Retriever Thrombectomy in Patients With Myocardial Infarction The Open-label, Multicenter NATURE Superiority trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726075868?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788150857.032688,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Opening Gambit: Thrombectomy to Guide Strategy in STEMI",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726075844?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788150857.032634,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Short-Term Anticoagulant Therapy and Subclinical Leaflet Thickening in Transcatheter Aortic Valves: The NOTION-4 Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726075054?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788150857.032417,
+    "tags": [
+      "Structural",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Adrenomedullin system dysregulation predicts cardiogenic shock and mortality in acute coronary syndromes",
+    "link": "https://doi.org/10.1093/eurheartj/ehag636",
+    "doi": "10.1093/eurheartj/ehag636",
+    "journal": "European Heart Journal",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788048000.0,
+    "tags": [
+      "ACS",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Antithrombotic therapy after percutaneous coronary intervention in patients with atrial fibrillation: an individual patient data network meta-analysis",
+    "link": "https://doi.org/10.1093/eurheartj/ehag740",
+    "doi": "10.1093/eurheartj/ehag740",
+    "journal": "European Heart Journal",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788048000.0,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
     "title": "Dual antithrombotic therapy using potent antiplatelet inhibitors in atrial fibrillation and acute coronary syndrome: a randomized controlled trial",
     "link": "https://www.nature.com/articles/s41591-026-04629-7",
     "doi": "10.1038/s41591-026-04629-7",
@@ -6003,67 +6066,6 @@
     "date_ts": 1780292135.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Standard modifiable risk factors among patients undergoing percutaneous coronary intervention: prevalence and impact",
-    "link": "https://doi.org/10.1093/eurheartj/ehag254",
-    "doi": "10.1093/eurheartj/ehag254",
-    "journal": "European Heart Journal",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Feasibility and challenges of the UNICORN technique in native aortic valve transcatheter aortic valve implantation",
-    "link": "https://doi.org/10.4244/eij-d-25-01107",
-    "doi": "10.4244/eij-d-25-01107",
-    "journal": "EuroIntervention",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "TAVI and coronary interventions: indications, technical considerations, and clinical scenarios",
-    "link": "https://doi.org/10.4244/eij-d-25-00874",
-    "doi": "10.4244/eij-d-25-00874",
-    "journal": "EuroIntervention",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "PCI",
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early outcomes of redo-TAVI with the SAPIEN 3 platform: the prospective, multicentre ReTAVI registry",
-    "link": "https://doi.org/10.4244/eij-d-25-01268",
-    "doi": "10.4244/eij-d-25-01268",
-    "journal": "EuroIntervention",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First-in-human experience with a heterotopic cross-caval transcatheter tricuspid valve replacement",
-    "link": "https://doi.org/10.4244/eij-d-25-01160",
-    "doi": "10.4244/eij-d-25-01160",
-    "journal": "EuroIntervention",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
