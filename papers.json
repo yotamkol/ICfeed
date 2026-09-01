@@ -1,5 +1,138 @@
 [
   {
+    "title": "Transcatheter Stenting for Severe Native Aortic Coarctation",
+    "link": "https://doi.org/10.25270/jic/26.00265",
+    "doi": "10.25270/jic/26.00265",
+    "journal": "J Invasive Cardiology",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788236174.718874,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Protocol-Based Implementation of Early Intensive Lipid Management After Acute Coronary Syndrome: The BRIDGE Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726075091?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788236169.052255,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "1-Year Outcomes of Drug-Coated Balloon Angioplasty Versus Drug-Eluting Stent for Coronary Artery Bypass Graft Lesions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020224?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788236168.271604,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Use of Intracoronary Pressure Wire Assessment and Association With Outcomes: Insights From the British Cardiovascular Intervention Society National Database",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70835?af=R",
+    "doi": "10.1002/ccd.70835",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788154043.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Intravenous dexrazoxane for haemorrhagic myocardial infarction: the SHIELD-MI study",
+    "link": "https://doi.org/10.1093/eurheartj/ehag715",
+    "doi": "10.1093/eurheartj/ehag715",
+    "journal": "European Heart Journal",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788134400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Occlusive transcatheter aortic valve thrombosis despite oral anticoagulation",
+    "link": "https://doi.org/10.1093/eurheartj/ehag668",
+    "doi": "10.1093/eurheartj/ehag668",
+    "journal": "European Heart Journal",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788134400.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Completeness of revascularization in coronary three-vessel disease and outcomes in the FAME 3 trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag630",
+    "doi": "10.1093/eurheartj/ehag630",
+    "journal": "European Heart Journal",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788134400.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Half-dose rivaroxaban vs antiplatelet therapy for preventing silent cerebral embolism after left atrial appendage occlusion: the HALO-SCE trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag734",
+    "doi": "10.1093/eurheartj/ehag734",
+    "journal": "European Heart Journal",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788134400.0,
+    "tags": [
+      "Structural",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Effects of Evolocumab on Mortality Outcomes in Patients Without Previous Myocardial Infarction or Stroke: A Prespecified Analysis of the VESALIUS-CV Randomized Clinical Trial",
+    "link": "https://doi.org/10.1161/circulationaha.126.082436",
+    "doi": "10.1161/circulationaha.126.082436",
+    "journal": "Circulation",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788134400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Geographic variation in long-term health outcomes following myocardial infarction in England",
+    "link": "https://doi.org/10.1136/heartjnl-2025-327671",
+    "doi": "10.1136/heartjnl-2025-327671",
+    "journal": "Heart (BMJ)",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788134400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Biological uncertainty cannot be eliminated by diagnostic certainty: the Heisenberg problem of occlusive myocardial infarction",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328887",
+    "doi": "10.1136/heartjnl-2026-328887",
+    "journal": "Heart (BMJ)",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788134400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Stent Retriever Thrombectomy in Patients With Myocardial Infarction The Open-label, Multicenter NATURE Superiority trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726075868?dgcid=rss_sd_all",
     "doi": null,
@@ -5931,141 +6064,6 @@
     "date_ts": 1780444800.0,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Residual cholesterol and inflammatory risk in statin-treated patients undergoing percutaneous coronary intervention: proportional hazards assumption in context",
-    "link": "https://doi.org/10.1093/eurheartj/ehag326",
-    "doi": "10.1093/eurheartj/ehag326",
-    "journal": "European Heart Journal",
-    "date": "Jun 03, 2026",
-    "date_ts": 1780444800.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Strut Thickness for Patients Treated With Percutaneous Revascularization for Coronary Bifurcations: Insights From the BIFURCAT\u2010ULTRA Registry",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70669?af=R",
-    "doi": "10.1002/ccd.70669",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 02, 2026",
-    "date_ts": 1780403551.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "NEJM Outbreaks Update \u2014 Andes Hantavirus",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2505379?af=R&rss=currentIssue",
-    "doi": "10.1056/NEJMe2505379",
-    "journal": "NEJM",
-    "date": "Jun 03, 2026",
-    "date_ts": 1780461510.328735,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Issue Information",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70664?af=R",
-    "doi": "10.1002/ccd.70664",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780311148.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Navigating Mechanical Support in Cardiogenic Shock With Arterial Hypoplasia: Lessons From Arterial Tortuosity Syndrome",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70677?af=R",
-    "doi": "10.1002/ccd.70677",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780308851.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Severe Coronary Vasospasm Mimicking STEMI After Drug-Coated Balloon Angioplasty",
-    "link": "https://doi.org/10.25270/jic/26.00129",
-    "doi": "10.25270/jic/26.00129",
-    "journal": "J Invasive Cardiology",
-    "date": "Jun 02, 2026",
-    "date_ts": 1780373935.418093,
-    "tags": [
-      "ACS",
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparative Efficacy of GLP\u20101 RAs Versus SGLT2 Inhibitors in Patients With Acute Myocardial Infarction Undergoing Percutaneous Coronary Intervention: A Multicenter Propensity Score\u2010Matched Real\u2010World Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70668?af=R",
-    "doi": "10.1002/ccd.70668",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780293371.0,
-    "tags": [
-      "ACS",
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Short Versus Extended Duration of Triple Antithrombotic Therapy After Percutaneous Coronary Intervention in Patients Requiring Oral Anticoagulation: A Retrospective Single\u2010Center Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70667?af=R",
-    "doi": "10.1002/ccd.70667",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780292723.0,
-    "tags": [
-      "PCI",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Mechanical Thrombectomy Versus Anticoagulation in Intermediate\u2010Risk Pulmonary Embolism: A Risk\u2010Stratified, Propensity Score\u2013Matched Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70676?af=R",
-    "doi": "10.1002/ccd.70676",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780292384.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Role of Neuroimaging Before Coronary Angiography in Patients With Out\u2010of\u2010Hospital Cardiac Arrest",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70681?af=R",
-    "doi": "10.1002/ccd.70681",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780292244.0,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical and Echocardiographic Outcomes After Implantation of the ALLEGRA Transcatheter Valve Using the Fully Repositionable IMPERIA Delivery System: One\u2010Year Results of the EMPIRE I Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70675?af=R",
-    "doi": "10.1002/ccd.70675",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780292135.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
