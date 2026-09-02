@@ -1,5 +1,79 @@
 [
   {
+    "title": "All-Cause Mortality Up to 20 Years After PCI or CABG for Left Main Disease",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726073754?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Sep 02, 2026",
+    "date_ts": 1788320327.952382,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Hospital Costs of Microaxial Flow Pump Therapy in Cardiogenic Shock: A DanGer Shock Trial Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726075133?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Sep 02, 2026",
+    "date_ts": 1788320327.952194,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long\u2010Term Stroke Recurrence and Safety After Percutaneous Patent Foramen Ovale Closure: Results From the Lucerne Registry",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70818?af=R",
+    "doi": "10.1002/ccd.70818",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788246513.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Neointimal Healing Score After Contemporary Extraplaque Compared to Intraplaque Recanalization of Chronic Total Occlusion: A 6\u2010Month Follow\u2010Up Optical Coherence Tomography Observational Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70820?af=R",
+    "doi": "10.1002/ccd.70820",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788237059.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Neoatherosclerosis after coronary stenting: mechanisms, diagnosis, and treatment",
+    "link": "https://doi.org/10.1093/eurheartj/ehag633",
+    "doi": "10.1093/eurheartj/ehag633",
+    "journal": "European Heart Journal",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Primary Percutaneous Coronary Intervention Guided by High\u2010Definition Intravascular Ultrasound (The SPECTRUM Study)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70836?af=R",
+    "doi": "10.1002/ccd.70836",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788178008.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "Transcatheter Stenting for Severe Native Aortic Coarctation",
     "link": "https://doi.org/10.25270/jic/26.00265",
     "doi": "10.25270/jic/26.00265",
@@ -5992,78 +6066,6 @@
     "tags": [
       "PCI",
       "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "[Articles] Efficacy and safety of the CD40 ligand inhibitor dapirolizumab pegol in systemic lupus erythematosus (PHOENYCS GO): a randomised, double-blind, placebo-controlled, phase 3 trial",
-    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00691-4/fulltext?rss=yes",
-    "doi": "10.1016/S0140-6736(26)00691-4",
-    "journal": "Lancet",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780632378.231965,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "[Correspondence] Hantavirus outbreak on a cruise ship in the South Atlantic",
-    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00934-7/fulltext?rss=yes",
-    "doi": "10.1016/S0140-6736(26)00934-7",
-    "journal": "Lancet",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780632378.231886,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "[Correspondence] Cruise ship hantavirus outbreak in remote island communities",
-    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01014-7/fulltext?rss=yes",
-    "doi": "10.1016/S0140-6736(26)01014-7",
-    "journal": "Lancet",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780632378.231853,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "[Comment] Targeting CD40 with dapirolizumab pegol: a new treatment for systemic lupus erythematosus",
-    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01008-1/fulltext?rss=yes",
-    "doi": "10.1016/S0140-6736(26)01008-1",
-    "journal": "Lancet",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780632378.231721,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Strengthening secondary prevention after acute coronary syndromes: the case for nurse-led prevention",
-    "link": "https://doi.org/10.1093/eurheartj/ehag352",
-    "doi": "10.1093/eurheartj/ehag352",
-    "journal": "European Heart Journal",
-    "date": "Jun 04, 2026",
-    "date_ts": 1780531200.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Residual cholesterol and inflammatory risk in statin-treated patients undergoing percutaneous coronary intervention: challenges with the proportional hazards assumption and coping strategies",
-    "link": "https://doi.org/10.1093/eurheartj/ehag325",
-    "doi": "10.1093/eurheartj/ehag325",
-    "journal": "European Heart Journal",
-    "date": "Jun 03, 2026",
-    "date_ts": 1780444800.0,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
