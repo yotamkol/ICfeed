@@ -1,5 +1,66 @@
 [
   {
+    "title": "Retrograde Percutaneous Coronary Intervention to Acute Left Main Occlusion After Transcatheter Aortic Valve Replacement",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70843?af=R",
+    "doi": "10.1002/ccd.70843",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 02, 2026",
+    "date_ts": 1788328046.0,
+    "tags": [
+      "PCI",
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Modified Transseptal BATMAN for Anterior Leaflet Modification in High\u2010Risk Transcatheter Mitral Valve\u2010in\u2010Valve Replacements: A Case Series",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70824?af=R",
+    "doi": "10.1002/ccd.70824",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 02, 2026",
+    "date_ts": 1788327258.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparison Between the Acurate Neo and the Acurate Neo 2 Transcatheter Heart Valve System: Impact of Midframe Under\u2010Expansion",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70839?af=R",
+    "doi": "10.1002/ccd.70839",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 02, 2026",
+    "date_ts": 1788327114.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70837?af=R",
+    "doi": "10.1002/ccd.70837",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788266591.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparison of Two Percutaneous Femoral Closure Strategies During Transcatheter Aortic Valve Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70840?af=R",
+    "doi": "10.1002/ccd.70840",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788260436.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "All-Cause Mortality Up to 20 Years After PCI or CABG for Left Main Disease",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726073754?dgcid=rss_sd_all",
     "doi": null,
@@ -6003,69 +6064,6 @@
     "date_ts": 1780902114.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Outcomes of Patients With High\u2010Risk Plaques Treated With a Bioresorbable Magnesium Scaffold: Insights From the BIOMAG\u2010I Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70655?af=R",
-    "doi": "10.1002/ccd.70655",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 08, 2026",
-    "date_ts": 1780889983.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Antithrombotic therapy for secondary prevention in patients with acute coronary syndromes treated with percutaneous coronary intervention: options for personalization to reduce bleeding or ischaemic risks.&amp;nbsp;A Clinical Consensus Statement of the ESC Working Group on Thrombosis, the Association for Acute CardioVascular Care of the ESC, the European Association of Percutaneous Cardiovascular Interventions of the ESC, and the ESC Working Group on Cardiovascular Pharmacology\nA Clinical Consensus Statement of the ESC Working&amp;nbsp;Group on Thrombosis, the Association for Acute CardioVascular Care of the&amp;nbsp;ESC, the European Association of Percutaneous Cardiovascular Interventions of the ESC, and the ESC Working Group on&amp;nbsp;Cardiovascular Pharmacology",
-    "link": "https://doi.org/10.4244/eij-e-26-00003",
-    "doi": "10.4244/eij-e-26-00003",
-    "journal": "EuroIntervention",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "ACS",
-      "PCI",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful Application of Antegrade Dissection and Re\u2010Entry Technique in Managing a Complex Percutaneous Coronary Intervention With Entrapped Microcatheter Tip",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70684?af=R",
-    "doi": "10.1002/ccd.70684",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780632131.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "EAPCI 2026 Summit and EAPCI Congress 2027: Save the Date",
-    "link": "https://doi.org/10.1093/eurheartj/ehag320",
-    "doi": "10.1093/eurheartj/ehag320",
-    "journal": "European Heart Journal",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780617600.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "P2Y12 inhibitor monotherapy after abbreviated dual antiplatelet therapy following percutaneous coronary intervention: a meta-analysis",
-    "link": "https://doi.org/10.1093/eurheartj/ehag381",
-    "doi": "10.1093/eurheartj/ehag381",
-    "journal": "European Heart Journal",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780617600.0,
-    "tags": [
-      "PCI",
-      "Pharmacology"
     ],
     "hot": false
   }
