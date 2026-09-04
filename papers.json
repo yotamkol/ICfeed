@@ -1,5 +1,54 @@
 [
   {
+    "title": "A Large Retrospective Study to Evaluate Utility of Zephyr Covered Stent in Transcatheter Closure of Sinus Venosus Defects",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70841?af=R",
+    "doi": "10.1002/ccd.70841",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788412193.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "CT\u2010Guided Transcatheter Aortic Valve Replacement in Bicuspid Aortic Stenosis With a Large Membranous Ventricular Septal Aneurysm: Challenges in Annular Sizing and Valve Selection",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70844?af=R",
+    "doi": "10.1002/ccd.70844",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788412073.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Geographic heterogeneity in outcomes of intravascular ultrasound-guided vs angiography-guided percutaneous coronary intervention: a meta-analysis of randomized trials",
+    "link": "https://doi.org/10.1093/eurheartj/ehag653",
+    "doi": "10.1093/eurheartj/ehag653",
+    "journal": "European Heart Journal",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Radiation Reduction in the Catheterization Laboratory: Beyond the Angiography System",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70850?af=R",
+    "doi": "10.1002/ccd.70850",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 02, 2026",
+    "date_ts": 1788346955.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Retrograde Percutaneous Coronary Intervention to Acute Left Main Occlusion After Transcatheter Aortic Valve Replacement",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70843?af=R",
     "doi": "10.1002/ccd.70843",
@@ -6016,54 +6065,6 @@
     "date_ts": 1780963200.0,
     "tags": [
       "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Closure of Paravalvular Leaks: Efficacy, Techniques, and Outcomes From a Single\u2010Center Prospective Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70682?af=R",
-    "doi": "10.1002/ccd.70682",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 08, 2026",
-    "date_ts": 1780916445.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ischaemic heart disease: focus on sex and gender differences, coronary pathophysiology, and remodelling after myocardial infarction",
-    "link": "https://doi.org/10.1093/eurheartj/ehag452",
-    "doi": "10.1093/eurheartj/ehag452",
-    "journal": "European Heart Journal",
-    "date": "Jun 07, 2026",
-    "date_ts": 1780790400.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Lipoprotein(a) and oxidized phospholipids are associated with myocardial inflammation after acute myocardial infarction",
-    "link": "https://www.nature.com/articles/s44161-026-00821-7",
-    "doi": "10.1038/s44161-026-00821-7",
-    "journal": "Nature Cardiovasc Res",
-    "date": "Jun 09, 2026",
-    "date_ts": 1780977151.859476,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Rare Case of Isolated Single Coronary Artery, Lipton's Type R\u2010IIB in an Elderly Woman With Recurrent Chest Pain and Left Bundle Branch Block: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70685?af=R",
-    "doi": "10.1002/ccd.70685",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 08, 2026",
-    "date_ts": 1780902114.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
