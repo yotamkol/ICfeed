@@ -1,5 +1,104 @@
 [
   {
+    "title": "More is not always better: vitamin D supplementation post-myocardial infarction in the Target-D trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag672",
+    "doi": "10.1093/eurheartj/ehag672",
+    "journal": "European Heart Journal",
+    "date": "Sep 07, 2026",
+    "date_ts": 1788739200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Targeted vitamin D supplementation and major adverse cardiovascular events after myocardial infarction: the TARGET-D trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag611",
+    "doi": "10.1093/eurheartj/ehag611",
+    "journal": "European Heart Journal",
+    "date": "Sep 07, 2026",
+    "date_ts": 1788739200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "CT-FFR in females: a benefit in search of a mechanism?",
+    "link": "https://doi.org/10.4244/eij-d-26-00883",
+    "doi": "10.4244/eij-d-26-00883",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Reduced-dose direct oral anticoagulant versus antiplatelet strategies after left atrial appendage occlusion",
+    "link": "https://doi.org/10.4244/eij-d-26-00102",
+    "doi": "10.4244/eij-d-26-00102",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Structural",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Lower noradrenaline-mediated mean arterial pressure target in patients with acute myocardial infarction-related cardiogenic shock: rationale and design of the NORshock study",
+    "link": "https://doi.org/10.4244/eij-d-26-00112",
+    "doi": "10.4244/eij-d-26-00112",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "ACS",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Multimodality imaging for pre-, intra-, and postprocedural guidance of left atrial appendage closure: a European Left Atrial Appendage Closure Club (ELAACC) expert consensus statement",
+    "link": "https://doi.org/10.4244/eij-d-25-01372",
+    "doi": "10.4244/eij-d-25-01372",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Dual antiplatelet therapy after left atrial appendage closure: time to move on",
+    "link": "https://doi.org/10.4244/eij-d-26-00863",
+    "doi": "10.4244/eij-d-26-00863",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Structural",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sex differences in computed tomography-derived fractional flow reserve-guided management of stable coronary artery disease: a subgroup analysis of the TARGET trial",
+    "link": "https://doi.org/10.4244/eij-d-25-01383",
+    "doi": "10.4244/eij-d-25-01383",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "Correction to \u201cImpact of Prolapse Width on Outcomes of Transcatheter Edge\u2010to\u2010Edge Repair in Degenerative Mitral Regurgitation\u201d",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70838?af=R",
     "doi": "10.1002/ccd.70838",
@@ -5967,102 +6066,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "Jun 10, 2026",
     "date_ts": 1781064233.30697,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Commissural Misalignment\u2013Mediated Sinus Sequestration Following Balloon-Augmented BASILICA During Redo-TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013099?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.306934,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "2 for 1: Perfusing Both Coronary Sinuses With Solo BASILICA",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013130?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.306904,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transapical Bioprosthetic Leaflets Removal to Prevent Left Ventricular Outflow Tract Obstruction During Mitral Valve-in-Valve",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011209?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.306869,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bailout LLAMACORN for BASILICA Failure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011155?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.30684,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Leaflet Avulsion Following Leaflet Splitting During Valve-in-Valve Transcatheter Aortic Valve Replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006692?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.306807,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Guiding Catheter Size as an Unmeasured Confounder in the ROLLING STONE Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826012550?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.306774,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Device Selection Conundrum and Procedural Factors in the ROLLING STONE Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826012574?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.306735,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "REPLY: Guiding Catheter Size, Device Selection Conundrum, and Procedural Factors in the ROLLING STONE Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826012598?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.306692,
     "tags": [
       "Other"
     ],
