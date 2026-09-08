@@ -1,5 +1,42 @@
 [
   {
+    "title": "Real\u2010Time IVUS\u2010Guided Wiring With a Dual\u2010Lumen Microcatheter for Blunt Proximal Cap CTO: Procedural Technique and Comparative Outcomes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70847?af=R",
+    "doi": "10.1002/ccd.70847",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 07, 2026",
+    "date_ts": 1788757210.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Temporal Trends and Prognosis in Rotational Atherectomy: A Comparison of Contemporary and Traditional Eras",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70846?af=R",
+    "doi": "10.1002/ccd.70846",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 07, 2026",
+    "date_ts": 1788757034.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Direct transfer to primary percutaneous coronary intervention centres following out-of-hospital cardiac arrest: longer term outcomes and influences on survival",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328408",
+    "doi": "10.1136/heartjnl-2026-328408",
+    "journal": "Heart (BMJ)",
+    "date": "Sep 07, 2026",
+    "date_ts": 1788739200.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "More is not always better: vitamin D supplementation post-myocardial infarction in the Target-D trial",
     "link": "https://doi.org/10.1093/eurheartj/ehag672",
     "doi": "10.1093/eurheartj/ehag672",
@@ -6032,42 +6069,6 @@
     "date_ts": 1781064233.307055,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Leaflet Modification on Redo-TAVR Feasibility: A Computed Tomography Simulation Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013075?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307027,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "BASILICA for TAVR After Ozaki Aortic Valve Neocuspidization",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013361?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307001,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Multileaflet BASILICA to Prevent Coronary Obstruction in a Small Aortic Annulus",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013063?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.30697,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
