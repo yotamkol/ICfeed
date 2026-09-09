@@ -1,5 +1,17 @@
 [
   {
+    "title": "Balancing Thrombosis and Bleeding: A Case Report of Acute Myocardial Infarction in an Elderly Patient With Hemophilia A",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70858?af=R",
+    "doi": "10.1002/ccd.70858",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 08, 2026",
+    "date_ts": 1788848423.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Real\u2010Time IVUS\u2010Guided Wiring With a Dual\u2010Lumen Microcatheter for Blunt Proximal Cap CTO: Procedural Technique and Comparative Outcomes",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70847?af=R",
     "doi": "10.1002/ccd.70847",
@@ -6057,18 +6069,6 @@
     "date_ts": 1781064233.307083,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "On-Table LM View to Predict Left Main Obstruction in TAV-in-TAV",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826006679?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307055,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
