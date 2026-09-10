@@ -1,5 +1,77 @@
 [
   {
+    "title": "Acute Inferior Myocardial Infarction with Anomalous Origin of the Right Coronary Artery, Myocardial Bridging and Fibro\u2010Lipid Plaque",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70877?af=R",
+    "doi": "10.1002/ccd.70877",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 09, 2026",
+    "date_ts": 1788933437.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Characteristics and Determinants of Ventricular Arrhythmias After Self\u2010Expandable Pulsta Valve Implantation in the Native Right Ventricular Outflow Tract",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70859?af=R",
+    "doi": "10.1002/ccd.70859",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 09, 2026",
+    "date_ts": 1788930542.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Incidence of Periprocedural Myocardial Injury and Infarction After Intravascular Lithotripsy for Calcified Coronary Artery Stenosis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70868?af=R",
+    "doi": "10.1002/ccd.70868",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 09, 2026",
+    "date_ts": 1788930401.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transcatheter Edge\u2010to\u2010Edge Repair With the PASCAL Precision System: Advanced Catheter Steering Maneuvers for Mitral and Tricuspid Interventions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70862?af=R",
+    "doi": "10.1002/ccd.70862",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 08, 2026",
+    "date_ts": 1788876567.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Maximum Allowable Contrast Dose and Risk of Acute Kidney Injury After Coronary Procedures",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70854?af=R",
+    "doi": "10.1002/ccd.70854",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 08, 2026",
+    "date_ts": 1788875816.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Predictive Value of the HATCH Score for New\u2010Onset Atrial Fibrillation Following TAVI",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70845?af=R",
+    "doi": "10.1002/ccd.70845",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 08, 2026",
+    "date_ts": 1788865776.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Balancing Thrombosis and Bleeding: A Case Report of Acute Myocardial Infarction in an Elderly Patient With Hemophilia A",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70858?af=R",
     "doi": "10.1002/ccd.70858",
@@ -5997,78 +6069,6 @@
     "date_ts": 1781064233.307301,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparison of Leaflet Modification Techniques for TAV-in-TAV: Insights From Bench Testing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013427?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307266,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Leaflet Modification for Redo-TAVR: Impact of Valve Type, Expansion, and Failure Mode\u2014A Bench Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013105?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.30721,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Redo-TAVR Leaflet Modification: When Mechanics Trump Technique and Why Lifetime Strategy Begins With the First Valve",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013373?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307171,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Decoding Redo-TAVR: Moving Beyond Intuition to Standardized Leaflet Modification",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013300?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307143,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Tissue Treatment and Leaflet Design on Fifth-Generation Balloon-Expandable Transcatheter Heart Valve Function",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013439?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307112,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Evolution in Transcatheter Heart Valve Technology: The Role of Bench Testing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013257?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307083,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
