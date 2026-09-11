@@ -1,5 +1,91 @@
 [
   {
+    "title": "Patent Foramen Ovale Closure Following Cryptogenic Embolism: Very Long\u2010Term Follow\u2010Up of a Historical Cohort",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70863?af=R",
+    "doi": "10.1002/ccd.70863",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 10, 2026",
+    "date_ts": 1789020430.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Successful Percutaneous Retrieval of an Embolized MitraClip From the Right Subclavian Artery",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70860?af=R",
+    "doi": "10.1002/ccd.70860",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 10, 2026",
+    "date_ts": 1789016071.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long\u2010Term Vessel\u2010Oriented Outcomes After PCI in Routine Japanese Practice: A Retrospective Quantitative Flow Ratio Analysis With 2\u2010Year Landmark Evaluation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70875?af=R",
+    "doi": "10.1002/ccd.70875",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 10, 2026",
+    "date_ts": 1789015874.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prognostic Value of Angiography\u2010Derived Fractional Flow Reserve Following Drug\u2010Coated Balloon Angioplasty",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70870?af=R",
+    "doi": "10.1002/ccd.70870",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 10, 2026",
+    "date_ts": 1789014667.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "In\u2010Vivo Frame Dynamicity of Self\u2010Expanding Transcatheter Aortic Valves",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70855?af=R",
+    "doi": "10.1002/ccd.70855",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 09, 2026",
+    "date_ts": 1788952607.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Increased Cardiovascular Hospitalizations Associated With Presence of Atrial Fibrillation in Acute Coronary Syndrome Patients: A Double Trouble Situation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70871?af=R",
+    "doi": "10.1002/ccd.70871",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 09, 2026",
+    "date_ts": 1788951377.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Diagnostic Accuracy and Feasibility of Quantitative Flow Ratio at Low Frame Rate Angiography: The Prospective Multicentre Australian AVALON Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70813?af=R",
+    "doi": "10.1002/ccd.70813",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 09, 2026",
+    "date_ts": 1788940334.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "Acute Inferior Myocardial Infarction with Anomalous Origin of the Right Coronary Artery, Myocardial Bridging and Fibro\u2010Lipid Plaque",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70877?af=R",
     "doi": "10.1002/ccd.70877",
@@ -5985,90 +6071,6 @@
     "date_ts": 1781064233.307501,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Current Evidence, Emerging Evidence, and Decision-Making: An Algorithm for Leaflet Modification Procedures",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013312?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307471,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Leaflet Modification on the Occurrence of Hypoattenuated Leaflet Thickening After Valve-in-Valve Transcatheter Aortic Valve Replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013129?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307441,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Leaflet Modification in Valve-in-Valve Transcatheter Aortic Valve Replacement: Potential Benefits Beyond Coronary Protection",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013270?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307413,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "CT-Based Risk Stratification of Coronary Obstruction During TAVR: Clinical Utility and a New Volumetric Parameter",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601321X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307385,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Coronary Obstruction During TAVR: A Rare Catastrophic Risk Requiring Anticipation, Vigilance, and Readiness",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013464?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307356,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Leaflet Splitting to Prevent TAVR-Induced Coronary Obstruction in Stented vs Stentless Surgical Bioprosthetic Valves",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013087?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307327,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cracks in the BASILICA: Stentless ViV-TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013051?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307301,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
