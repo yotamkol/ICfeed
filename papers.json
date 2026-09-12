@@ -1,5 +1,29 @@
 [
   {
+    "title": "Identifying a Favorable Morphological Profile for Transcatheter Atrial Septal Defect Closure in Patients With Deficient Posteroinferior Rims",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70873?af=R",
+    "doi": "10.1002/ccd.70873",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 10, 2026",
+    "date_ts": 1789052151.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Repositioning the Latest Self\u2010Expanding Valves During Transcatheter Aortic Valve Implantation Procedures",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70857?af=R",
+    "doi": "10.1002/ccd.70857",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 10, 2026",
+    "date_ts": 1789051640.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Patent Foramen Ovale Closure Following Cryptogenic Embolism: Very Long\u2010Term Follow\u2010Up of a Historical Cohort",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70863?af=R",
     "doi": "10.1002/ccd.70863",
@@ -6047,30 +6071,6 @@
     "date_ts": 1781049600.0,
     "tags": [
       "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601469X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307532,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Aortic Valve Leaflet Modification: A Working Group Position Statement on Best Practices and Step-by-Step Guide",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013440?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781064233.307501,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
