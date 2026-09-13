@@ -1,5 +1,18 @@
 [
   {
+    "title": "Clinical Impact of Adherence to Fractional Flow Reserve Guidance in Acute Coronary Syndrome",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70853?af=R",
+    "doi": "10.1002/ccd.70853",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 11, 2026",
+    "date_ts": 1789112434.0,
+    "tags": [
+      "ACS",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "Identifying a Favorable Morphological Profile for Transcatheter Atrial Septal Defect Closure in Patients With Deficient Posteroinferior Rims",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70873?af=R",
     "doi": "10.1002/ccd.70873",
@@ -6059,18 +6072,6 @@
     "date_ts": 1781136000.0,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Heart Rate and Cardiovascular Outcomes in Post\u2013Myocardial Infarction Patients Treated by \u03b2-Blockers: A Secondary Analysis of the ABYSS Trial",
-    "link": "https://doi.org/10.1161/circulationaha.125.078635",
-    "doi": "10.1161/circulationaha.125.078635",
-    "journal": "Circulation",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781049600.0,
-    "tags": [
-      "ACS"
     ],
     "hot": false
   }
