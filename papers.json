@@ -1,5 +1,162 @@
 [
   {
+    "title": "Transcatheter Tricuspid Valve Stability Beyond Leaflet Capture: When Annular Compression Compensates for Incomplete Anchoring",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826021011?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Sep 15, 2026",
+    "date_ts": 1789445023.54448,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Five-Year Follow-Up of Transcatheter Aortic Valve Replacement With Self-Expanding Intra-Annular Versus Commercially Available Valves",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826019631?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Sep 15, 2026",
+    "date_ts": 1789445023.544453,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Multiple Lipid-Rich Plaque Ruptures Causing Acute Limb Ischemia: Pathologic Proof of a Coronary-Like Mechanism",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020716?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Sep 15, 2026",
+    "date_ts": 1789445023.544423,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Best Practices for Intravascular Ultrasound-Based Coronary Bifurcation Segmentation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020868?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Sep 15, 2026",
+    "date_ts": 1789445023.544305,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Response by Leonardi et al to Letter Regarding Article, \u201cPrognostic Implications of Evolving Universal Definitions of Periprocedural Myocardial Infarction in Patients With Acute Coronary Syndrome\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.080973",
+    "doi": "10.1161/circulationaha.126.080973",
+    "journal": "Circulation",
+    "date": "Sep 15, 2026",
+    "date_ts": 1789430400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Letter by Qi and Wang Regarding Article, \u201cPrognostic Implications of Evolving Universal Definitions of Periprocedural Myocardial Infarction in Patients With Acute Coronary Syndrome\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.079691",
+    "doi": "10.1161/circulationaha.126.079691",
+    "journal": "Circulation",
+    "date": "Sep 15, 2026",
+    "date_ts": 1789430400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Giant Left Ventricular Pseudoaneurysm Complicating Myocardial Infarction",
+    "link": "https://doi.org/10.1161/circulationaha.126.081621",
+    "doi": "10.1161/circulationaha.126.081621",
+    "journal": "Circulation",
+    "date": "Sep 15, 2026",
+    "date_ts": 1789430400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Management of Myocardial Infarction",
+    "link": "https://doi.org/10.1161/circulationaha.126.079317",
+    "doi": "10.1161/circulationaha.126.079317",
+    "journal": "Circulation",
+    "date": "Sep 15, 2026",
+    "date_ts": 1789430400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Chronic Kidney Disease Severity on Outcomes in STEMI\u2010Associated Cardiogenic Shock Requiring Mechanical Circulatory Support",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70881?af=R",
+    "doi": "10.1002/ccd.70881",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 14, 2026",
+    "date_ts": 1789367572.0,
+    "tags": [
+      "ACS",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Novel Use of Intravascular Lithotripsy for the Mobilization of an Entrapped Coronary Guidewire in a Heavily Calcified LAD/DB Bifurcation Lesion\u2014A Case Report",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70864?af=R",
+    "doi": "10.1002/ccd.70864",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 14, 2026",
+    "date_ts": 1789367365.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Feasibility and Procedural Considerations of Balloon\u2010Expandable TAVR in Patients With Prior Endovascular Aortic Stent Grafts",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70867?af=R",
+    "doi": "10.1002/ccd.70867",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 14, 2026",
+    "date_ts": 1789365986.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Novel Use of an AI\u2010Based Video Interpolation Algorithm to Reduce Radiation Dose in the Cardiac Catheterization Laboratory",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70856?af=R",
+    "doi": "10.1002/ccd.70856",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 14, 2026",
+    "date_ts": 1789364282.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Incidence, Severity and Clinical Consequence of Left Pulmonary Artery Stenosis After PDA Device Closure in Premature Infants Less Than 2\u2009Kilograms",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70849?af=R",
+    "doi": "10.1002/ccd.70849",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 14, 2026",
+    "date_ts": 1789363080.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Clinical Impact of Adherence to Fractional Flow Reserve Guidance in Acute Coronary Syndrome",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70853?af=R",
     "doi": "10.1002/ccd.70853",
@@ -5912,164 +6069,6 @@
     "journal": "EuroIntervention",
     "date": "Jun 01, 2026",
     "date_ts": 1780272000.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Unloading the clock: when timing meets physiology in STEMI shock",
-    "link": "https://doi.org/10.4244/eij-d-26-00601",
-    "doi": "10.4244/eij-d-26-00601",
-    "journal": "EuroIntervention",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Door-to-unload time and mortality in patients with ST-segment elevation myocardial infarction complicated by cardiogenic shock",
-    "link": "https://doi.org/10.4244/eij-d-25-01369",
-    "doi": "10.4244/eij-d-25-01369",
-    "journal": "EuroIntervention",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "ACS",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter approximation of papillary muscles",
-    "link": "https://doi.org/10.4244/eij-d-25-01353",
-    "doi": "10.4244/eij-d-25-01353",
-    "journal": "EuroIntervention",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Outcomes of intraprocedural haemodynamic changes in patients undergoing mitral transcatheter edge-to-edge repair",
-    "link": "https://doi.org/10.4244/eij-d-26-00084",
-    "doi": "10.4244/eij-d-26-00084",
-    "journal": "EuroIntervention",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Valve\u2010in\u2010Valve TAVR Versus Redo Surgery in Women With Degenerated Aortic Bioprosthesis: A Single\u2010Center Experience",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70693?af=R",
-    "doi": "10.1002/ccd.70693",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 12, 2026",
-    "date_ts": 1781260734.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety and Device Success of Transcatheter Aortic Valve Replacement: A 12\u2010Year Single\u2010Center VARC\u20103 Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70697?af=R",
-    "doi": "10.1002/ccd.70697",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 12, 2026",
-    "date_ts": 1781237549.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sex\u2010Related Differences in the Prevalence and Clinical Outcomes of Moderate\u2010to\u2010Severe Coronary Artery Calcification in Patients Undergoing Percutaneous Coronary Intervention",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70700?af=R",
-    "doi": "10.1002/ccd.70700",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 12, 2026",
-    "date_ts": 1781237515.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Deploying Coils Within a Stent: A Flexible New Variant of Stent\u2010Assisted Coiling for Arterial Occlusion",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70707?af=R",
-    "doi": "10.1002/ccd.70707",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 12, 2026",
-    "date_ts": 1781237321.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cracking a Bioprosthesis in Pulmonary Position With Subsequent Percutaneous Pulmonary Valve Implantation (PPVI) Is Safe\u2014But Size Matters: A Word of Caution",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70690?af=R",
-    "doi": "10.1002/ccd.70690",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 12, 2026",
-    "date_ts": 1781237131.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Femoropopliteal Stenosis Severity Thresholds: Refining Duplex Ultrasound Utility for Below\u2010the\u2010Knee Screening in Chronic Limb\u2010Threatening Ischemia",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70705?af=R",
-    "doi": "10.1002/ccd.70705",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 12, 2026",
-    "date_ts": 1781236981.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Angiographic Quantitative Flow Ratio-Guided Coronary Intervention: 5-Year Follow-Up From the FAVOR III China Randomized Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726063564?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Jun 12, 2026",
-    "date_ts": 1781237974.674138,
-    "tags": [
-      "PCI",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prison Break: Extraction of a Plug Jailed Between Two Mechanical Valves",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70686?af=R",
-    "doi": "10.1002/ccd.70686",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 11, 2026",
-    "date_ts": 1781149813.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stroke after transcatheter aortic valve implantation: the limits of progress",
-    "link": "https://doi.org/10.1136/heartjnl-2026-328363",
-    "doi": "10.1136/heartjnl-2026-328363",
-    "journal": "Heart (BMJ)",
-    "date": "Jun 11, 2026",
-    "date_ts": 1781136000.0,
     "tags": [
       "Structural"
     ],
