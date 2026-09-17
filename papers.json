@@ -1,5 +1,66 @@
 [
   {
+    "title": "Preventing Microvascular Obstruction During Primary PCI: Back to a CLEAN Slate?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726073109?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Sep 17, 2026",
+    "date_ts": 1789618075.035344,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "From Pathophysiology to Etiology: A Call for Precise Diagnosis in Young Patients With Myocardial Infarction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725104117?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Sep 17, 2026",
+    "date_ts": 1789618075.035124,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Circumferential Calcification and Acquired Minimum Lumen Area on 1\u2010Year Primary Patency After Drug\u2010Coated Balloon Angioplasty for Femoropopliteal Lesions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70895?af=R",
+    "doi": "10.1002/ccd.70895",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 16, 2026",
+    "date_ts": 1789544443.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Gutter Rotation Technique for Percutaneous Ipsilateral Retrieval of a Ruptured SAPIEN\u20103 Balloon",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70893?af=R",
+    "doi": "10.1002/ccd.70893",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 16, 2026",
+    "date_ts": 1789541279.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Chronic Spontaneous Coronary Artery Dissection: A Case Report Utilizing Coronary Physiology and Optical Coherence Tomography for Diagnosis and Management",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70888?af=R",
+    "doi": "10.1002/ccd.70888",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 16, 2026",
+    "date_ts": 1789540062.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "Editorial Board",
     "link": "https://www.sciencedirect.com/science/article/pii/S1936879826021825?dgcid=rss_sd_all",
     "doi": null,
@@ -6016,67 +6077,6 @@
     "date_ts": 1782100270.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Delirium Among Adults Undergoing Transcatheter Structural Heart Intervention: Incidence, Risk, and Clinical Phenotypes",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70709?af=R",
-    "doi": "10.1002/ccd.70709",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 19, 2026",
-    "date_ts": 1781841367.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Despite uncertainty, cardiologist involvement in care of perioperative myocardial infarction/injury appears reasonable",
-    "link": "https://doi.org/10.1093/eurheartj/ehag475",
-    "doi": "10.1093/eurheartj/ehag475",
-    "journal": "European Heart Journal",
-    "date": "Jun 19, 2026",
-    "date_ts": 1781827200.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Weekly Journal Scan: IVUS in complex PCI\u2014the importance of procedural guidance and achievement of optimization criteria",
-    "link": "https://doi.org/10.1093/eurheartj/ehag439",
-    "doi": "10.1093/eurheartj/ehag439",
-    "journal": "European Heart Journal",
-    "date": "Jun 19, 2026",
-    "date_ts": 1781827200.0,
-    "tags": [
-      "PCI",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Peri-operative myocardial infarction after non-cardiac surgery: validating the case for cardiologist involvement while acknowledging what remains unresolved",
-    "link": "https://doi.org/10.1093/eurheartj/ehag473",
-    "doi": "10.1093/eurheartj/ehag473",
-    "journal": "European Heart Journal",
-    "date": "Jun 19, 2026",
-    "date_ts": 1781827200.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "[Correspondence] Single-dose mRNA vaccines against Andes hantavirus",
-    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01124-4/fulltext?rss=yes",
-    "doi": "10.1016/S0140-6736(26)01124-4",
-    "journal": "Lancet",
-    "date": "Jun 19, 2026",
-    "date_ts": 1781844441.520244,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
