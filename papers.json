@@ -1,5 +1,163 @@
 [
   {
+    "title": "A Proposed Common Language to Harmonize Valve-in-Valve TAVR (TAV-in-SAV and TAV-in-TAV) Procedural Planning",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826024088?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Sep 19, 2026",
+    "date_ts": 1789789817.020448,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Mechanical Thrombectomy With Cerebral Protection Device for Persistent Left Atrial Appendage Thrombus: A Case Report With Literature Review",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70899?af=R",
+    "doi": "10.1002/ccd.70899",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 18, 2026",
+    "date_ts": 1789706197.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Coronary Physiologic Burden Assessed by Mean Angiography\u2010Derived Fractional Flow Reserve Predicts Outcomes After Transcatheter Aortic Valve Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70889?af=R",
+    "doi": "10.1002/ccd.70889",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 18, 2026",
+    "date_ts": 1789704986.0,
+    "tags": [
+      "Structural",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Antithrombotic therapy and device healing after left atrial appendage occlusion with Watchman FLX Pro: a single-center real-world cohort study",
+    "link": "https://doi.org/10.25270/jic/26.00212",
+    "doi": "10.25270/jic/26.00212",
+    "journal": "J Invasive Cardiology",
+    "date": "Sep 18, 2026",
+    "date_ts": 1789689600.0,
+    "tags": [
+      "Structural",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Meet the team: new editors for interventional cardiology",
+    "link": "https://doi.org/10.1093/eurheartj/ehag547",
+    "doi": "10.1093/eurheartj/ehag547",
+    "journal": "European Heart Journal",
+    "date": "Sep 18, 2026",
+    "date_ts": 1789689600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Aortic Annulus Size on Clinical and Hemodynamic Outcomes of Transcatheter Aortic Valve Implantation With the Navitor Valve",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70879?af=R",
+    "doi": "10.1002/ccd.70879",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 17, 2026",
+    "date_ts": 1789648359.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Guidewire Manipulation\u2010Directed IVUS\u2010Guided Antegrade Dissection and Re\u2010Entry Without Dedicated Devices",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70890?af=R",
+    "doi": "10.1002/ccd.70890",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 17, 2026",
+    "date_ts": 1789644386.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Hemodynamic Correlates and Prognostic Value of the RISA\u2010PE Staging System in Acute Pulmonary Embolism",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70869?af=R",
+    "doi": "10.1002/ccd.70869",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 17, 2026",
+    "date_ts": 1789644261.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Extracellular Volume Remodeling After Transcatheter Aortic Valve Implantation: Factors Associated With Indexed Extracellular Volume Worsening",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70884?af=R",
+    "doi": "10.1002/ccd.70884",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 17, 2026",
+    "date_ts": 1789644259.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Expanding the PERT paradigm: incorporating oncology expertise into multidisciplinary management of cancer-associated thrombosis",
+    "link": "https://doi.org/10.25270/jic/26.00303",
+    "doi": "10.25270/jic/26.00303",
+    "journal": "J Invasive Cardiology",
+    "date": "Sep 16, 2026",
+    "date_ts": 1789516800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulmonary artery rupture: Swan-Ganz is your friend and foe",
+    "link": "https://doi.org/10.25270/jic/26.00299",
+    "doi": "10.25270/jic/26.00299",
+    "journal": "J Invasive Cardiology",
+    "date": "Sep 16, 2026",
+    "date_ts": 1789516800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Totally percutaneous transfemoral transcatheter aortic valve replacement via synthetic vascular grafts: a single-center case series",
+    "link": "https://doi.org/10.25270/jic/26.00134",
+    "doi": "10.25270/jic/26.00134",
+    "journal": "J Invasive Cardiology",
+    "date": "Sep 14, 2026",
+    "date_ts": 1789344000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impella entrapment in the mitral subvalvular apparatus in a patient with dilated cardiomyopathy: snare-assisted retrieval",
+    "link": "https://doi.org/10.25270/jic/26.00314",
+    "doi": "10.25270/jic/26.00314",
+    "journal": "J Invasive Cardiology",
+    "date": "Sep 11, 2026",
+    "date_ts": 1789084800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Author Correction: CD98hc controls CNS angiogenesis and blood\u2013brain barrier integrity through localized regulation of the systemic integrin\u2013FAK pathway",
     "link": "https://www.nature.com/articles/s44161-026-00888-2",
     "doi": "10.1038/s44161-026-00888-2",
@@ -5919,162 +6077,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "Jun 24, 2026",
     "date_ts": 1782273292.150218,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Leaflet Modification to Mitigate Coronary Obstruction Risk During TAVR: Results From the LOFTER-TAVR Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015311?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150188,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Modification of Calcified Native and Surgical Bioprosthetic Aortic Valves: Lessons From the Bench",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014408?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150157,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Failure Mechanisms in Off-Label Electrosurgery Devices for BASILICA, LAMPOON, and SESAME",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014433?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150128,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First-in-Human Wire Anchoring\u2013Assisted Leaflet Modification to Prevent Coronary Obstruction in TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014354?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150092,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "UNICORN for Native Transcatheter Aortic Valve Replacement in a Bicuspid Aortic Valve",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013191?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150063,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intra-Aortic Ultrasound Guidance for UNICORN Technique: First Description",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826011143?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150033,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Why Did UNICORN Fail in Treating Degenerative Bioprosthetic Aortic Valve-in-Valve Procedure?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601318X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150003,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Leaflet Modification With the UNICORN Technique: Why CT Planning and TEE Guidance Matter",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014445?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.149972,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bioptome-Assisted Leaflet Snipping to Facilitate TTVR With Prior Tricuspid Clips and Alfieri Stitch",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014421?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.149932,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Mitral Valve Replacement in MAC Complicated by Atrioventricular Disruption, Valve Migration, and Paravalvular Leak",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601441X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.149879,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcarotid UNICORN Procedure to Facilitate Valve-in-Valve TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014457?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.14985,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When the Curtain Tears: Aortomitral Disruption During Tip-to-Base LAMPOON",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014470?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.149818,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Chordal-Zone Free Externalization of Retrograde Wire to Facilitate Base-to-Tip LAMPOON",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014469?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.149783,
     "tags": [
       "Other"
     ],
