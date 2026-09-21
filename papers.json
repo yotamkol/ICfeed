@@ -1,5 +1,128 @@
 [
   {
+    "title": "Letter: Unresolved mechanistic and safety questions from the GLUCO-TAVI trial",
+    "link": "https://doi.org/10.4244/eij-d-26-00693",
+    "doi": "10.4244/eij-d-26-00693",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Radial wall strain for residual risk stratification after percutaneous coronary intervention",
+    "link": "https://doi.org/10.4244/eij-d-26-00126",
+    "doi": "10.4244/eij-d-26-00126",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Intentional fenestration of an intracoronary membrane-like structure with excimer laser",
+    "link": "https://doi.org/10.4244/eij-d-25-01059",
+    "doi": "10.4244/eij-d-25-01059",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clopidogrel monotherapy versus aspirin monotherapy in females and males after percutaneous coronary intervention: a sex-stratified analysis of the SMART-CHOICE 3 trial",
+    "link": "https://doi.org/10.4244/eij-d-26-00332",
+    "doi": "10.4244/eij-d-26-00332",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical outcomes of FFR-guided revascularisation of non-culprit lesions in NSTE-ACS",
+    "link": "https://doi.org/10.4244/eij-d-26-00055",
+    "doi": "10.4244/eij-d-26-00055",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "ACS",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Fractional flow reserve in non-ST-segment elevation acute coronary syndrome",
+    "link": "https://doi.org/10.4244/eij-d-26-00956",
+    "doi": "10.4244/eij-d-26-00956",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "ACS",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardiogenic shock after cardiac arrest: phenotype before escalation",
+    "link": "https://doi.org/10.4244/eij-d-26-00878",
+    "doi": "10.4244/eij-d-26-00878",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Breaking up with aspirin: it&amp;rsquo;s not all about sex; patient factors matter too",
+    "link": "https://doi.org/10.4244/eij-d-26-01008",
+    "doi": "10.4244/eij-d-26-01008",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Phenotypes of cardiogenic shock after out-of-hospital cardiac arrest: the SCAI-V classification",
+    "link": "https://doi.org/10.4244/eij-d-26-00092",
+    "doi": "10.4244/eij-d-26-00092",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Reply: Unresolved mechanistic and safety questions from the GLUCO-TAVI trial",
+    "link": "https://doi.org/10.4244/eij-d-26-00723",
+    "doi": "10.4244/eij-d-26-00723",
+    "journal": "EuroIntervention",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "A Proposed Common Language to Harmonize Valve-in-Valve TAVR (TAV-in-SAV and TAV-in-TAV) Procedural Planning",
     "link": "https://www.sciencedirect.com/science/article/pii/S1936879826024088?dgcid=rss_sd_all",
     "doi": null,
@@ -5959,126 +6082,6 @@
     "tags": [
       "PCI",
       "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sex Differences in Reverse Remodeling After Transcatheter Aortic Valve Replacement in Low-Flow Aortic Stenosis",
-    "link": "https://doi.org/10.25270/jic/26.00117",
-    "doi": "10.25270/jic/26.00117",
-    "journal": "J Invasive Cardiology",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273297.765807,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826016225?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150474,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Mitral Valve Leaflet Modification: A Working Group Position Statement on Best Practices and Step-by-Step Guide",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014317?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150437,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Leaflet Modification Technique With UNICORN in Failed Aortic Bioprosthesis: Procedural Step-by-Step, Best Practice, and Troubleshooting",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014342?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150405,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The ELASTA-T Technique for TTVR After Failed T-TEER: An Operator-Oriented Guide to Planning, Execution, Pitfalls",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014366?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150374,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "UNICORN During Transcatheter Aortic Valve Replacement in Native and Bioprosthetic Aortic Valves: A Multicenter Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014329?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150344,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Evolution of the Undermining Iatrogenic Coronary Obstruction With Radiofrequency Needle (UNICORN) Technique",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014330?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150312,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "BenchTop Validation of UNICORN Leaflet Modification Technique in Redo\u2013Transcatheter Aortic Valve Replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014391?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150278,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Frame Matters: Platform-Specific Barriers to Leaflet Modification in Redo-TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601438X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.15025,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "BATMAN for Prevention of LVOT Obstruction: When Simplicity Meets Anatomical Reality",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015293?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782273292.150218,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
