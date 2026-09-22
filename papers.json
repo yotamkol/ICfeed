@@ -1,5 +1,29 @@
 [
   {
+    "title": "Acute Coronary Syndrome in Kawasaki Disease From Infancy to Adulthood",
+    "link": "https://doi.org/10.1161/circulationaha.126.080727",
+    "doi": "10.1161/circulationaha.126.080727",
+    "journal": "Circulation",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790035200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Intracranial haemorrhage following tenecteplase fibrinolysis for acute myocardial infarction",
+    "link": "https://doi.org/10.1093/eurheartj/ehag754",
+    "doi": "10.1093/eurheartj/ehag754",
+    "journal": "European Heart Journal",
+    "date": "Sep 21, 2026",
+    "date_ts": 1789948800.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Letter: Unresolved mechanistic and safety questions from the GLUCO-TAVI trial",
     "link": "https://doi.org/10.4244/eij-d-26-00693",
     "doi": "10.4244/eij-d-26-00693",
@@ -6057,31 +6081,6 @@
     "date_ts": 1782359758.255501,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparison of Radiation Dose Between Dedicated Cardiac and General\u2010Purpose Angiography Systems in Coronary Intervention",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70711?af=R",
-    "doi": "10.1002/ccd.70711",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782276572.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prasugrel\u2014The Default P2Y12 Inhibitor After PCI for ACS?",
-    "link": "https://doi.org/10.1001/jamacardio.2026.1935",
-    "doi": "10.1001/jamacardio.2026.1935",
-    "journal": "JAMA Cardiology",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782259200.0,
-    "tags": [
-      "PCI",
-      "Pharmacology"
     ],
     "hot": false
   }
