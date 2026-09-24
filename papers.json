@@ -1,5 +1,127 @@
 [
   {
+    "title": "Endovascular Retrieval of Unraveled Coils Extending Along the Aorta Due to Guidewire Fracture During Percutaneous Coronary Intervention: The Snare and Trap Technique",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70917?af=R",
+    "doi": "10.1002/ccd.70917",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790142460.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Mechanisms and Management of Acquired Aseptic Intracardiac Communications After Transcatheter Aortic Valve Implantation: Single\u2010Center Case Series Insights",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70914?af=R",
+    "doi": "10.1002/ccd.70914",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790142374.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Head\u2010to\u2010Head Comparison of Quantitative Flow Ratio, Intravascular Ultrasound, and Coronary Angiography in Left Main Coronary Artery Disease",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70918?af=R",
+    "doi": "10.1002/ccd.70918",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790141998.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Retrograde\u2010Guided Antegrade Puncture Reentry Technique for Retrograde CTO PCI: Procedural Outcome and Safety Evaluation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70897?af=R",
+    "doi": "10.1002/ccd.70897",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790141472.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sex Discordance and PCI Outcomes: Marker of Disparity Rather Than Mechanism",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70883?af=R",
+    "doi": "10.1002/ccd.70883",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790141330.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous Left Atrial Appendage Closure Using a PFO Occluder After an Incomplete Surgical Ligation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70909?af=R",
+    "doi": "10.1002/ccd.70909",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790141249.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Defining Procedural Success After Mitral Transcatheter Edge\u2010to\u2010Edge Repair. Is Anatomy Enough?",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70901?af=R",
+    "doi": "10.1002/ccd.70901",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790141115.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Early Versus Delayed Percutaneous Coronary Intervention in Patients With NSTEMI and Stable Heart Failure",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70861?af=R",
+    "doi": "10.1002/ccd.70861",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790139527.0,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Five\u2010Year Clinical Outcomes of Biodegradable Versus Durable Polymer Drug\u2010Eluting Stents: A Propensity Score\u2010Matched Analysis of 4394 Patients",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70878?af=R",
+    "doi": "10.1002/ccd.70878",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790139428.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Delayed Distal Coronary Perforation After Successful Covered\u2010Stent Sealing of a Proximal Ellis Type III Rupture: A Dual\u2010Site Mechanism",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70902?af=R",
+    "doi": "10.1002/ccd.70902",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790139317.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Prognostic Value of Coronary Computed Tomography Angiography\u2013Derived Fractional Flow Reserve From a Large Nationwide Cohort",
     "link": "https://doi.org/10.1161/circulationaha.126.081264",
     "doi": "10.1161/circulationaha.126.081264",
@@ -5956,127 +6078,6 @@
     "date_ts": 1782864000.0,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparing transcatheter aortic valves: time to look beyond simplistic categorisations",
-    "link": "https://doi.org/10.4244/eij-e-26-00011",
-    "doi": "10.4244/eij-e-26-00011",
-    "journal": "EuroIntervention",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical and haemodynamic outcomes with contemporary intra- and supra-annular self-expanding valves: the multicentre international HERA-TAVI registry",
-    "link": "https://doi.org/10.4244/eij-d-26-00390",
-    "doi": "10.4244/eij-d-26-00390",
-    "journal": "EuroIntervention",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Outcomes of percutaneous mechanical aspiration in left-sided infective endocarditis",
-    "link": "https://doi.org/10.4244/eij-d-26-00271",
-    "doi": "10.4244/eij-d-26-00271",
-    "journal": "EuroIntervention",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Same\u2010Day Discharge After Transcatheter Aortic Valve Implantation: Who, When, and How?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70715?af=R",
-    "doi": "10.1002/ccd.70715",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 02, 2026",
-    "date_ts": 1782973410.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparative Outcomes of Transcatheter Versus Surgical Pulmonary Valve Replacement in Adults With Congenital Heart Disease",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70718?af=R",
-    "doi": "10.1002/ccd.70718",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 02, 2026",
-    "date_ts": 1782968314.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Validation of the European Society of Cardiology Ischemic and Bleeding Risk Criteria for Risk Stratification After Endovascular Therapy in Japanese Patients With Lower Extremity Artery Disease",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70714?af=R",
-    "doi": "10.1002/ccd.70714",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 02, 2026",
-    "date_ts": 1782966937.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When Size Matters: Advanced Treatment of Acute Pulmonary Embolism Caused by a Large Snake\u2010Like Thrombus",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70713?af=R",
-    "doi": "10.1002/ccd.70713",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 02, 2026",
-    "date_ts": 1782966309.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "One Anatomy, Multiple Valve Choices: Interobserver Agreement in Selecting Transcatheter Pulmonary Valve",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70708?af=R",
-    "doi": "10.1002/ccd.70708",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782937153.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impactful trials on dyslipidaemias, fractional flow reserve, beta-blockers, and peripheral artery disease",
-    "link": "https://doi.org/10.1093/eurheartj/ehag485",
-    "doi": "10.1093/eurheartj/ehag485",
-    "journal": "European Heart Journal",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Novel Application of the Jailed Balloon Anchor Technique to Improve Guiding Catheter Stability During Intravascular Ultrasound Guided Ostial Coronary Stenting",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70689?af=R",
-    "doi": "10.1002/ccd.70689",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jun 30, 2026",
-    "date_ts": 1782819031.0,
-    "tags": [
-      "PCI",
-      "Imaging"
     ],
     "hot": false
   }
