@@ -1,5 +1,78 @@
 [
   {
+    "title": "Halfway Rotablation to Improve Wire Bias in a Severely Calcified and Angulated Proximal Left Anterior Descending Artery Lesion",
+    "link": "https://doi.org/10.25270/jic/26.00313",
+    "doi": "10.25270/jic/26.00313",
+    "journal": "J Invasive Cardiology",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790309244.156661,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Aortic Valve Replacement in Patients With Small Aortic Annuli: A Systematic Review and Network Meta-Analysis",
+    "link": "https://doi.org/10.25270/jic/26.00198",
+    "doi": "10.25270/jic/26.00198",
+    "journal": "J Invasive Cardiology",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790309243.953496,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prevalence and Influencing Factors of Chronic Disease Multimorbidity Among Elderly Inpatients in a General Practice Department",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70906?af=R",
+    "doi": "10.1002/ccd.70906",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 24, 2026",
+    "date_ts": 1790231030.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Rethinking Percutaneous Coronary Intervention: The Era of Ultra\u2010Low\u2010Contrast Intervention",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70876?af=R",
+    "doi": "10.1002/ccd.70876",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 24, 2026",
+    "date_ts": 1790230318.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Drug\u2010Coated Balloon Versus Stenting for Medina 0.0.1 Coronary Bifurcation Lesions: One\u2010Year Clinical and Angiographic Outcomes of a Leave\u2010Nothing\u2010Behind Strategy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70919?af=R",
+    "doi": "10.1002/ccd.70919",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790161727.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Planned Versus Standby V\u2010A ECMO Strategy During High\u2010Risk PCI: A Retrospective Cohort Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70916?af=R",
+    "doi": "10.1002/ccd.70916",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790160875.0,
+    "tags": [
+      "PCI",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Endovascular Retrieval of Unraveled Coils Extending Along the Aorta Due to Guidewire Fracture During Percutaneous Coronary Intervention: The Snare and Trap Technique",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70917?af=R",
     "doi": "10.1002/ccd.70917",
@@ -6006,78 +6079,6 @@
     "date_ts": 1782777600.0,
     "tags": [
       "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Depth of neutrophil mobilization stratifies survival in ST-elevation myocardial infarction",
-    "link": "https://www.nature.com/articles/s44161-026-00836-0",
-    "doi": "10.1038/s44161-026-00836-0",
-    "journal": "Nature Cardiovasc Res",
-    "date": "Jul 06, 2026",
-    "date_ts": 1783310046.48851,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prosthesis-patient mismatch with intra-annular self-expanding valves: an analysis of the PORTICO IDE trial",
-    "link": "https://doi.org/10.4244/eij-d-26-00158",
-    "doi": "10.4244/eij-d-26-00158",
-    "journal": "EuroIntervention",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "AnchorMan versus Watchman 2.5: a randomised comparison in left atrial appendage closure",
-    "link": "https://doi.org/10.4244/eij-d-26-00453",
-    "doi": "10.4244/eij-d-26-00453",
-    "journal": "EuroIntervention",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Concomitant transfemoral aortic and mitral valve replacement",
-    "link": "https://doi.org/10.4244/eij-d-26-00128",
-    "doi": "10.4244/eij-d-26-00128",
-    "journal": "EuroIntervention",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Validation of the VARC-HBR consensus for defining high bleeding risk in TAVI",
-    "link": "https://doi.org/10.4244/eij-d-26-00315",
-    "doi": "10.4244/eij-d-26-00315",
-    "journal": "EuroIntervention",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left atrial appendage closure with the AnchorMan or Watchman devices: 12-month results of the SAFE-PROTECT randomised trial",
-    "link": "https://doi.org/10.4244/eij-d-25-01168",
-    "doi": "10.4244/eij-d-25-01168",
-    "journal": "EuroIntervention",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
