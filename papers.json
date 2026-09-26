@@ -1,5 +1,17 @@
 [
   {
+    "title": "Early Discharge With Fast\u2010Track Protocol After Median Full Sternotomy in Cardiac Surgery",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70896?af=R",
+    "doi": "10.1002/ccd.70896",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790315140.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Halfway Rotablation to Improve Wire Bias in a Severely Calcified and Angulated Proximal Left Anterior Descending Artery Lesion",
     "link": "https://doi.org/10.25270/jic/26.00313",
     "doi": "10.25270/jic/26.00313",
@@ -6067,18 +6079,6 @@
     "date_ts": 1782864000.0,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long-segment honeycomb-like structure of the right coronary artery presenting with acute coronary syndrome",
-    "link": "https://doi.org/10.25270/jic/26.00187",
-    "doi": "10.25270/jic/26.00187",
-    "journal": "J Invasive Cardiology",
-    "date": "Jun 30, 2026",
-    "date_ts": 1782777600.0,
-    "tags": [
-      "ACS"
     ],
     "hot": false
   }
