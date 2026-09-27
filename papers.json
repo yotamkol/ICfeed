@@ -1,5 +1,66 @@
 [
   {
+    "title": "Bioadaptive spatiotemporal nanomedicine promotes metabolic recovery after myocardial infarction through NAD<sup>+</sup> and UCP2 regulation",
+    "link": "https://www.nature.com/articles/s44161-026-00874-8",
+    "doi": "10.1038/s44161-026-00874-8",
+    "journal": "Nature Cardiovasc Res",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790483237.115365,
+    "tags": [
+      "ACS",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Timed metabolic repair after myocardial infarction",
+    "link": "https://www.nature.com/articles/s44161-026-00873-9",
+    "doi": "10.1038/s44161-026-00873-9",
+    "journal": "Nature Cardiovasc Res",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790483237.11532,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Vascular aging as a driver of organ dysfunction and systemic aging",
+    "link": "https://www.nature.com/articles/s44161-026-00883-7",
+    "doi": "10.1038/s44161-026-00883-7",
+    "journal": "Nature Cardiovasc Res",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790483237.115257,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Renal Denervation via Left Transradial Artery Approach to Circumvent Infrarenal Aortic Tortuosity",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70912?af=R",
+    "doi": "10.1002/ccd.70912",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790336833.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sex Differences in Cardiac Rehabilitation Access and Utilization: A Systematic Review of Barriers and Facilitators in Cardiovascular Care",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70911?af=R",
+    "doi": "10.1002/ccd.70911",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790335683.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Early Discharge With Fast\u2010Track Protocol After Median Full Sternotomy in Cardiac Surgery",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70896?af=R",
     "doi": "10.1002/ccd.70896",
@@ -6019,66 +6080,6 @@
     "date_ts": 1783382400.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Paclitaxel-Coated Balloon Versus Uncoated Balloon for Coronary In-Stent Restenosis: Two-Year Follow-Up of the AGENT-IDE Randomized Clinical Trial",
-    "link": "https://doi.org/10.1161/circulationaha.125.078037",
-    "doi": "10.1161/circulationaha.125.078037",
-    "journal": "Circulation",
-    "date": "Jul 07, 2026",
-    "date_ts": 1783382400.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transapical device closure of a submitral left ventricular pseudoaneurysm after mitral valve replacement",
-    "link": "https://doi.org/10.25270/jic/26.00203",
-    "doi": "10.25270/jic/26.00203",
-    "journal": "J Invasive Cardiology",
-    "date": "Jul 06, 2026",
-    "date_ts": 1783296000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "No pain, no gain? The complexity of ST-elevation myocardial infarction without chest pain",
-    "link": "https://doi.org/10.1136/heartjnl-2026-328573",
-    "doi": "10.1136/heartjnl-2026-328573",
-    "journal": "Heart (BMJ)",
-    "date": "Jul 06, 2026",
-    "date_ts": 1783296000.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous management of delayed aortic annular rupture after transcatheter aortic valve implantation complicated by severe aortic regurgitation",
-    "link": "https://doi.org/10.25270/jic/26.00158",
-    "doi": "10.25270/jic/26.00158",
-    "journal": "J Invasive Cardiology",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety and outcomes of upfront large-size rotational atherectomy burrs in left main coronary interventions",
-    "link": "https://doi.org/10.25270/jic/26.00147",
-    "doi": "10.25270/jic/26.00147",
-    "journal": "J Invasive Cardiology",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
