@@ -1,5 +1,141 @@
 [
   {
+    "title": "Percutaneous coronary intervention using sirolimus-eluting balloons in patients at high bleeding risk: the SELUTION DeNovo HBR substudy",
+    "link": "https://doi.org/10.4244/eij-d-26-00889",
+    "doi": "10.4244/eij-d-26-00889",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Drug-coated balloons in high bleeding risk PCI: can we safely drop the scaffold?",
+    "link": "https://doi.org/10.4244/eij-d-26-01027",
+    "doi": "10.4244/eij-d-26-01027",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Emerging Role of Treatment Policy Implementation Trials in Acute Coronary Syndrome",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2610678?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMe2610678",
+    "journal": "NEJM",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790657881.348918,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Aspirin Omission at the Time of Primary Percutaneous Coronary Intervention in STEMI",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606997?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMoa2606997",
+    "journal": "NEJM",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790657881.348833,
+    "tags": [
+      "ACS",
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Milvexian with Antiplatelet Therapy after Acute Coronary Syndrome Event",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2608717?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMoa2608717",
+    "journal": "NEJM",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790657881.348794,
+    "tags": [
+      "ACS",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prasugrel versus Ticagrelor in Acute Coronary Syndromes",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2609057?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMoa2609057",
+    "journal": "NEJM",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790657881.348752,
+    "tags": [
+      "ACS",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Targeted Use of Computed Tomographic Coronary Angiography in Acute Chest Pain",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2608903?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMoa2608903",
+    "journal": "NEJM",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790657881.348718,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Timing of PCI in Patients Undergoing Transcatheter Aortic-Valve Implantation",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606924?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMoa2606924",
+    "journal": "NEJM",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790657881.348617,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Case Example and Bench Testing of Hydrodynamic Performance and Migration Stability of Various Valve\u2010in\u2010Valve Configurations within a Large\u2010Housing Self\u2010Expanding Pulmonary Valve",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70872?af=R",
+    "doi": "10.1002/ccd.70872",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 28, 2026",
+    "date_ts": 1790579430.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Spatial Mismatch Between Angiographic Obstruction and Plaque Destabilization in Acute Coronary Syndromes: A Conceptual Narrative Review",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70913?af=R",
+    "doi": "10.1002/ccd.70913",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 28, 2026",
+    "date_ts": 1790571889.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Coronary CT Angiography\u2010Derived Plaque and Hemodynamic Characteristics for In\u2010Stent Restenosis: A Self\u2010Controlled Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70908?af=R",
+    "doi": "10.1002/ccd.70908",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 28, 2026",
+    "date_ts": 1790565956.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "Bioadaptive spatiotemporal nanomedicine promotes metabolic recovery after myocardial infarction through NAD<sup>+</sup> and UCP2 regulation",
     "link": "https://www.nature.com/articles/s44161-026-00874-8",
     "doi": "10.1038/s44161-026-00874-8",
@@ -5948,138 +6084,6 @@
     "date_ts": 1783555200.0,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Seeing Clearly: Blinded and Unblinded Evidence for Symptom Benefit After Chronic Total Occlusion Percutaneous Coronary Intervention",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726064880?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783568216.850035,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Ventricular Unloading in Anterior ST-Segment Elevation Myocardial Infarction Without Shock: The ST-Segment Elevation Myocardial Infarction Door to Unload Randomized Controlled Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726059231?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783568216.849991,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sex Differences in Mechanical Circulatory Support Pathways and Ventricular Phenotypes in Cardiogenic Shock",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001270?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783568216.849933,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "REPLY: Sex Differences in Mechanical Circulatory Support Pathways and Ventricular Phenotypes in Cardiogenic Shock",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001282?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783568216.849865,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Effect of Nominal-Volume (\u201cDouble Tap\u201d) Postdilatation on Significant THV Mid\u2013Stent Frame Underexpansion After Balloon-Expandable TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015591?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783568216.459592,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Redo-TAVR (TAV-in-TAV) Best Practices Part 2: Tall-in-Short and Tall-in-Tall - A Heart and Valve Collaboratory Document",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018200?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783568216.459558,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Redo-TAVR (TAV-in-TAV) Best Practices Part 1: Short-in-Short and Short-in-Tall - A Heart and Valve Collaboratory Document",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018194?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783568216.459519,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Real-World Outcomes of Dedicated Leaflet Modification for Bioprosthetic Valve-In-Valve TAVR: A 150-Patient Commercial Experience",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826017322?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783568216.459479,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Double Transseptal Guide Sheath Technique to Prevent Low Dock Positioning During Transcatheter Mitral Valve Replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826017334?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783568216.459297,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stroke and systemic embolism following AF ablation: importance of global registries",
-    "link": "https://doi.org/10.1093/eurheartj/ehag359",
-    "doi": "10.1093/eurheartj/ehag359",
-    "journal": "European Heart Journal",
-    "date": "Jul 07, 2026",
-    "date_ts": 1783382400.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pregnancy-Associated Spontaneous Coronary Dissection",
-    "link": "https://doi.org/10.1161/circulationaha.126.081624",
-    "doi": "10.1161/circulationaha.126.081624",
-    "journal": "Circulation",
-    "date": "Jul 07, 2026",
-    "date_ts": 1783382400.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
