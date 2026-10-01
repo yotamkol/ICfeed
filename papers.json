@@ -1,5 +1,114 @@
 [
   {
+    "title": "Advancing Hemodynamic Understanding in High-Risk PCI: A Critical Appraisal of the CHIP-BCIS3 Hemodynamic Substudy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726073808?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790830612.496616,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Rescue Cutting Balloon Angioplasty for Heavily Calcified Carotid Artery Stenosis: A Case Report and Narrative Review",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70898?af=R",
+    "doi": "10.1002/ccd.70898",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 30, 2026",
+    "date_ts": 1790754657.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Extracorporeal Membrane Oxygenation\u2010Supported Aspiration Thrombectomy and Catheter\u2010Directed Thrombolysis for Massive Pulmonary Artery and Inferior Vena Cava Thrombosis in a Neonate",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70926?af=R",
+    "doi": "10.1002/ccd.70926",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 30, 2026",
+    "date_ts": 1790744606.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "PICS Live Case Demonstrations: Five\u2010Year Review of a Collaborative Experience",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70915?af=R",
+    "doi": "10.1002/ccd.70915",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 30, 2026",
+    "date_ts": 1790743894.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transcatheter Aortic Valve Replacement Facilitates Anti\u2010Cancer Therapy Continuity and Improves Survival in Cancer Patients",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70924?af=R",
+    "doi": "10.1002/ccd.70924",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 30, 2026",
+    "date_ts": 1790743025.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Diagnostic Agreement and Threshold Correspondence Between Resting Full\u2010Cycle Ratio and Nicorandil\u2010Based Fractional Flow Reserve in Intermediate Coronary Stenosis: A Prospective Single\u2010Center Registry",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70933?af=R",
+    "doi": "10.1002/ccd.70933",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 30, 2026",
+    "date_ts": 1790742237.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The No\u2010Reflow Phenomenon as an Independent Predictor of Contrast\u2010Induced Acute Kidney Injury and Mortality in STEMI Patients Undergoing Primary PCI",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70904?af=R",
+    "doi": "10.1002/ccd.70904",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790689599.0,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Exploring Hemodynamic Differences in Patients With Discordant FFR\u2212iFR Using Reservoir\u2013Excess Pressure Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70851?af=R",
+    "doi": "10.1002/ccd.70851",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790682763.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long\u2010Term Outcomes of Patients With Suspected Angina Pectoris Following Clinical Decision\u2010Making Guided by ATP\u2010FFR Versus Nicorandil\u2010FFR",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70907?af=R",
+    "doi": "10.1002/ccd.70907",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790682560.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Editorial Board",
     "link": "https://www.sciencedirect.com/science/article/pii/S1936879826023381?dgcid=rss_sd_all",
     "doi": null,
@@ -5974,114 +6083,6 @@
     "date_ts": 1783311277.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "RETRACTED: 8\u2009F Catheter Percutaneous Mechanical Thrombectomy Plus Anticoagulation Versus Anticoagulation Alone in Intermediate\u2010High Risk Acute Pulmonary Embolism: A Multicenter Real\u2010World Study on Long\u2010Term Complications, Right Heart Function, and Quality of Life",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70403?af=R",
-    "doi": "10.1002/ccd.70403",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 03, 2026",
-    "date_ts": 1783112586.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Issue Information",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70712?af=R",
-    "doi": "10.1002/ccd.70712",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 03, 2026",
-    "date_ts": 1783112586.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Mechanical Thrombus Aspiration for a Young STEMI Patient With Plaque Erosion: Time for a Stent\u2010Free Approach?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70726?af=R",
-    "doi": "10.1002/ccd.70726",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 03, 2026",
-    "date_ts": 1783081081.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First Report of Hybrid Brachial Artery Access Enabling Complex Coronary Intervention",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70717?af=R",
-    "doi": "10.1002/ccd.70717",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 03, 2026",
-    "date_ts": 1783059894.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Retrograde Balloon Pulmonary Angioplasty for Otherwise Uncrossable Lesions in Chronic Thromboembolic Pulmonary Hypertension",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70725?af=R",
-    "doi": "10.1002/ccd.70725",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 03, 2026",
-    "date_ts": 1783054061.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Varenicline and Ventricular Ectopy After Myocardial Infarction: A Randomized Phase 2 Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726002330?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Jul 16, 2026",
-    "date_ts": 1784170215.985175,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826017413?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 15, 2026",
-    "date_ts": 1784083406.019182,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Procedural Strategies for Optimal Transcatheter Aortic Valve Replacement: An International Position Statement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826016286?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 15, 2026",
-    "date_ts": 1784083406.019159,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hospital Volume and Failure to Rescue Post-TAVR: Insights From the STS/ACC TVT Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015335?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 15, 2026",
-    "date_ts": 1784083406.019136,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
