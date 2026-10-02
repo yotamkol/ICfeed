@@ -1,5 +1,29 @@
 [
   {
+    "title": "Evaluating Intracoronary Imaging-Guided PCI: Balancing Evidence Synthesis and Exploration of Heterogeneity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726076394?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Oct 02, 2026",
+    "date_ts": 1790916422.42788,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Balloon\u2010Stopper Retrieval and Peripheral Parking After Inadvertent Ostial Right Coronary Stent Deployment",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70932?af=R",
+    "doi": "10.1002/ccd.70932",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Sep 30, 2026",
+    "date_ts": 1790762805.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Advancing Hemodynamic Understanding in High-Risk PCI: A Critical Appraisal of the CHIP-BCIS3 Hemodynamic Substudy",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726073808?dgcid=rss_sd_all",
     "doi": null,
@@ -6059,30 +6083,6 @@
     "tags": [
       "ACS",
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Impact of Institutional Volume on Transcatheter Aortic Valve Replacement Outcomes",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70737?af=R",
-    "doi": "10.1002/ccd.70737",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 06, 2026",
-    "date_ts": 1783311625.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Impact of a Visualized Steerable Sheath on Radiofrequency Catheter Ablation for First\u2010Time Atrial Fibrillation Ablation: A Prospective, Randomized, Single\u2010Blind Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70716?af=R",
-    "doi": "10.1002/ccd.70716",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 06, 2026",
-    "date_ts": 1783311277.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
