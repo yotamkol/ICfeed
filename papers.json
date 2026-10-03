@@ -1,5 +1,53 @@
 [
   {
+    "title": "The Triglyceride\u2010Glucose Index Stratifies Cardiovascular Risk After PCI: A Cohort Study Identifying the Highest\u2010Risk Patients",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70925?af=R",
+    "doi": "10.1002/ccd.70925",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790862569.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Double Transeptal Puncture for SAPIEN M3 Transcatheter Mitral Valve Replacement: Initial Experience, Indications, and Technique",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70935?af=R",
+    "doi": "10.1002/ccd.70935",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790859662.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Beyond the Valve: A Tailored Distal Snaring Strategy for Complex Arterial and Venous Nose Cone Entrapment During Transfemoral TAVI and TricValve Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70934?af=R",
+    "doi": "10.1002/ccd.70934",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790859079.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Biventricular Pressure\u2010Volume Loop Analysis in an LVAD Patient Optimized With Impella RP Flex",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70929?af=R",
+    "doi": "10.1002/ccd.70929",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790838000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Evaluating Intracoronary Imaging-Guided PCI: Balancing Evidence Synthesis and Exploration of Heterogeneity",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726076394?dgcid=rss_sd_all",
     "doi": null,
@@ -6033,56 +6081,6 @@
     "date_ts": 1783327231.0,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long\u2010Term Trends in Cardiac Erosion After Transcatheter Closure of Atrial Septal Defects With the Amplatzer Septal Occluder",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70722?af=R",
-    "doi": "10.1002/ccd.70722",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 06, 2026",
-    "date_ts": 1783326381.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intracoronary Imaging to Guide PCI in Acute Coronary Syndromes: A Report From the BMC2 Registry",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70723?af=R",
-    "doi": "10.1002/ccd.70723",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 06, 2026",
-    "date_ts": 1783324361.0,
-    "tags": [
-      "ACS",
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Real\u2010World Performance and Mid\u2010Term Durability of the Myval Transcatheter Heart Valve in Patients Undergoing Transcatheter Aortic Valve Replacement",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70738?af=R",
-    "doi": "10.1002/ccd.70738",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 06, 2026",
-    "date_ts": 1783321200.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bailout Endovascular Retrieval of a Severely Kinked Guiding Catheter During Primary PCI for Inferior STEMI",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70731?af=R",
-    "doi": "10.1002/ccd.70731",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 06, 2026",
-    "date_ts": 1783312597.0,
-    "tags": [
-      "ACS",
-      "PCI"
     ],
     "hot": false
   }
