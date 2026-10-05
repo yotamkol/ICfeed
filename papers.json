@@ -1,5 +1,114 @@
 [
   {
+    "title": "Hantavirus \u2014 Lessons Learned about Security and Solidarity",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMp2611801?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMp2611801",
+    "journal": "NEJM",
+    "date": "Oct 05, 2026",
+    "date_ts": 1791175633.766146,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Longitudinal progression of coronary calcium density on serial computed tomography",
+    "link": "https://doi.org/10.4244/eij-d-26-00382",
+    "doi": "10.4244/eij-d-26-00382",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardiogenic shock with multivessel disease: should we leave non-culprit lesions unattended?",
+    "link": "https://doi.org/10.4244/eij-d-26-01084",
+    "doi": "10.4244/eij-d-26-01084",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "ACS",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Standardised versus visual assessment of device success after percutaneous coronary intervention",
+    "link": "https://doi.org/10.4244/eij-d-26-00413",
+    "doi": "10.4244/eij-d-26-00413",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Complexity of coronary artery disease in infarct-related cardiogenic shock and multivessel disease: a substudy of the DanGer Shock trial",
+    "link": "https://doi.org/10.4244/eij-d-26-00460",
+    "doi": "10.4244/eij-d-26-00460",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Beyond the visual estimate: standardising device success after PCI",
+    "link": "https://doi.org/10.4244/eij-d-26-01050",
+    "doi": "10.4244/eij-d-26-01050",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Reply: How firmly can single-vessel physiology anchor endotypeguided therapy in angina with non-obstructive coronary arteries?",
+    "link": "https://doi.org/10.4244/eij-d-26-00970",
+    "doi": "10.4244/eij-d-26-00970",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Letter: How firmly can single-vessel physiology anchor endotypeguided therapy in angina with non-obstructive coronary arteries?",
+    "link": "https://doi.org/10.4244/eij-d-26-00948",
+    "doi": "10.4244/eij-d-26-00948",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Remodelling of distal coronary vessels in chronic total occlusions",
+    "link": "https://doi.org/10.4244/eij-d-26-00326",
+    "doi": "10.4244/eij-d-26-00326",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "The Triglyceride\u2010Glucose Index Stratifies Cardiovascular Risk After PCI: A Cohort Study Identifying the Highest\u2010Risk Patients",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70925?af=R",
     "doi": "10.1002/ccd.70925",
@@ -5971,116 +6080,6 @@
     "date_ts": 1783483993.0,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reverse Tip Detection: An IVUS\u2010Guided Strategy for Retrograde Wire Crossing in CTO PCI",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70732?af=R",
-    "doi": "10.1002/ccd.70732",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 08, 2026",
-    "date_ts": 1783483357.0,
-    "tags": [
-      "PCI",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Anatomical and Imaging Predictors of Peri\u2010Device Leak Following Left Atrial Appendage Closure Using the LAmbre Device: A Comparative Study of CCTA and TEE",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70736?af=R",
-    "doi": "10.1002/ccd.70736",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 08, 2026",
-    "date_ts": 1783482526.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Personalized Antithrombotic Therapy After Percutaneous Coronary Intervention: A Systematic Review of Risk\u2010Stratified Approaches",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70733?af=R",
-    "doi": "10.1002/ccd.70733",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 07, 2026",
-    "date_ts": 1783399388.0,
-    "tags": [
-      "PCI",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Predictors of Rescue Duration in Acute Pericardial Tamponade in Atrial Fibrillation Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70719?af=R",
-    "doi": "10.1002/ccd.70719",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 07, 2026",
-    "date_ts": 1783398992.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Lower AKI Risk and Higher Survival With Microaxial Flow Pump Support During Elective PCI: A Propensity Score\u2010Matched Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70721?af=R",
-    "doi": "10.1002/ccd.70721",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 07, 2026",
-    "date_ts": 1783398029.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Current Advances and Navigating the Complexities of SVG\u2010PCI",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70740?af=R",
-    "doi": "10.1002/ccd.70740",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 06, 2026",
-    "date_ts": 1783340421.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Stepwise Approach to Coronary Bifurcation Stenting: Enhancing Safety and Efficacy With Modified Jailed Balloon Techniques",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70730?af=R",
-    "doi": "10.1002/ccd.70730",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 06, 2026",
-    "date_ts": 1783327457.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Association of Hospital Volume With Outcomes of Pulmonary Embolism in the United States",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70724?af=R",
-    "doi": "10.1002/ccd.70724",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 06, 2026",
-    "date_ts": 1783327350.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Randomized Controlled Trial Comparing the TruSteer and FXD Double Curve Delivery Systems for Left Atrial Appendage Occlusion With the Watchman FLX Pro Device\u2014The GUIDE\u2010LAAO Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70739?af=R",
-    "doi": "10.1002/ccd.70739",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 06, 2026",
-    "date_ts": 1783327231.0,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
