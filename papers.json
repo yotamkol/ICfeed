@@ -1,5 +1,29 @@
 [
   {
+    "title": "Long\u2010Term Outcomes of iFR\u2010 Versus FFR\u2010Guided Coronary Physiology in Real\u2010World Clinical Practice",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70930?af=R",
+    "doi": "10.1002/ccd.70930",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 05, 2026",
+    "date_ts": 1791181493.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Weekly Journal Scan: from TRICk to treat\u2014the first evidence of a clinical outcome benefit with transcatheter tricuspid valve intervention",
+    "link": "https://doi.org/10.1093/eurheartj/ehag780",
+    "doi": "10.1093/eurheartj/ehag780",
+    "journal": "European Heart Journal",
+    "date": "Oct 05, 2026",
+    "date_ts": 1791158400.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Hantavirus \u2014 Lessons Learned about Security and Solidarity",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMp2611801?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMp2611801",
@@ -6056,30 +6080,6 @@
     "date_ts": 1783502958.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Wasserstein Deep Convolutional GAN With Growth Optimizer for Multi\u2010Modal Feature Extraction in Cardiovascular Diagnosis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70728?af=R",
-    "doi": "10.1002/ccd.70728",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 08, 2026",
-    "date_ts": 1783484500.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrocardiographic Changes After Percutaneous Coronary Intervention for Chronic Total Occlusion",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70734?af=R",
-    "doi": "10.1002/ccd.70734",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 08, 2026",
-    "date_ts": 1783483993.0,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
