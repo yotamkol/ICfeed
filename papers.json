@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sirolimus-coated Balloon Angioplasty for Femoropopliteal Artery Disease Without Tissue Loss: A Secondary Analysis of the SirPAD Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726078617?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Oct 07, 2026",
+    "date_ts": 1791349446.569371,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Mechanical Thrombectomy Versus Anticoagulation Alone in Intermediate-High Risk PE: Improved Functional 90-Day Outcomes in STORM-PE RCT",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826023915?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Oct 07, 2026",
+    "date_ts": 1791349445.297085,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Lipid Burden and Efficacy of Preventive PCI of Vulnerable Atherosclerotic Coronary Plaques: Post Hoc Analysis From the PREVENT Trial",
+    "link": "https://doi.org/10.1161/circulationaha.126.080384",
+    "doi": "10.1161/circulationaha.126.080384",
+    "journal": "Circulation",
+    "date": "Oct 06, 2026",
+    "date_ts": 1791244800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Long\u2010Term Outcomes of iFR\u2010 Versus FFR\u2010Guided Coronary Physiology in Real\u2010World Clinical Practice",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70930?af=R",
     "doi": "10.1002/ccd.70930",
@@ -6044,42 +6080,6 @@
     "tags": [
       "Structural",
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Hidden Burden of Iatrogenic Atrial Shunting in Severe Tricuspid Regurgitation: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70743?af=R",
-    "doi": "10.1002/ccd.70743",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 08, 2026",
-    "date_ts": 1783551335.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Catheter Thrombectomy of Massive Pulmonary Embolism Secondary to Spongostan Embolisation: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70747?af=R",
-    "doi": "10.1002/ccd.70747",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 08, 2026",
-    "date_ts": 1783551170.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Preoperative Nutrition Status on Wound Healing in Patients With Chronic Limb\u2010Threatening Ischemia Undergoing Endovascular Therapy",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70746?af=R",
-    "doi": "10.1002/ccd.70746",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 08, 2026",
-    "date_ts": 1783502958.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
