@@ -1,5 +1,41 @@
 [
   {
+    "title": "Prevalence of Unrecognized and Recognized Myocardial Infarction in the Rotterdam Study",
+    "link": "https://doi.org/10.1001/jamacardio.2026.4233",
+    "doi": "10.1001/jamacardio.2026.4233",
+    "journal": "JAMA Cardiology",
+    "date": "Oct 07, 2026",
+    "date_ts": 1791331200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long-Term Perspective on the Landscape of Recognized and Unrecognized Myocardial Infarction",
+    "link": "https://doi.org/10.1001/jamacardio.2026.4238",
+    "doi": "10.1001/jamacardio.2026.4238",
+    "journal": "JAMA Cardiology",
+    "date": "Oct 07, 2026",
+    "date_ts": 1791331200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Acute and Delayed Mitral Annular Remodeling Following Transcatheter Edge\u2010to\u2010Edge Repair: An Echocardiographic Observational Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70928?af=R",
+    "doi": "10.1002/ccd.70928",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 06, 2026",
+    "date_ts": 1791284219.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Sirolimus-coated Balloon Angioplasty for Femoropopliteal Artery Disease Without Tissue Loss: A Secondary Analysis of the SirPAD Trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726078617?dgcid=rss_sd_all",
     "doi": null,
@@ -6043,43 +6079,6 @@
     "date_ts": 1783922469.0,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Two Different Approaches for Closure of Iatrogenic Femoral Pseudoaneurysms Using a Closure Device",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70729?af=R",
-    "doi": "10.1002/ccd.70729",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 13, 2026",
-    "date_ts": 1783921216.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The High\u2010Sensitivity C\u2010Reactive Protein\u2212Albumin\u2212Lymphocyte Index Is a Prognostic Marker for All\u2010Cause and Cardiovascular Mortality in Patients With ST\u2010Elevation Myocardial Infarction",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70745?af=R",
-    "doi": "10.1002/ccd.70745",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 10, 2026",
-    "date_ts": 1783697337.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Consecutive Emergency Carotid Artery Stenting and Transcatheter Aortic Valve Replacement in a Patient With Cardiogenic Shock: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70741?af=R",
-    "doi": "10.1002/ccd.70741",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 10, 2026",
-    "date_ts": 1783697261.0,
-    "tags": [
-      "Structural",
-      "Devices"
     ],
     "hot": false
   }
