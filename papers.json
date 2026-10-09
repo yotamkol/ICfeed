@@ -1,5 +1,89 @@
 [
   {
+    "title": "REPLY: Virtual Native Enhancement of CMR for Myocardial Infarction Assessment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726077107?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Oct 09, 2026",
+    "date_ts": 1791523057.206391,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transcatheter Tricuspid-Valve Intervention for Severe Tricuspid Regurgitation",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2611648?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMe2611648",
+    "journal": "NEJM",
+    "date": "Oct 09, 2026",
+    "date_ts": 1791523057.088377,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Advances in Systemic Treatment of Breast Cancer",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMra2500695?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMra2500695",
+    "journal": "NEJM",
+    "date": "Oct 09, 2026",
+    "date_ts": 1791523057.088282,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Baseline invasive haemodynamics and treatment response to transcatheter tricuspid edge-to-edge repair: an exploratory analysis of the TRI-FR randomised trial",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328062",
+    "doi": "10.1136/heartjnl-2026-328062",
+    "journal": "Heart (BMJ)",
+    "date": "Oct 08, 2026",
+    "date_ts": 1791417600.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Intravascular Lithotripsy in Left Main Stem Percutaneous Coronary Intervention",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70927?af=R",
+    "doi": "10.1002/ccd.70927",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 07, 2026",
+    "date_ts": 1791388573.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Phenotype\u2010Based Risk Stratification in Patients With New\u2010Onset Atrial Fibrillation Following Myocardial Infarction Using a Data\u2010Driven Approach",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70923?af=R",
+    "doi": "10.1002/ccd.70923",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 07, 2026",
+    "date_ts": 1791383501.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Correction to \u201cEffects of a 12\u2010Week Calisthenics Exercise Program on Physical Fitness in Adults With Obesity\u201d",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70939?af=R",
+    "doi": "10.1002/ccd.70939",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 07, 2026",
+    "date_ts": 1791382624.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Prevalence of Unrecognized and Recognized Myocardial Infarction in the Rotterdam Study",
     "link": "https://doi.org/10.1001/jamacardio.2026.4233",
     "doi": "10.1001/jamacardio.2026.4233",
@@ -5993,90 +6077,6 @@
     "journal": "Lancet",
     "date": "Jul 17, 2026",
     "date_ts": 1784256755.293234,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cardiac MRI of Chronic Myocardial Infarction: Emergence of a New Era?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726067586?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Jul 17, 2026",
-    "date_ts": 1784256754.944756,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Physiology\u2010Guided Heart Rate Modulation in Cardiogenic Shock With Myocardial Bridging: Reversing the Inotrope Paradox",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70757?af=R",
-    "doi": "10.1002/ccd.70757",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 15, 2026",
-    "date_ts": 1784090723.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Randomized Trial Comparing Potato Poultice Compress Versus Traditional Medicated Compress for Forearm Swelling After Trans\u2010Radial Percutaneous Coronary Intervention",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70761?af=R",
-    "doi": "10.1002/ccd.70761",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 14, 2026",
-    "date_ts": 1784039751.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Delayed Anterior Interventricular Vein Opacification Guides True\u2010Lumen Wiring in Stump\u2010Less LAD Occlusion",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70753?af=R",
-    "doi": "10.1002/ccd.70753",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 14, 2026",
-    "date_ts": 1784015688.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "OCT\u2010Derived Index of Plaque Attenuation as a Quantitative Metric for Histological Plaque Vulnerability in Human Coronary Atherosclerosis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70742?af=R",
-    "doi": "10.1002/ccd.70742",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 14, 2026",
-    "date_ts": 1784011172.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Internal Jugular Vein Access for Mitral Transcatheter Edge\u2010to\u2010Edge Repair: A Case Report and Review of Literature for Alternative Venous Access Routes",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70727?af=R",
-    "doi": "10.1002/ccd.70727",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 13, 2026",
-    "date_ts": 1783944446.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Association of the CALLY Index With 30\u2010Day Outcomes After Transcatheter Aortic Valve Replacement",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70696?af=R",
-    "doi": "10.1002/ccd.70696",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 13, 2026",
-    "date_ts": 1783922469.0,
     "tags": [
       "Structural"
     ],
