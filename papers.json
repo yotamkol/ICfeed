@@ -1,5 +1,17 @@
 [
   {
+    "title": "Predictive Value of Intraoperative Transcranial Doppler Hemodynamic Monitoring for Cerebral Hyperperfusion Syndrome After Carotid Artery Stenting",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70865?af=R",
+    "doi": "10.1002/ccd.70865",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 12, 2026",
+    "date_ts": 1791780487.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "REPLY: Virtual Native Enhancement of CMR for Myocardial Infarction Assessment",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726077107?dgcid=rss_sd_all",
     "doi": null,
@@ -6067,18 +6079,6 @@
     "date_ts": 1784256755.293337,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "[Correspondence] Andes hantavirus: operationalising science in real time",
-    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01227-4/fulltext?rss=yes",
-    "doi": "10.1016/S0140-6736(26)01227-4",
-    "journal": "Lancet",
-    "date": "Jul 17, 2026",
-    "date_ts": 1784256755.293234,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
