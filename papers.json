@@ -1,5 +1,30 @@
 [
   {
+    "title": "Temporary mechanical circulatory support in cardiogenic shock",
+    "link": "https://doi.org/10.1093/eurheartj/ehag708",
+    "doi": "10.1093/eurheartj/ehag708",
+    "journal": "European Heart Journal",
+    "date": "Oct 14, 2026",
+    "date_ts": 1791936000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cangrelor Dosing, Administration, and Clinical Outcomes for Patients Undergoing Complex and High\u2010Risk Percutaneous Coronary Interventions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70942?af=R",
+    "doi": "10.1002/ccd.70942",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 13, 2026",
+    "date_ts": 1791902540.0,
+    "tags": [
+      "PCI",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
     "title": "Editorial Board",
     "link": "https://www.sciencedirect.com/science/article/pii/S1936879826025239?dgcid=rss_sd_all",
     "doi": null,
@@ -6057,30 +6082,6 @@
     "journal": "Catheter Cardiovasc Interv",
     "date": "Jul 21, 2026",
     "date_ts": 1784641010.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Major Adverse Cardiovascular Events in Insulin\u2010 Versus Non\u2010Insulin\u2010Treated Type 2 Diabetes Patients Following Percutaneous Coronary Intervention: A Prospective Cohort Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70735?af=R",
-    "doi": "10.1002/ccd.70735",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 21, 2026",
-    "date_ts": 1784640848.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "FineCross M3 Microcatheter for Balloon Uncrossable Lesions",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70775?af=R",
-    "doi": "10.1002/ccd.70775",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 21, 2026",
-    "date_ts": 1784640760.0,
     "tags": [
       "Other"
     ],
