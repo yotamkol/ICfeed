@@ -1,5 +1,53 @@
 [
   {
+    "title": "Real\u2010World Invasive Evaluation of Myocardial Bridging: A Multicenter Italian Survey of Interventional Cardiologists' Practices",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70943?af=R",
+    "doi": "10.1002/ccd.70943",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 16, 2026",
+    "date_ts": 1792127262.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impaired Flow and Physiology in Coronaries With Anomalous Origin From the Opposite Sinus of Valsalva",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70891?af=R",
+    "doi": "10.1002/ccd.70891",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 15, 2026",
+    "date_ts": 1792052450.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous Renal Denervation for Resistant Hypertension in a High\u2010Risk Real\u2010World Population: Preliminary Results From a Prospective Single\u2010Center Experience",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70920?af=R",
+    "doi": "10.1002/ccd.70920",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 15, 2026",
+    "date_ts": 1792052403.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Mitral Transcatheter Edge\u2010to\u2010Edge Repair at Centers With and Without On\u2010Site Cardiac Surgery: A Comparative Registry With a Shared Interventional Team",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70874?af=R",
+    "doi": "10.1002/ccd.70874",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 15, 2026",
+    "date_ts": 1792052401.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Coming Full Circle in Transcatheter Mitral Valve Intervention in MAC: Lessons From the ENCIRCLE Registry",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726076400?dgcid=rss_sd_all",
     "doi": null,
@@ -6033,56 +6081,6 @@
     "tags": [
       "PCI",
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "VERMONT \u03bcQFR: Diagnostic Accuracy of Murray Law\u2010Based 2D\u2010\u03bcQFR Compared to 3D\u2010\u03bcQFR and vFFR",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70768?af=R",
-    "doi": "10.1002/ccd.70768",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 27, 2026",
-    "date_ts": 1785139042.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Drug-coated versus conventional balloons for side branch treatment in coronary bifurcation lesions: an optical coherence tomography substudy of the OCVC-BIF randomised trial",
-    "link": "https://doi.org/10.4244/eij-d-26-00428",
-    "doi": "10.4244/eij-d-26-00428",
-    "journal": "EuroIntervention",
-    "date": "Aug 01, 2026",
-    "date_ts": 1785542400.0,
-    "tags": [
-      "PCI",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intravascular lithotripsy in comparison to rotational atherectomy for calcified lesions: the ICARE OFDI randomised trial",
-    "link": "https://doi.org/10.4244/eij-d-26-00426",
-    "doi": "10.4244/eij-d-26-00426",
-    "journal": "EuroIntervention",
-    "date": "Aug 01, 2026",
-    "date_ts": 1785542400.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Letter by Li and Xiong Regarding Article, \u201cShort-Term Anticoagulation Versus Dual Antiplatelet Therapy for Preventing Device Thrombosis Following Left Atrial Appendage Closure: The ANDES Randomized Clinical Trial\u201d",
-    "link": "https://doi.org/10.1161/circulationaha.125.078651",
-    "doi": "10.1161/circulationaha.125.078651",
-    "journal": "Circulation",
-    "date": "Jul 28, 2026",
-    "date_ts": 1785196800.0,
-    "tags": [
-      "Structural",
-      "Pharmacology"
     ],
     "hot": false
   }
