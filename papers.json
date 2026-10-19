@@ -1,5 +1,89 @@
 [
   {
+    "title": "Prolonged inflation instead of a double tap: pursuing the optimal deployment strategy for the SAPIEN 3 Ultra RESILIA",
+    "link": "https://doi.org/10.4244/eij-d-26-01011",
+    "doi": "10.4244/eij-d-26-01011",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Reproducible haemodynamics, unresolved indication: where does thrombectomy for acute pulmonary embolism stand?",
+    "link": "https://doi.org/10.4244/eij-d-26-01104",
+    "doi": "10.4244/eij-d-26-01104",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Safety and effectiveness of the Vertex Pulmonary Embolectomy System in acute intermediate-risk pulmonary embolism: the SPIRARE II pivotal trial",
+    "link": "https://doi.org/10.4244/eij-d-26-00454",
+    "doi": "10.4244/eij-d-26-00454",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Coronary artery disease management in patients with severe aortic stenosis undergoing transcatheter aortic valve implantation: a systematic review and meta-analysis of randomised controlled trials",
+    "link": "https://doi.org/10.4244/eij-d-26-00602",
+    "doi": "10.4244/eij-d-26-00602",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Early outcomes of transcatheter vacuum-assisted mass extraction in the left heart and the aortic arch",
+    "link": "https://doi.org/10.4244/eij-d-26-00347",
+    "doi": "10.4244/eij-d-26-00347",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Life expectancy after aortic valve replacement: a nationwide analysis",
+    "link": "https://doi.org/10.4244/eij-d-26-00334",
+    "doi": "10.4244/eij-d-26-00334",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Coronary revascularisation in patients undergoing transcatheter aortic valve implantation: from anatomy to physiology guidance?",
+    "link": "https://doi.org/10.4244/eij-d-26-01199",
+    "doi": "10.4244/eij-d-26-01199",
+    "journal": "EuroIntervention",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Real\u2010World Invasive Evaluation of Myocardial Bridging: A Multicenter Italian Survey of Interventional Cardiologists' Practices",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70943?af=R",
     "doi": "10.1002/ccd.70943",
@@ -5995,92 +6079,6 @@
     "date_ts": 1785293579.916062,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Balloon-Induced Slipstream Effect: A Simple Bailout Technique for Stent Delivery Failure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015505?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.91603,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Delayed Stent Self-Correction After Intravascular Lithotripsy for a Calcified Nodule: Serial OCT Imaging",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826016390?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.915995,
-    "tags": [
-      "PCI",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Nitroglycerin and the Physiology We Measure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018273?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.915959,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reply: Nitroglycerin and the Physiology We Measure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018285?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.915923,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Full Issue PDF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018935?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.915754,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Micro-axial flow pump vs veno-arterial extracorporeal membrane oxygenation for high-risk percutaneous coronary interventions: a randomized trial",
-    "link": "https://doi.org/10.1093/eurheartj/ehag520",
-    "doi": "10.1093/eurheartj/ehag520",
-    "journal": "European Heart Journal",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785283200.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "One\u2010Year Outcomes of High\u2010Risk Percutaneous Coronary Interventions With Versus Without Mechanical Circulatory Support: Propensity Score\u2010Matched Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70749?af=R",
-    "doi": "10.1002/ccd.70749",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 28, 2026",
-    "date_ts": 1785223105.0,
-    "tags": [
-      "PCI",
-      "Devices"
     ],
     "hot": false
   }
