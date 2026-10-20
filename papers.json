@@ -1,5 +1,65 @@
 [
   {
+    "title": "The Future in the Room: TAVR, Surgery, and the Tyranny of the Now",
+    "link": "https://doi.org/10.1161/circulationaha.126.080256",
+    "doi": "10.1161/circulationaha.126.080256",
+    "journal": "Circulation",
+    "date": "Oct 20, 2026",
+    "date_ts": 1792454400.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Anatomy\u2010Driven Transcatheter Edge\u2010to\u2010Edge Repair of the Systemic Atrioventricular Valve in Complex Transposition Anatomy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70953?af=R",
+    "doi": "10.1002/ccd.70953",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 19, 2026",
+    "date_ts": 1792392437.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Trans\u2010Patch Retrograde Re\u2010Entry During Hybrid Revascularization of an External Iliac Artery Chronic Total Occlusion: A Technical Note and Review of Re\u2010Entry Strategies",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70937?af=R",
+    "doi": "10.1002/ccd.70937",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 19, 2026",
+    "date_ts": 1792388334.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Additive Value of Acetylcholine Testing in ANOCA: A US\u2010Based Multicenter FlowLab Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70947?af=R",
+    "doi": "10.1002/ccd.70947",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 19, 2026",
+    "date_ts": 1792388211.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "ICare-FASTER (Improving Care by Faster Risk Stratification Through Use of High-Sensitivity Point-of-Care Troponin in Patients Presenting With Possible Acute Coronary Syndrome in the Emergency Department): A Stepped-Wedge Cluster-Randomized Trial",
+    "link": "https://doi.org/10.1161/circulationaha.126.080866",
+    "doi": "10.1161/circulationaha.126.080866",
+    "journal": "Circulation",
+    "date": "Oct 19, 2026",
+    "date_ts": 1792368000.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Prolonged inflation instead of a double tap: pursuing the optimal deployment strategy for the SAPIEN 3 Ultra RESILIA",
     "link": "https://doi.org/10.4244/eij-d-26-01011",
     "doi": "10.4244/eij-d-26-01011",
@@ -6018,67 +6078,6 @@
     "date_ts": 1785293579.916224,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Commissural Alignment of Transcatheter Aortic Valves With a Novel Implantation Technique",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015554?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916195,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Acute Vessel Thrombosis Following Primary Coronary Angioplasty With Drug-Coated Balloon: The Importance of Optimal Antiplatelet Therapy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826007764?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916162,
-    "tags": [
-      "PCI",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intravascular Lithotripsy\u2013Assisted Subintimal Plaque Modification: A Novel Strategy for Managing Burr Entrapment",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826010198?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916123,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Guiding-Induced Wire Bias at the Ostial Circumflex: When IVUS Lies",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015529?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916094,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Tip Detection Retrograde Dissection and Re-Entry: A Novel Technique for CTO PCI",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826015499?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916062,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
