@@ -1,5 +1,53 @@
 [
   {
+    "title": "Catheter\u2010Directed Interventional Devices for Pulmonary Embolism: A Maude Database Analysis of Adverse Events",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70948?af=R",
+    "doi": "10.1002/ccd.70948",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 21, 2026",
+    "date_ts": 1792561179.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Application of Four Frailty Assessment Tools in Elderly Patients With Coronary Heart Disease PCI and Its Relationship With Quality of Life",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70936?af=R",
+    "doi": "10.1002/ccd.70936",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 21, 2026",
+    "date_ts": 1792561001.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Correction: Fifth Universal Definition of Myocardial Infarction (2026): On behalf of the Joint European Society of Cardiology (ESC)/American College of Cardiology (ACC)/American Heart Association (AHA)/World Heart Federation (WHF) Task Force for the Universal Definition of Myocardial InfarctionEndorsed by the European Association for Cardio-Thoracic Surgery (EACTS) and the Society of Thoracic Surgeons (STS)Affirmation of Value by the Society for Cardiovascular Angiography and Interventions (SCAI)",
+    "link": "https://doi.org/10.1093/eurheartj/ehag811",
+    "doi": "10.1093/eurheartj/ehag811",
+    "journal": "European Heart Journal",
+    "date": "Oct 21, 2026",
+    "date_ts": 1792540800.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of inflammation in patients with controlled standard modifiable risk factors (SMuRFs) undergoing percutaneous coronary intervention",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328418",
+    "doi": "10.1136/heartjnl-2026-328418",
+    "journal": "Heart (BMJ)",
+    "date": "Oct 21, 2026",
+    "date_ts": 1792540800.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Operator-level variation in the extensiveness of percutaneous coronary intervention for acute coronary syndrome",
     "link": "https://doi.org/10.1136/heartjnl-2026-328239",
     "doi": "10.1136/heartjnl-2026-328239",
@@ -6031,54 +6079,6 @@
     "tags": [
       "Structural",
       "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reducing the Risk of Thrombotic Complications Following Valve-in-Valve TAVR: What Evidence Do We Need?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018388?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916378,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Aortic Annulus Size on Outcomes After Aortic Valve Replacement: The PARTNER 3 Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018248?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.91634,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Balloon-Expandable Transcatheter Heart Valve Hemodynamic Parameters: Time to Reconsider What They Mean",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601825X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916287,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Coronary Sinus Reducer on Coronary Microcirculation in Refractory Angina",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018261?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916253,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
