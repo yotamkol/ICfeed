@@ -1,5 +1,43 @@
 [
   {
+    "title": "Role for Factor XIa Inhibitors after an Acute Coronary Syndrome Event",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2612343?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMe2612343",
+    "journal": "NEJM",
+    "date": "Oct 23, 2026",
+    "date_ts": 1792727887.7896,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "IVUS-Guided PCI in Left Main Coronary Disease",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2609433?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2609433",
+    "journal": "NEJM",
+    "date": "Oct 23, 2026",
+    "date_ts": 1792727887.789483,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "One\u2010Year Clinical Outcomes of Paclitaxel\u2010Coated Balloon Angioplasty in Patients With and Without Acute Coronary Syndrome: The ALLIANCE Registry",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70952?af=R",
+    "doi": "10.1002/ccd.70952",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 22, 2026",
+    "date_ts": 1792653084.0,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Catheter\u2010Directed Interventional Devices for Pulmonary Embolism: A Maude Database Analysis of Adverse Events",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70948?af=R",
     "doi": "10.1002/ccd.70948",
@@ -6042,43 +6080,6 @@
     "date_ts": 1785293579.916503,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Timing of Bleeding and Ischemic Events in High\u2013Bleeding Risk Patients Treated With 1-Month DAPT",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018315?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916468,
-    "tags": [
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Missing Dimension of Risk: From High-Risk Patients to High-Risk Periods",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018327?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916438,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Trends and Outcomes of Antithrombotic Strategies for Valve-in-Valve TAVR: The STS/ACC TVT Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018303?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916408,
-    "tags": [
-      "Structural",
-      "Pharmacology"
     ],
     "hot": false
   }
