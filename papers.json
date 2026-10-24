@@ -1,5 +1,77 @@
 [
   {
+    "title": "Intact En Bloc Percutaneous Extraction of a Chronically Implanted Aorto-Ostial Right Coronary Artery Stent",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826022958?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Oct 24, 2026",
+    "date_ts": 1792813942.926549,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "One-Lung Ventilation to Facilitate Transcatheter Tricuspid Edge-to-Edge Repair Under Transesophageal Echocardiographic Imaging",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826021795?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Oct 24, 2026",
+    "date_ts": 1792813942.926513,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "First Experience of a New Transfemoral Transcatheter Mitral Valve Replacement System",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826024246?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Oct 24, 2026",
+    "date_ts": 1792813942.926474,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prehabilitation of Patients With Severe Tricuspid Regurgitation Before Transcatheter Edge-to-Edge Repair",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826019643?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Oct 24, 2026",
+    "date_ts": 1792813942.92643,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Feasibility and Restenosis Predictors of Optical Frequency Domain Imaging-Guided Drug-Coated Balloon Treatment for Femoropopliteal Lesions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826024040?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Oct 24, 2026",
+    "date_ts": 1792813942.926251,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Infective endocarditis after transcatheter aortic valve replacement in patients receiving dialysis: risks, outcomes and management",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328856",
+    "doi": "10.1136/heartjnl-2026-328856",
+    "journal": "Heart (BMJ)",
+    "date": "Oct 23, 2026",
+    "date_ts": 1792713600.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Role for Factor XIa Inhibitors after an Acute Coronary Syndrome Event",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2612343?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMe2612343",
@@ -6008,78 +6080,6 @@
     "date_ts": 1785293579.916685,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Retrograde CTO PCI via Epicardial Collaterals: Techniques, Tools, and Risk Mitigation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018236?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916656,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Multidomain Lifestyle Intervention for Invasively Confirmed ANOCA: The SAMCRO Randomized Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018212?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916626,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Another Win for Lifestyle Medicine: Cardiac Rehabilitation\u2013Based Therapy for ANOCA",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018297?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916593,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "SGLT2 Inhibitor on Infarct Size and LV Remodeling by CMR in Patients With AMI",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826013233?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916564,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Why Post-MI CMR Needs a New Toolkit: PRESTIGE-AMI and the Case for Multiparametric CMR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826014135?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916534,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Drug-Coated Balloons in CTO PCI: Stentless When Feasible, Stent-Sparing When Necessary",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018352?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916503,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
