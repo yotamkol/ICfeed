@@ -1,5 +1,31 @@
 [
   {
+    "title": "Complete, But Not All at Once: Older Adults and Timing of Nonculprit Revascularization in STEMI",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826024222?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Oct 25, 2026",
+    "date_ts": 1792900277.017613,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Immediate Complete Revascularization During Index Admission in Older Patients With ST-Segment Elevation Myocardial Infarction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S193687982602426X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Oct 25, 2026",
+    "date_ts": 1792900277.017454,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Intact En Bloc Percutaneous Extraction of a Chronically Implanted Aorto-Ostial Right Coronary Artery Stent",
     "link": "https://www.sciencedirect.com/science/article/pii/S1936879826022958?dgcid=rss_sd_all",
     "doi": null,
@@ -6056,30 +6082,6 @@
     "date_ts": 1785233408.0,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Calcified Plaque Detachment: Alternative Calcified Plaque Modification After Coronary Intravascular Lithotripsy",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70764?af=R",
-    "doi": "10.1002/ccd.70764",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 28, 2026",
-    "date_ts": 1785233253.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018911?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785293579.916685,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
