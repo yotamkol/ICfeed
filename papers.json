@@ -1,5 +1,17 @@
 [
   {
+    "title": "Fifth Universal Definition of Myocardial Infarction and an update on lipoprotein(a) and inflammation",
+    "link": "https://doi.org/10.1093/eurheartj/ehag840",
+    "doi": "10.1093/eurheartj/ehag840",
+    "journal": "European Heart Journal",
+    "date": "Oct 21, 2026",
+    "date_ts": 1792540800.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "Complete, But Not All at Once: Older Adults and Timing of Nonculprit Revascularization in STEMI",
     "link": "https://www.sciencedirect.com/science/article/pii/S1936879826024222?dgcid=rss_sd_all",
     "doi": null,
@@ -6070,18 +6082,6 @@
     "date_ts": 1785239009.0,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Procedural and Long\u2010Term Outcomes of Percutaneous Coronary Intervention for In\u2010Stent Chronic Total Occlusion",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70772?af=R",
-    "doi": "10.1002/ccd.70772",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 28, 2026",
-    "date_ts": 1785233408.0,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
