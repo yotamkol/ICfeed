@@ -1,5 +1,66 @@
 [
   {
+    "title": "A randomised non-inferiority trial of CCTA guidance versus IVUS guidance for PCI: rationale and design of the P4 clinical trial",
+    "link": "https://doi.org/10.4244/eij-d-26-00924",
+    "doi": "10.4244/eij-d-26-00924",
+    "journal": "EuroIntervention",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardiac Allograft Vasculopathy Demonstrated by Coronary Angiography and Histopathological Correlates",
+    "link": "https://doi.org/10.1161/circulationaha.126.082229",
+    "doi": "10.1161/circulationaha.126.082229",
+    "journal": "Circulation",
+    "date": "Oct 27, 2026",
+    "date_ts": 1793059200.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Optimizing US Prehospital Care of ST-Segment\u2013Elevation Myocardial Infarction Because Time Is Life, Not Just Muscle",
+    "link": "https://doi.org/10.1161/circulationaha.126.081889",
+    "doi": "10.1161/circulationaha.126.081889",
+    "journal": "Circulation",
+    "date": "Oct 27, 2026",
+    "date_ts": 1793059200.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Price Variation in Outpatient Percutaneous Coronary Intervention",
+    "link": "https://doi.org/10.1161/circulationaha.126.081539",
+    "doi": "10.1161/circulationaha.126.081539",
+    "journal": "Circulation",
+    "date": "Oct 27, 2026",
+    "date_ts": 1793059200.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Evaluation of CardiaZn Pediatric Biodegradable Stent in a Long\u2010Term Animal Model",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70951?af=R",
+    "doi": "10.1002/ccd.70951",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 26, 2026",
+    "date_ts": 1792991699.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Fifth Universal Definition of Myocardial Infarction and an update on lipoprotein(a) and inflammation",
     "link": "https://doi.org/10.1093/eurheartj/ehag840",
     "doi": "10.1093/eurheartj/ehag840",
@@ -6020,68 +6081,6 @@
     "date_ts": 1785289101.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stepwise Percutaneous Management of a Giant Coronary Pseudoaneurysm",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70769?af=R",
-    "doi": "10.1002/ccd.70769",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785287993.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Multimodality Intravascular Imaging Guidance (NIRS\u2013IVUS\u2013OCT) Compared to Angiography\u2010Guided Percutaneous Coronary Intervention in Patients With Acute Myocardial Infarction: The NIRVUS Trial",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70765?af=R",
-    "doi": "10.1002/ccd.70765",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785286536.0,
-    "tags": [
-      "ACS",
-      "PCI",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Management of a Mitral Paravalvular Leak and an Adjacent Large Left Ventricular Pseudoaneurysm Using a Covered Stent\u2014Nitinol Occluder Combination",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70777?af=R",
-    "doi": "10.1002/ccd.70777",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785286446.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparative environmental life cycle assessment between transfemoral transcatheter aortic valve implantation and isolated surgical aortic valve replacement",
-    "link": "https://doi.org/10.1136/heartjnl-2026-328011",
-    "doi": "10.1136/heartjnl-2026-328011",
-    "journal": "Heart (BMJ)",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785283200.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Balloon Rupture During Myval TAVI: A Rare Complication and Successful Bailout Strategy",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70778?af=R",
-    "doi": "10.1002/ccd.70778",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Jul 28, 2026",
-    "date_ts": 1785239009.0,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
