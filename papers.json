@@ -1,5 +1,29 @@
 [
   {
+    "title": "Acute Coronary Occlusion in Patient With Congenitally Corrected Transposition of the Great Arteries\u2014Wiring Towards the Unknown",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70960?af=R",
+    "doi": "10.1002/ccd.70960",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 28, 2026",
+    "date_ts": 1793173869.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Future of Coronary Interventions",
+    "link": "https://doi.org/10.1001/jamacardio.2026.4569",
+    "doi": "10.1001/jamacardio.2026.4569",
+    "journal": "JAMA Cardiology",
+    "date": "Oct 28, 2026",
+    "date_ts": 1793145600.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Manipulation of ER\u2013mitochondria interactions with mitofusin modulators reduces cardiac damage during myocardial infarction in mice",
     "link": "https://www.nature.com/articles/s44161-026-00903-6",
     "doi": "10.1038/s44161-026-00903-6",
@@ -6054,31 +6078,6 @@
     "date_ts": 1785819929.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Issue Information",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70779?af=R",
-    "doi": "10.1002/ccd.70779",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 03, 2026",
-    "date_ts": 1785774720.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hospital\u2010Level Variations in Outcomes and Readmissions Among Patients With STEMI and Cardiogenic Shock Receiving Mechanical Circulatory Support: Insights From a National Cohort",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70782?af=R",
-    "doi": "10.1002/ccd.70782",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 03, 2026",
-    "date_ts": 1785756945.0,
-    "tags": [
-      "ACS",
-      "Devices"
     ],
     "hot": false
   }
