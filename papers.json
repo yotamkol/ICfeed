@@ -1,5 +1,65 @@
 [
   {
+    "title": "Sirolimus-Coated Balloon Angioplasty for Infrainguinal Artery Disease",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2611610?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2611610",
+    "journal": "NEJM",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793336266.167077,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Great debate: a dual biomarker strategy improves the triage of patients with suspected acute coronary syndrome",
+    "link": "https://doi.org/10.1093/eurheartj/ehag090",
+    "doi": "10.1093/eurheartj/ehag090",
+    "journal": "European Heart Journal",
+    "date": "Oct 29, 2026",
+    "date_ts": 1793232000.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Triple Wire Dual Angioseal Technique for Large Bore Femoral Access Closure",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70958?af=R",
+    "doi": "10.1002/ccd.70958",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 28, 2026",
+    "date_ts": 1793189595.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Snare\u2010Assisted Retrieval of a Mechanically Locked\u2010Open TEER Device: A Novel Bailout Technique",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70957?af=R",
+    "doi": "10.1002/ccd.70957",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 28, 2026",
+    "date_ts": 1793189021.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "OCT\u2011Detected Endocardial Abnormality and Minimal Tunnel Area in Patients With Patent Foramen Ovale: Associations With Thrombus Formation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70882?af=R",
+    "doi": "10.1002/ccd.70882",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 28, 2026",
+    "date_ts": 1793188825.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Acute Coronary Occlusion in Patient With Congenitally Corrected Transposition of the Great Arteries\u2014Wiring Towards the Unknown",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70960?af=R",
     "doi": "10.1002/ccd.70960",
@@ -6018,66 +6078,6 @@
     "date_ts": 1785888000.0,
     "tags": [
       "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Balancing Circulatory Support and Ventricular Unloading in Post\u2010Infarction Ventricular Septal Perforation: A Computational Analysis of ECPELLA Support Configurations",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70793?af=R",
-    "doi": "10.1002/ccd.70793",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 04, 2026",
-    "date_ts": 1785849605.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Combination of the Slipstream and the TD\u2010ADR Techniques: An Effective and Safe Strategy for Precision Recanalization of Complex Chronic Total Occlusions",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70744?af=R",
-    "doi": "10.1002/ccd.70744",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 04, 2026",
-    "date_ts": 1785849398.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Integrating HEART Score and Early CT Coronary Angiography in a Chest Pain Hot Clinic\u2014A Safe Alternative to Inpatient Care From UK Tertiary Center Experience",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70780?af=R",
-    "doi": "10.1002/ccd.70780",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 04, 2026",
-    "date_ts": 1785849288.0,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First, Do No Harm: Implications of CHIP\u2010BCIS3 for Interventional Cardiology Training",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70795?af=R",
-    "doi": "10.1002/ccd.70795",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 04, 2026",
-    "date_ts": 1785848779.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First Report of Kounis Syndrome after Zopiclone\u2014When Morpheus Misfires",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70801?af=R",
-    "doi": "10.1002/ccd.70801",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 04, 2026",
-    "date_ts": 1785819929.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
