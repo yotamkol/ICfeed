@@ -1,5 +1,53 @@
 [
   {
+    "title": "Challenges in Becoming a Congenital Interventional Cardiologist in Europe",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70959?af=R",
+    "doi": "10.1002/ccd.70959",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793349382.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Weekly Journal Scan: rethinking factor XIa inhibition after acute coronary syndromes",
+    "link": "https://doi.org/10.1093/eurheartj/ehag863",
+    "doi": "10.1093/eurheartj/ehag863",
+    "journal": "European Heart Journal",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793318400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Systemic Hypertension and Survival in Pulmonary Hypertension",
+    "link": "https://doi.org/10.1001/jamacardio.2026.4834",
+    "doi": "10.1001/jamacardio.2026.4834",
+    "journal": "JAMA Cardiology",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793318400.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Baseline gradient, valve morphology and left ventricular recovery and survival after TAVR in reduced-ejection-fraction aortic stenosis: a retrospective cohort study",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328646",
+    "doi": "10.1136/heartjnl-2026-328646",
+    "journal": "Heart (BMJ)",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793318400.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Sirolimus-Coated Balloon Angioplasty for Infrainguinal Artery Disease",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2611610?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMc2611610",
@@ -6029,55 +6077,6 @@
     "date_ts": 1785908905.0,
     "tags": [
       "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ischemic Heart Disease in G20 Countries: Forecasted Burden and Regional Disparities Based on GBD 2023 Estimates",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70783?af=R",
-    "doi": "10.1002/ccd.70783",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 05, 2026",
-    "date_ts": 1785908874.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Does Maximum Troponin T Value Correlate With Acute Coronary Occlusion Among Patients Treated as NSTEMI?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70802?af=R",
-    "doi": "10.1002/ccd.70802",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 05, 2026",
-    "date_ts": 1785908269.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Aspirin-free P2Y12 inhibitor monotherapy post-stenting in acute coronary syndromes",
-    "link": "https://doi.org/10.1093/eurheartj/ehag620",
-    "doi": "10.1093/eurheartj/ehag620",
-    "journal": "European Heart Journal",
-    "date": "Aug 05, 2026",
-    "date_ts": 1785888000.0,
-    "tags": [
-      "ACS",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hydroxychloroquine-associated myocardial injury in systemic lupus erythematosus: cardiac MRI and histologic findings",
-    "link": "https://doi.org/10.1093/eurheartj/ehag580",
-    "doi": "10.1093/eurheartj/ehag580",
-    "journal": "European Heart Journal",
-    "date": "Aug 05, 2026",
-    "date_ts": 1785888000.0,
-    "tags": [
-      "ACS"
     ],
     "hot": false
   }
