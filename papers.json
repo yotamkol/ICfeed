@@ -1,5 +1,54 @@
 [
   {
+    "title": "Transcatheter Aortic Valve Replacement in Pure Aortic Regurgitation: The Randomized SEASON-AR Clinical Trial",
+    "link": "https://doi.org/10.1161/circulationaha.126.082827",
+    "doi": "10.1161/circulationaha.126.082827",
+    "journal": "Circulation",
+    "date": "Oct 31, 2026",
+    "date_ts": 1793404800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Diagnostic Performance of a Dual Sensor System in Assessment of Coronary Calcification: An Ex Vivo Cadaveric Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70964?af=R",
+    "doi": "10.1002/ccd.70964",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793376091.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous Removal of Cement Extending to the Right Atrium and Causing Pulmonary Embolism After Percutaneous Vertebroplasty: A Case Report",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70967?af=R",
+    "doi": "10.1002/ccd.70967",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793350278.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "IVUS\u2010Guided Dobutamine Challenge to Guide Anomalous RCA PCI: An Interesting Case Report",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70965?af=R",
+    "doi": "10.1002/ccd.70965",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793349908.0,
+    "tags": [
+      "PCI",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "Challenges in Becoming a Congenital Interventional Cardiologist in Europe",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70959?af=R",
     "doi": "10.1002/ccd.70959",
@@ -6029,54 +6078,6 @@
     "date_ts": 1785929940.0,
     "tags": [
       "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Validation of an Automated Artificial Intelligence\u2010Driven Planner for Transcatheter Aortic Valve Replacement",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70785?af=R",
-    "doi": "10.1002/ccd.70785",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 05, 2026",
-    "date_ts": 1785929662.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First\u2010in\u2010Human Use of a Novel Perfusion\u2010Channel Drug\u2010Coated Balloon to Manage Coronary Artery Perforation During Chronic Total Occlusion Intervention: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70788?af=R",
-    "doi": "10.1002/ccd.70788",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 05, 2026",
-    "date_ts": 1785915429.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Type 2 Diabetes Mellitus on Outcomes Following Transcatheter Aortic Valve Replacement: Insights From a Contemporary US Database",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70786?af=R",
-    "doi": "10.1002/ccd.70786",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 05, 2026",
-    "date_ts": 1785914600.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stent Underexpansion Prediction Is Improved by Intravascular Ultrasound\u2010Based Distance\u2010Averaged Calcium Angles",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70804?af=R",
-    "doi": "10.1002/ccd.70804",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 05, 2026",
-    "date_ts": 1785908905.0,
-    "tags": [
-      "Imaging"
     ],
     "hot": false
   }
