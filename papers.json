@@ -1,5 +1,53 @@
 [
   {
+    "title": "TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607326?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMoa2607326",
+    "journal": "NEJM",
+    "date": "Nov 04, 2026",
+    "date_ts": 1793770127.663847,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "3-Year Comparison of Sirolimus- Versus Paclitaxel-Coated Balloon Angioplasty in Femoropopliteal Artery Disease: The SIRONA Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826029316?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Nov 04, 2026",
+    "date_ts": 1793770126.913583,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Covered\u2010Stent Migration During Same\u2010Session Aortic Isthmus Repair and Bicuspid Aortic Valve TAVR",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70962?af=R",
+    "doi": "10.1002/ccd.70962",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 03, 2026",
+    "date_ts": 1793688269.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Efficacy and Safety of Routine Postdilation in Balloon-Expandable Transcatheter Aortic Valve Implantation Platform",
+    "link": "https://doi.org/10.1001/jamacardio.2026.5260",
+    "doi": "10.1001/jamacardio.2026.5260",
+    "journal": "JAMA Cardiology",
+    "date": "Nov 03, 2026",
+    "date_ts": 1793664000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Coronary CT Angiography versus Intravascular Ultrasound Guidance for PCI",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610771?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMoa2610771",
@@ -6049,54 +6097,6 @@
     "tags": [
       "ACS",
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "2-Year Patient-Centered and Clinical Outcomes of Sirolimus- Versus Paclitaxel-Coated Balloon Angioplasty in Femoropopliteal Artery Disease",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826019801?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787707679.68341,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The SIRONA Study: Equivalence Achieved, Questions Remaining",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826019783?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787707679.683378,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reduced Blood Pressure Following Radiofrequency Renal Denervation in High Cardiovascular Risk Patients: The SPYRAL AFFIRM Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826019692?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787707679.683347,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First-in-Human Experience With a Novel Pressure-Controlled, Flow-Regulating Extracorporeal Limb Perfusion Device",
-    "link": "https://www.sciencedirect.com/science/article/pii/S193687982601976X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787707679.683307,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
