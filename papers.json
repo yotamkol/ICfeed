@@ -1,5 +1,17 @@
 [
   {
+    "title": "Transcatheter aortic valve implantation vs surgical replacement in low-risk aortic stenosis: time-dependent late mortality in a pooled analysis of trials",
+    "link": "https://doi.org/10.1093/eurheartj/ehag877",
+    "doi": "10.1093/eurheartj/ehag877",
+    "journal": "European Heart Journal",
+    "date": "Nov 04, 2026",
+    "date_ts": 1793750400.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607326?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMoa2607326",
@@ -6081,19 +6093,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "Aug 26, 2026",
     "date_ts": 1787707679.683464,
-    "tags": [
-      "ACS",
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Practical Approaches to Optimize Procedural Technique for Primary PCI",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020212?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787707679.683439,
     "tags": [
       "ACS",
       "PCI"
