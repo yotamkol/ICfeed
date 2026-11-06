@@ -1,5 +1,101 @@
 [
   {
+    "title": "A multi-view video-text foundation model for invasive coronary angiography interpretation and risk prediction",
+    "link": "https://www.nature.com/articles/s44161-026-00911-6",
+    "doi": "10.1038/s44161-026-00911-6",
+    "journal": "Nature Cardiovasc Res",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793943899.823302,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Articles] Performance of 0/1 h versus 0/3 h pathways in patients with suspected myocardial infarction: a systematic review and individual participant data meta-analysis of randomised controlled trials",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01767-8/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)01767-8",
+    "journal": "Lancet",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793943899.658903,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Articles] Safety and efficacy of the 0/1 h pathway for myocardial infarction in the emergency department: an international, pragmatic, stepped-wedge, cluster-randomised, controlled trial",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01654-5/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)01654-5",
+    "journal": "Lancet",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793943899.65886,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "[Comment] Faster troponin, same time in the emergency department: what is next for acute coronary syndrome assessment?",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02097-0/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)02097-0",
+    "journal": "Lancet",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793943899.658675,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "From Detection to Action in Computed Tomographic Coronary Angiography",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2612237?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMe2612237",
+    "journal": "NEJM",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793943899.244022,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Angiography-Based Physiological Assessment to Guide Revascularization",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2610113?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2610113",
+    "journal": "NEJM",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793943899.243923,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Coronary angiography in heart transplants from donors older than 40: a Eurotransplant study",
+    "link": "https://doi.org/10.1093/eurheartj/ehag815",
+    "doi": "10.1093/eurheartj/ehag815",
+    "journal": "European Heart Journal",
+    "date": "Nov 05, 2026",
+    "date_ts": 1793836800.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left ventricular outflow tract obstruction in transcatheter mitral interventions: percutaneous anterior leaflet modification",
+    "link": "https://doi.org/10.1093/eurheartj/ehag837",
+    "doi": "10.1093/eurheartj/ehag837",
+    "journal": "European Heart Journal",
+    "date": "Nov 05, 2026",
+    "date_ts": 1793836800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Transcatheter aortic valve implantation vs surgical replacement in low-risk aortic stenosis: time-dependent late mortality in a pooled analysis of trials",
     "link": "https://doi.org/10.1093/eurheartj/ehag877",
     "doi": "10.1093/eurheartj/ehag877",
@@ -5999,103 +6095,6 @@
     "tags": [
       "PCI",
       "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020923?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787707679.683643,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Outcomes of Supra-Annular vs Intra-Annular Self-Expanding Valves in Valve-In-Valve Transcatheter Aortic Valve Replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020194?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787707679.683617,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Beyond Gradients: Rethinking Procedural Success in Valve-in-Valve TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020182?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787707679.683593,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Redo\u2013Transcatheter Aortic Valve Replacement With Self-Expanding Valves: A U.S. Registry Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020558?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787707679.683564,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Redo-TAVR With Evolut: The Second Valve Is Only Half the Story",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020583?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787707679.683542,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Myocardial Bridges on Long-Term Outcomes After Left Anterior Descending Chronic Total Occlusion Recanalization",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826019771?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787707679.683516,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Myocardial Bridge and LAD CTO PCI: Incidental Observation or Procedural Landmark?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020170?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787707679.683491,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Rapid Inflation-Deflation vs Pressure-Optimized Stenting During Primary PCI: The RAPID-POP Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020236?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787707679.683464,
-    "tags": [
-      "ACS",
-      "PCI"
     ],
     "hot": false
   }
