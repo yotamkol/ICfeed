@@ -1,5 +1,125 @@
 [
   {
+    "title": "Acute Myocardial Infarction in Anomalous Right Coronary Artery: Anatomy, Atherosclerosis, and the Question of Causality",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70975?af=R",
+    "doi": "10.1002/ccd.70975",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793951433.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comment on \u201cFive\u2010Year Clinical Outcomes of Biodegradable Versus Durable Polymer Drug\u2010Eluting Stents\u201d",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70990?af=R",
+    "doi": "10.1002/ccd.70990",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793950396.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Beyond the Left Main Treatment Decision",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70973?af=R",
+    "doi": "10.1002/ccd.70973",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793949857.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Beyond Late Lumen Loss in Medina 0.0.1 Lesions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70988?af=R",
+    "doi": "10.1002/ccd.70988",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793949709.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Abstract 10435: Right Atrial Volume Index Improves Risk Stratification for New-Onset Atrial Fibrillation After Acute Myocardial Infarction",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.10435",
+    "doi": "10.1161/circ.154.suppl_1.10435",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Abstract 11213: Adding Left Ventricular Unloading with Impella to Venoarterial Extracorporeal Membrane Oxygenation in Cardiogenic Shock: Infection Risk and Mortality",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.11213",
+    "doi": "10.1161/circ.154.suppl_1.11213",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Abstract 10333: Multi-Outcome Phenotyping Identifies Systemic Vulnerability Profiles Associated with Non-Cardiac Death in Heart Failure",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.10333",
+    "doi": "10.1161/circ.154.suppl_1.10333",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Abstract 15890: Steroids In caRdiac Surgery (SIRS) Trial: Cardiogenic Shock Substudy",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.15890",
+    "doi": "10.1161/circ.154.suppl_1.15890",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Abstract 10812: Disparities in Aortic Stenosis-Related Mortality During Transcatheter Aortic Valve Replacement Expansion in the United States, 1999-2024",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.10812",
+    "doi": "10.1161/circ.154.suppl_1.10812",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Abstract 17080: Renin-Angiotensin System Inhibitors Following Transcatheter Aortic Valve Replacement: A Propensity Score-Matched Analysis",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.17080",
+    "doi": "10.1161/circ.154.suppl_1.17080",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "A multi-view video-text foundation model for invasive coronary angiography interpretation and risk prediction",
     "link": "https://www.nature.com/articles/s44161-026-00911-6",
     "doi": "10.1038/s44161-026-00911-6",
@@ -5972,129 +6092,6 @@
     "date_ts": 1787802414.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Crossing an Angulated SVG\u2013RCA Anastomosis Using Distal Anchoring and Guide Extension: A Bailout Strategy in STEMI",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70834?af=R",
-    "doi": "10.1002/ccd.70834",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787722819.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Aerobic exercise attenuates peri-infarct fibrosis and improves fitness early after acute myocardial infarction: a randomized trial",
-    "link": "https://doi.org/10.1093/eurheartj/ehag651",
-    "doi": "10.1093/eurheartj/ehag651",
-    "journal": "European Heart Journal",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787702400.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Beyond temporal modulation: toward biologically tailored antiplatelet therapy after PCI",
-    "link": "https://doi.org/10.1093/eurheartj/ehag661",
-    "doi": "10.1093/eurheartj/ehag661",
-    "journal": "European Heart Journal",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787702400.0,
-    "tags": [
-      "PCI",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "In search of the right target for tailored antiplatelet therapy after Complex PCI",
-    "link": "https://doi.org/10.1093/eurheartj/ehag662",
-    "doi": "10.1093/eurheartj/ehag662",
-    "journal": "European Heart Journal",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787702400.0,
-    "tags": [
-      "PCI",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The vagus nerve in myocardial infarction",
-    "link": "https://doi.org/10.1093/eurheartj/ehag674",
-    "doi": "10.1093/eurheartj/ehag674",
-    "journal": "European Heart Journal",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787702400.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bleeding and Stroke Prevention After Left Atrial Appendage Occlusion",
-    "link": "https://doi.org/10.1001/jamacardio.2026.3005",
-    "doi": "10.1001/jamacardio.2026.3005",
-    "journal": "JAMA Cardiology",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787702400.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Atrial Appendage Occlusion vs Oral Anticoagulation\u2014No Free Lunch",
-    "link": "https://doi.org/10.1001/jamacardio.2026.3078",
-    "doi": "10.1001/jamacardio.2026.3078",
-    "journal": "JAMA Cardiology",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787702400.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Catheter-Based Left Atrial Appendage Closure vs Oral Anticoagulation in Patients With Atrial Fibrillation",
-    "link": "https://doi.org/10.1001/jamacardio.2026.2640",
-    "doi": "10.1001/jamacardio.2026.2640",
-    "journal": "JAMA Cardiology",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787702400.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bleeding and Stroke Prevention After Left Atrial Appendage Occlusion\u2014Reply",
-    "link": "https://doi.org/10.1001/jamacardio.2026.3008",
-    "doi": "10.1001/jamacardio.2026.3008",
-    "journal": "JAMA Cardiology",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787702400.0,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Optical coherence tomography-guided percutaneous coronary intervention in multivessel coronary disease with complex lesions",
-    "link": "https://doi.org/10.1136/heartjnl-2026-328499",
-    "doi": "10.1136/heartjnl-2026-328499",
-    "journal": "Heart (BMJ)",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787702400.0,
-    "tags": [
-      "PCI",
-      "Imaging"
     ],
     "hot": false
   }
