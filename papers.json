@@ -1,5 +1,116 @@
 [
   {
+    "title": "14-Year Serial Optical Frequency Domain Imaging After Absorb Bioresorbable Vascular Scaffold Implantation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826025380?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794114700.872798,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous Pulmonary Thrombectomy for Massive Fat Embolism Syndrome Following Abdominoplasty: The Dark Side of Esthetic Surgery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826025367?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Cardiovasc Interventions",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794114700.872605,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Multimodality Cardiac Imaging Substudy of the DAPT-SHOCK-AMI Randomized Trial: Echocardiographic and Cardiac Magnetic Resonance Assessment of Cangrelor versus Crushed Ticagrelor in Cardiogenic Shock Complicating Acute Myocardial Infarction",
+    "link": "https://doi.org/10.1161/circulationaha.126.083929",
+    "doi": "10.1161/circulationaha.126.083929",
+    "journal": "Circulation",
+    "date": "Nov 07, 2026",
+    "date_ts": 1794009600.0,
+    "tags": [
+      "ACS",
+      "Devices",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Can Intravenous Cangrelor Protect the Myocardium in Infarction-related Cardiogenic Shock?",
+    "link": "https://doi.org/10.1161/circulationaha.126.084421",
+    "doi": "10.1161/circulationaha.126.084421",
+    "journal": "Circulation",
+    "date": "Nov 07, 2026",
+    "date_ts": 1794009600.0,
+    "tags": [
+      "Devices",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High\u2010Risk Vasospastic Angina With Recurrent Ischemic and Arrhythmic Events: A Case Report",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70986?af=R",
+    "doi": "10.1002/ccd.70986",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793977145.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sequential Coronary Obstruction After Native TAVI: Immediate Acute Occlusion and Very Late Stent Compression by Aortic Wall Hematoma",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71006?af=R",
+    "doi": "10.1002/ccd.71006",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793977012.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "When the RotaWire Crosses but Cannot Advance: Dual\u2010Lumen Microcatheter\u2013Assisted RotaWire Delivery",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70998?af=R",
+    "doi": "10.1002/ccd.70998",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793976717.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous Rescue of Acute Left Ventricular Outflow Tract Obstruction After Mitral Valve\u2010In\u2010Valve Replacement",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70995?af=R",
+    "doi": "10.1002/ccd.70995",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793976417.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Abstract 13515: Symptom Onset-to-Invasive Coronary Angiography Time and Long-Term Mortality in Non-ST-Elevation ACS",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.13515",
+    "doi": "10.1161/circ.154.suppl_1.13515",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "Acute Myocardial Infarction in Anomalous Right Coronary Artery: Anatomy, Atherosclerosis, and the Question of Causality",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70975?af=R",
     "doi": "10.1002/ccd.70975",
@@ -5981,115 +6092,6 @@
     "journal": "JACC: Cardiovasc Interventions",
     "date": "Aug 29, 2026",
     "date_ts": 1787984415.97088,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Mortality reduction with implanted defibrillator for primary prevention of sudden death after Myocardial Infarction: temporal trends in the PROFID study",
-    "link": "https://doi.org/10.1093/eurheartj/ehag706",
-    "doi": "10.1093/eurheartj/ehag706",
-    "journal": "European Heart Journal",
-    "date": "Aug 28, 2026",
-    "date_ts": 1787875200.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Fifth Universal Definition of Myocardial Infarction (2026)",
-    "link": "https://doi.org/10.1093/eurheartj/ehag101",
-    "doi": "10.1093/eurheartj/ehag101",
-    "journal": "European Heart Journal",
-    "date": "Aug 28, 2026",
-    "date_ts": 1787875200.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Evolocumab and risk of first myocardial infarction: the VESALIUS-CV trial",
-    "link": "https://doi.org/10.1093/eurheartj/ehag739",
-    "doi": "10.1093/eurheartj/ehag739",
-    "journal": "European Heart Journal",
-    "date": "Aug 28, 2026",
-    "date_ts": 1787875200.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Phenotype-Specific Mitral Regurgitation Trajectories Following Transcatheter Aortic Valve Replacement in Low-Flow Aortic Stenosis",
-    "link": "https://doi.org/10.25270/jic/26.00155",
-    "doi": "10.25270/jic/26.00155",
-    "journal": "J Invasive Cardiology",
-    "date": "Aug 28, 2026",
-    "date_ts": 1787912423.753474,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Fifth Universal Definition of Myocardial Infarction (2026): On Behalf of the Joint European Society of Cardiology (ESC)/American College of Cardiology (ACC)/American Heart Association (AHA)/World Heart Federation (WHF) Task Force for the Universal Definition of Myocardial Infarction",
-    "link": "https://doi.org/10.1161/cir.0000000000001477",
-    "doi": "10.1161/cir.0000000000001477",
-    "journal": "Circulation",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787788800.0,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparison of Sirolimus- vs Paclitaxel-Coated Balloon Angioplasty for Femoropopliteal Artery Disease: The SIRONA Randomized Noninferiority Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725104336?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787818746.94002,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Interpreting Contemporary PCI for Diabetes and Multivessel Coronary Disease After FREEDOM",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726067732?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787818746.939804,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Post\u2010Dilatation and Risk of Complications in STEMI Patients Undergoing Primary Percutaneous Coronary Intervention: A Retrospective Cohort Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70833?af=R",
-    "doi": "10.1002/ccd.70833",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787806691.0,
-    "tags": [
-      "ACS",
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Novel Bailout for Pulsta Valve Embolization: Microporous Endograft Fixation at the SVC\u2010RA Junction in Repaired Tetralogy of Fallot With Severe Pulmonary Regurgitation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70810?af=R",
-    "doi": "10.1002/ccd.70810",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787802414.0,
     "tags": [
       "Other"
     ],
