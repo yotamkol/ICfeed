@@ -1,5 +1,18 @@
 [
   {
+    "title": "Abstract 11209: Incidence, Management and Outcomes of Cardiogenic Shock in Patients with End-Stage Renal Disease Presenting with ST-Elevation Myocardial Infarction",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.11209",
+    "doi": "10.1161/circ.154.suppl_1.11209",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "ACS",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "14-Year Serial Optical Frequency Domain Imaging After Absorb Bioresorbable Vascular Scaffold Implantation",
     "link": "https://www.sciencedirect.com/science/article/pii/S1936879826025380?dgcid=rss_sd_all",
     "doi": null,
@@ -6082,18 +6095,6 @@
     "date_ts": 1787984416.7266,
     "tags": [
       "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pre-Implant Angiography and Vascular Complications During Microaxial Flow Pump Support",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020753?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787984415.97088,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
