@@ -1,5 +1,54 @@
 [
   {
+    "title": "Creating space for a third valve: bioprosthetic valve fracture facilitating TAVI-in-TAV-in-SAV",
+    "link": "https://doi.org/10.1093/eurheartj/ehag907",
+    "doi": "10.1093/eurheartj/ehag907",
+    "journal": "European Heart Journal",
+    "date": "Nov 10, 2026",
+    "date_ts": 1794268800.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Letter by Fan et al Regarding Article, \u201cSystemic Embolic Events in Atrial Fibrillation: An Individual Patient Data Meta-Analysis of 71\u2009683 Participants Randomized to NOAC Versus Warfarin\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.080832",
+    "doi": "10.1161/circulationaha.126.080832",
+    "journal": "Circulation",
+    "date": "Nov 10, 2026",
+    "date_ts": 1794268800.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Response by Al Said et al to Letter Regarding Article, \u201cSystemic Embolic Events in Atrial Fibrillation: An Individual Patient Data Meta-Analysis of 71\u2009683 Participants Randomized to NOAC Versus Warfarin\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.081475",
+    "doi": "10.1161/circulationaha.126.081475",
+    "journal": "Circulation",
+    "date": "Nov 10, 2026",
+    "date_ts": 1794268800.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left atrial appendage closure, direct oral anticoagulants or warfarin in atrial fibrillation: a systematic review and network meta-analysis of randomised clinical trials",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328609",
+    "doi": "10.1136/heartjnl-2026-328609",
+    "journal": "Heart (BMJ)",
+    "date": "Nov 09, 2026",
+    "date_ts": 1794182400.0,
+    "tags": [
+      "Structural",
+      "Pharmacology"
+    ],
+    "hot": false
+  },
+  {
     "title": "Abstract 11209: Incidence, Management and Outcomes of Cardiogenic Shock in Patients with End-Stage Renal Disease Presenting with ST-Elevation Myocardial Infarction",
     "link": "https://doi.org/10.1161/circ.154.suppl_1.11209",
     "doi": "10.1161/circ.154.suppl_1.11209",
@@ -6045,56 +6094,6 @@
       "ACS",
       "PCI",
       "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cumulative Benefit With Evolocumab in Patients With No Prior Myocardial Infarction or Stroke in the VESALIUS-CV Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726074401?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787984416.726781,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bivalirudin Versus Heparin in Low and Non-Low Bleeding Risk Patients Undergoing Primary PCI for STEMI: The BRIGHT-4 Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726069974?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787984416.726732,
-    "tags": [
-      "ACS",
-      "PCI",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Fifth Universal Definition of Myocardial Infarction (2026)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726072487?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787984416.726676,
-    "tags": [
-      "ACS"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Addition of Computed Tomography-derived Fractional Flow Reserve in the diagnostic pathway of patients with stable coronary artery disease: the FUSION randomized controlled trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726075893?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787984416.7266,
-    "tags": [
-      "Imaging"
     ],
     "hot": false
   }
