@@ -1,5 +1,17 @@
 [
   {
+    "title": "Longitudinal Deployment Balloon Rupture With Uncomplicated Retrieval During TAVR",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71020?af=R",
+    "doi": "10.1002/ccd.71020",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 12, 2026",
+    "date_ts": 1794464208.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Short-Term Anticoagulation vs Dual Antiplatelet Therapy Following Left Atrial Appendage Closure: 1-Year Results of the ANDES Trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726101764?dgcid=rss_sd_all",
     "doi": null,
@@ -6070,18 +6082,6 @@
     "date_ts": 1788930401.0,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Edge\u2010to\u2010Edge Repair With the PASCAL Precision System: Advanced Catheter Steering Maneuvers for Mitral and Tricuspid Interventions",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70862?af=R",
-    "doi": "10.1002/ccd.70862",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Sep 08, 2026",
-    "date_ts": 1788876567.0,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
