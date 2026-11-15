@@ -1,5 +1,66 @@
 [
   {
+    "title": "Local and systemic inflammation after percutaneous coronary intervention: complementary risk signals beyond revascularization",
+    "link": "https://doi.org/10.1093/eurheartj/ehag932",
+    "doi": "10.1093/eurheartj/ehag932",
+    "journal": "European Heart Journal",
+    "date": "Nov 14, 2026",
+    "date_ts": 1794614400.0,
+    "tags": [
+      "ACS",
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Is local coronary inflammation truly superior after PCI, or is the comparison driven by revascularization endpoints?",
+    "link": "https://doi.org/10.1093/eurheartj/ehag931",
+    "doi": "10.1093/eurheartj/ehag931",
+    "journal": "European Heart Journal",
+    "date": "Nov 14, 2026",
+    "date_ts": 1794614400.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Zero\u2010Contrast Transcatheter Aortic Valve\u2010in\u2010Valve Replacement Guided by Continuous Hemodynamic Monitoring",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71010?af=R",
+    "doi": "10.1002/ccd.71010",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794564363.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Excimer Laser Coronary Atherectomy (ELCA) Utilization in Complex PCI: A Position Paper of the Italian Society of Interventional Cardiology (SICI\u2010GISE)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70976?af=R",
+    "doi": "10.1002/ccd.70976",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794564202.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Novel Double Kissing Nano Culotte Stenting for Coronary Bifurcation Lesions: A Detailed Technical Evaluation and Clinical Outcomes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71012?af=R",
+    "doi": "10.1002/ccd.71012",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794564079.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Aortic Valve Calcification and One-Year Paravalvular Leak After Transcatheter Aortic Valve Replacement: Limited Role of Asymmetry",
     "link": "https://doi.org/10.25270/jic/26.00241",
     "doi": "10.25270/jic/26.00241",
@@ -6021,66 +6082,6 @@
     "date_ts": 1789531239.072578,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reply: EuroTR Risk Score: Methodological and Clinical Considerations",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020790?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072513,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Side Branch Intervention or Not for Non Left Main Provisional Stenting: Technique Selection Matters",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020819?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072467,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Full Issue PDF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826021837?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072264,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Outcomes of Sodium Glucose Cotransporter\u20102 Inhibitors in Patients Undergoing Mitral Transcatheter Edge\u2010to\u2010Edge Repair",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70852?af=R",
-    "doi": "10.1002/ccd.70852",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Sep 15, 2026",
-    "date_ts": 1789458959.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stenting the Right, Sparing the Left: Optical Coherence Tomography\u2013Guided Management of Simultaneous Multivessel Coronary Thrombosis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70892?af=R",
-    "doi": "10.1002/ccd.70892",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Sep 15, 2026",
-    "date_ts": 1789447995.0,
-    "tags": [
-      "Imaging"
     ],
     "hot": false
   }
