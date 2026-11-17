@@ -1,5 +1,53 @@
 [
   {
+    "title": "Minimally Invasive Mitral Valve Repair: Preference Versus Evidence: A Less Invasive Surgical Approach for Mitral Valve Disease",
+    "link": "https://doi.org/10.1161/circulationaha.126.083823",
+    "doi": "10.1161/circulationaha.126.083823",
+    "journal": "Circulation",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794873600.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Minimally Invasive Mitral Valve Repair: Preference Versus Evidence",
+    "link": "https://doi.org/10.1161/circulationaha.126.080895",
+    "doi": "10.1161/circulationaha.126.080895",
+    "journal": "Circulation",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794873600.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sex\u2010Based Differences in Procedural Success and One\u2010Year\u2010Outcomes After Percutaneous Coronary Intervention for Chronic Total Occlusion",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70946?af=R",
+    "doi": "10.1002/ccd.70946",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 16, 2026",
+    "date_ts": 1794815252.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Twelve\u2010Year Follow\u2010Up Outcomes After Percutaneous Coronary Intervention for Coronary Chronic Total Occlusion",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71021?af=R",
+    "doi": "10.1002/ccd.71021",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 16, 2026",
+    "date_ts": 1794814814.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Local and systemic inflammation after percutaneous coronary intervention: complementary risk signals beyond revascularization",
     "link": "https://doi.org/10.1093/eurheartj/ehag932",
     "doi": "10.1093/eurheartj/ehag932",
@@ -6033,55 +6081,6 @@
     "date_ts": 1789531239.072724,
     "tags": [
       "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bronchial Artery Perforation From Transradial Catheterization Treated With Coil Embolization",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020698?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.07269,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Kissing Balloon Technique for a Protruded Left Main Stent During Transcatheter Aortic Valve Replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020704?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072656,
-    "tags": [
-      "PCI",
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Dual\u2011Imaging Biopsy With Angioscopy and Intracardiac Echocardiography for Cardiac Metastatic Squamous Cell Carcinoma",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020844?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072614,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "EuroTR Risk Score: Methodological and Clinical Considerations",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018674?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072578,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
