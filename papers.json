@@ -1,5 +1,65 @@
 [
   {
+    "title": "Transcatheter Aortic Valve Implantation in the Presence of Aortic Coarctation: Current Evidence and Practical Approaches",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70982?af=R",
+    "doi": "10.1002/ccd.70982",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794897074.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Stratum\u2010Level Precision and the Number Needed to Test for Platelet Fc\u03b3RIIa",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71039?af=R",
+    "doi": "10.1002/ccd.71039",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794895649.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "PFO Occluders for Residual LAA Closure: Anatomical Selection and Long\u2010Term Considerations",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71041?af=R",
+    "doi": "10.1002/ccd.71041",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794895202.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Outcomes of Mitral Transcatheter Edge\u2010to\u2010Edge Repair in Hispanic/Latino Hospitalizations: A National Inpatient Sample Analysis, 2016\u20132022",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71004?af=R",
+    "doi": "10.1002/ccd.71004",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794894574.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transulnar Access With Ipsilateral Radial Artery Occlusion for Percutaneous Coronary Procedures: Results From the ULNAR RAO Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71017?af=R",
+    "doi": "10.1002/ccd.71017",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 16, 2026",
+    "date_ts": 1794824813.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Minimally Invasive Mitral Valve Repair: Preference Versus Evidence: A Less Invasive Surgical Approach for Mitral Valve Disease",
     "link": "https://doi.org/10.1161/circulationaha.126.083823",
     "doi": "10.1161/circulationaha.126.083823",
@@ -6020,67 +6080,6 @@
     "date_ts": 1789531239.072887,
     "tags": [
       "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "TAVR for Bicuspid Aortic Stenosis: Toward a More Appropriate Comparator?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826021709?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072858,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsatile Intravascular Lithotripsy Produces Coronary Calcium Modification in Perfused Cadaveric Hearts: Micro-CT and Histological Evaluation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020686?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072824,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Outcomes of Chronic Total Occlusion Percutaneous Coronary Intervention in Patients With Prior Transcatheter Aortic Valve Replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826021692?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072794,
-    "tags": [
-      "PCI",
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "On-Call Standby Compensation and Recovery Time After Emergency Procedure: International Comparative Perspective",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826021710?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072761,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When Device Evolution Enables Strategy: RotaTripsy With Next-Generation Intravascular Lithotripsy for Diffuse Calcified In-Stent Restenosis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018650?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072724,
-    "tags": [
-      "PCI"
     ],
     "hot": false
   }
