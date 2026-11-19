@@ -1,5 +1,126 @@
 [
   {
+    "title": "Intravascular Lithotripsy vs Super-High-Pressure Noncompliant Balloons for Treatment of Calcified Coronary Lesions: The VICTORY Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726077739?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Nov 19, 2026",
+    "date_ts": 1795070215.66402,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Residual Peridevice Leak at 45-Day Transesophageal Echocardiogram After Left Atrial Appendage Occlusion",
+    "link": "https://doi.org/10.1001/jamacardio.2026.5088",
+    "doi": "10.1001/jamacardio.2026.5088",
+    "journal": "JAMA Cardiology",
+    "date": "Nov 18, 2026",
+    "date_ts": 1794960000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Nationwide transcatheter aortic valve implantation rollout and cardiac-origin out-of-hospital cardiac arrest in the elderly",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328824",
+    "doi": "10.1136/heartjnl-2026-328824",
+    "journal": "Heart (BMJ)",
+    "date": "Nov 18, 2026",
+    "date_ts": 1794960000.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous coronary intervention versus coronary artery bypass grafting in dialysis patients with three-vessel coronary artery disease: 5-year outcomes from the CREDO-Kyoto PCI/CABG registries",
+    "link": "https://doi.org/10.1136/heartjnl-2026-328588",
+    "doi": "10.1136/heartjnl-2026-328588",
+    "journal": "Heart (BMJ)",
+    "date": "Nov 18, 2026",
+    "date_ts": 1794960000.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Management and outcomes of older patients with myocardial infarction: temporal trends from SWEDEHEART registry",
+    "link": "https://doi.org/10.1136/heartjnl-2026-329070",
+    "doi": "10.1136/heartjnl-2026-329070",
+    "journal": "Heart (BMJ)",
+    "date": "Nov 18, 2026",
+    "date_ts": 1794960000.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Novel GATORS (Guide Assisted sTent hOok and Retrograde Snare) Technique for Non\u2010Engageable Ostial In\u2010Stent RCA CTO",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70997?af=R",
+    "doi": "10.1002/ccd.70997",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794934926.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Predictors and Mid\u2010Term Outcomes of Vascular Complications After Large\u2010Bore Plug\u2010Based Access\u2010Site Closure in Patients Undergoing Transfemoral TAVI: A CHOICE\u2010CLOSURE Substudy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70981?af=R",
+    "doi": "10.1002/ccd.70981",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794933947.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The CLEAR Classification for Coronary Bifurcation In\u2010Stent Restenosis: An Exploratory Cohort Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71023?af=R",
+    "doi": "10.1002/ccd.71023",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794915205.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Interpreting Risk\u2010Stratified Prognostic Value of the Triglyceride\u2013Glucose Index After Percutaneous Coronary Intervention",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71044?af=R",
+    "doi": "10.1002/ccd.71044",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794914829.0,
+    "tags": [
+      "PCI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "When the Valve Is the Dominant Lesion: Rethinking Coronary Revascularization in Severe Aortic Stenosis With Stable Coronary Artery Disease",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71019?af=R",
+    "doi": "10.1002/ccd.71019",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794914495.0,
+    "tags": [
+      "PCI",
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Transcatheter Aortic Valve Implantation in the Presence of Aortic Coarctation: Current Evidence and Practical Approaches",
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70982?af=R",
     "doi": "10.1002/ccd.70982",
@@ -5956,130 +6077,6 @@
     "date_ts": 1789540062.0,
     "tags": [
       "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826021825?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.073194,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ultrashort vs Standard-Duration Dual Antiplatelet Therapy in Acute Coronary Syndrome Patients Undergoing PCI: A Meta-Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020765?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.073162,
-    "tags": [
-      "ACS",
-      "PCI",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Shortening DAPT After Acute Coronary Syndromes: How Far Can We Go?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826021771?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.073132,
-    "tags": [
-      "ACS",
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clopidogrel or Aspirin for Long-Term Secondary Prevention in Patients With Diabetes: What Is the Smartest Choice?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826021655?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.073071,
-    "tags": [
-      "Pharmacology"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Diabetes on Outcomes of Contemporary PCI Guided by OCT vs Angiography: The ILUMIEN IV Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020777?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.073041,
-    "tags": [
-      "PCI",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "OCT-Guided PCI in Diabetes: Seeing More and Gaining Less, Optimized Stents But Persistent Risk",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020789?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.07301,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Surgical Bailout During TAVR: A Contemporary Analysis of the Centers for Medicare and Medicaid Services Database",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020820?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.07298,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Preserve the Heart Team: Surgical Backup Is Not Optional in TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826020856?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072953,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Rise of the Solo TAVR Operator: Alone, Unarmed, and Unafraid",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826021746?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072924,
-    "tags": [
-      "Structural"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long-Term Outcomes of Contemporary Balloon-Expandable TAVR in Bicuspid Aortic Valve: A Propensity-Matched Comparison to Tricuspid",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826018662?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531239.072887,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
