@@ -1,5 +1,17 @@
 [
   {
+    "title": "Beyond Continuation: Early Sodium\u2013Glucose Cotransporter 2 Inhibitor Initiation After Transcatheter Aortic Valve Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71037?af=R",
+    "doi": "10.1002/ccd.71037",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 20, 2026",
+    "date_ts": 1795165490.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
     "title": "Reduced Mortality With Low-Dose Rivaroxaban In Patients With Coronary Artery Disease: A Meta-Analysis",
     "link": "https://doi.org/10.25270/jic/26.00286",
     "doi": "10.25270/jic/26.00286",
@@ -6069,18 +6081,6 @@
     "date_ts": 1788220800.0,
     "tags": [
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reply: Unresolved mechanistic and safety questions from the GLUCO-TAVI trial",
-    "link": "https://doi.org/10.4244/eij-d-26-00723",
-    "doi": "10.4244/eij-d-26-00723",
-    "journal": "EuroIntervention",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "Structural"
     ],
     "hot": false
   }
