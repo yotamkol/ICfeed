@@ -1,5 +1,77 @@
 [
   {
+    "title": "Left Atrial Appendage Occlusion Versus Direct Oral Anticoagulation in Atrial Fibrillation Without Prior Major Bleeding",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70985?af=R",
+    "doi": "10.1002/ccd.70985",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 27, 2026",
+    "date_ts": 1795756505.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Characteristics, Mechanisms, and Management of Gore Cardioform Device\u2010Related Thrombosis: A Comprehensive Review",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71052?af=R",
+    "doi": "10.1002/ccd.71052",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795699218.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Significance of Midterm Platelet Count Reduction After Transcatheter Aortic Valve Replacement",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71049?af=R",
+    "doi": "10.1002/ccd.71049",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795697932.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "One\u2010Stop Catheter Ablation Combined With \u201cKissing\u201d Left Atrial Appendage Closure in a Patient With Dextrocardia and Atrial Fibrillation: A Case Report",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71057?af=R",
+    "doi": "10.1002/ccd.71057",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795697704.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Prevalence of a PFO in the General Population Matching Morphological Dimensions That Are Associated With Cryptogenic Stroke Is Significantly Less Than 25%",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71060?af=R",
+    "doi": "10.1002/ccd.71060",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795687173.0,
+    "tags": [
+      "Structural"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sex Differences in Response to Early Post\u2010Myocardial Infarction Cardiac Rehabilitation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.71062?af=R",
+    "doi": "10.1002/ccd.71062",
+    "journal": "Catheter Cardiovasc Interv",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795683553.0,
+    "tags": [
+      "ACS"
+    ],
+    "hot": false
+  },
+  {
     "title": "[Articles] Long-term outcomes after percutaneous coronary intervention with drug-eluting stents versus coronary artery bypass grafting for left main coronary artery disease: a prospective analysis of the multicentre IRIS-MAIN registry",
     "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02104-5/fulltext?rss=yes",
     "doi": "10.1016/S0140-6736(26)02104-5",
@@ -6002,79 +6074,6 @@
     "date_ts": 1790743466.454686,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reply: The Missing Variable: Intramural Hematoma Decompression Status",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826022053?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 30, 2026",
-    "date_ts": 1790743466.454646,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Full Issue PDF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1936879826023393?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Cardiovasc Interventions",
-    "date": "Sep 30, 2026",
-    "date_ts": 1790743466.454432,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Impact of Location on the Outcomes of Left Anterior Descending Artery Chronic Total Occlusion Percutaneous Coronary Intervention",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ccd.70922?af=R",
-    "doi": "10.1002/ccd.70922",
-    "journal": "Catheter Cardiovasc Interv",
-    "date": "Sep 29, 2026",
-    "date_ts": 1790662793.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A comparison between visual, robotic, and intracoronary imaging lesion length assessment during robotic-assisted percutaneous coronary intervention",
-    "link": "https://doi.org/10.25270/jic/26.00208",
-    "doi": "10.25270/jic/26.00208",
-    "journal": "J Invasive Cardiology",
-    "date": "Sep 29, 2026",
-    "date_ts": 1790640000.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Microaxial flow pump in high-risk PCI: proof of promise?",
-    "link": "https://doi.org/10.1093/eurheartj/ehag719",
-    "doi": "10.1093/eurheartj/ehag719",
-    "journal": "European Heart Journal",
-    "date": "Sep 29, 2026",
-    "date_ts": 1790640000.0,
-    "tags": [
-      "PCI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "What does fractional flow reserve measure after transcatheter aortic valve implantation?",
-    "link": "https://doi.org/10.1093/eurheartj/ehag777",
-    "doi": "10.1093/eurheartj/ehag777",
-    "journal": "European Heart Journal",
-    "date": "Sep 29, 2026",
-    "date_ts": 1790640000.0,
-    "tags": [
-      "Structural",
-      "Imaging"
     ],
     "hot": false
   }
